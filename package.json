@@ -1,0 +1,12 @@
+{
+  "name": "islamic-hive-mind",
+  "version": "0.1.0",
+  "description": "Islamic knowledge base — Quran text corpus with numerical pattern analysis",
+  "private": true,
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.0.0"
+  }
+}

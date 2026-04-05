@@ -1,0 +1,27 @@
+# Data files (large, downloaded)
+data/quran/*.xml
+data/quran/translations/
+data/quran/transliteration/
+data/quran/morphology/
+
+# Database
+db/*.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Generated visualizations (can regenerate)
+visualizations/*.html
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
