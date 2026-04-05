@@ -41,6 +41,9 @@ islamic-hive-mind/
 │   ├── app/
 │   │   ├── layout.tsx                ← Root layout: fonts, theme, metadata, chat provider
 │   │   ├── page.tsx                  ← Landing page
+│   │   ├── quran/
+│   │   │   ├── page.tsx              ← Surah list (114 cards, server-rendered)
+│   │   │   └── [id]/page.tsx         ← Individual surah page (all verses, server-rendered)
 │   │   ├── ask/
 │   │   │   └── page.tsx              ← Full-page chatbot experience
 │   │   ├── api/
@@ -61,7 +64,8 @@ islamic-hive-mind/
 │   │   │   ├── FloatingChatButton.tsx ← Gold geometric button, bottom-right
 │   │   │   └── SuggestedQuestions.tsx ← Starter question chips
 │   │   ├── quran/
-│   │   │   └── QuranVerse.tsx        ← Reusable: Arabic (Amiri) + transliteration + English
+│   │   │   ├── QuranVerse.tsx        ← Reusable: Arabic (Amiri) + transliteration + English
+│   │   │   └── SurahCard.tsx         ← Surah card for list page
 │   │   ├── layout/
 │   │   │   ├── Header.tsx            ← Site header with nav
 │   │   │   └── Footer.tsx            ← Site footer
@@ -72,15 +76,15 @@ islamic-hive-mind/
 │   │       └── LoadingDots.tsx       ← Typing indicator for chat
 │   ├── lib/
 │   │   ├── db.ts                     ← Unified async database abstraction
-│   │   ├── quran.ts                  �� Quran query functions (all async)
-│   │   ├── chat-context.ts           ← RAG pipeline: analyze intent → query DB → build context
+│   │   ├── quran.ts                  ← Quran query functions (all async)
+│   │   ├── chat-context.ts           ← RAG: intent classify → query DB → build context
 │   │   └── prompts.ts               ← System prompt for The Scholar chatbot
 │   ├── hooks/
 │   │   └── useChat.ts               ← Custom hook for chat state + streaming
 │   ├── types/
 │   │   └── index.ts                  ← TypeScript types for Surah, Ayah, Word, etc.
 │   ├── public/
-│   │   ├── fonts/                    ← Amiri font files (self-hosted for performance)
+│   │   ├── fonts/                    ← Amiri font files + OFL license (self-hosted)
 │   │   └── patterns/                 ← Islamic geometric SVG patterns
 │   ├── next.config.ts
 │   ├── tailwind.config.ts
@@ -88,7 +92,7 @@ islamic-hive-mind/
 │   ├── package.json
 │   └── .env.local                    ← ANTHROPIC_API_KEY, TURSO_DATABASE_URL, etc.
 ├── db/hive-mind.db                   ← Existing SQLite database (unchanged)
-├���─ scripts/                          ← Existing Python pipeline (unchanged)
+├── scripts/                          ← Existing Python pipeline (unchanged)
 └── ...
 ```
 
@@ -135,11 +139,18 @@ The Next.js app lives in `web/` to cleanly separate it from the Python data pipe
 
 ### Typography
 
-- **Arabic Quranic text:** Amiri, 24-32px, `dir="rtl"`, white on dark
+- **Arabic Quranic text:** Amiri, 24-32px, `dir="rtl"`, white on dark, `line-height: 2.2em` minimum (accommodates tashkeel/diacritical marks above and below letters)
 - **English body:** Inter, 16px, cream on dark
 - **Transliteration:** Inter italic, 14px, muted gray
 - **Code/numbers:** JetBrains Mono, 14px
 - **Headings:** Inter, semibold, with subtle gold underline accents
+
+**Arabic text isolation:** Arabic blocks are always rendered in their own `<div dir="rtl">`, never inline with English text. This prevents bidirectional text rendering issues.
+
+### Font Licensing
+
+- **Amiri:** Licensed under the SIL Open Font License (OFL). The OFL license file MUST be included in `public/fonts/OFL.txt`.
+- **Inter:** Licensed under the SIL Open Font License.
 
 ### Spacing & Layout
 
@@ -152,9 +163,39 @@ The Next.js app lives in `web/` to cleanly separate it from the Python data pipe
 
 - Cards: `bg-secondary` with subtle border, rounded-xl, hover glow effect
 - Buttons: Gold accent for primary, ghost/outline for secondary
-- Arabic text blocks: Special styling with Amiri font, large size, centered, RTL
+- Arabic text blocks: Isolated div with Amiri font, large size, centered, RTL, 2.2em line-height
 - Loading states: Pulsing gold dots for chat, skeleton cards for content
 - Confidence tier badges: Color-coded labels (Tier 1-6) displayed on chat messages and content
+
+## Quran Reader Pages (Server-Rendered Proof of Concept)
+
+These are read-only, server-rendered pages. No client-side complexity. They prove:
+- Database connection works
+- Arabic rendering works (RTL, Amiri font, diacritics)
+- QuranVerse component works
+- The API layer works
+
+### Surah List Page (`/quran`)
+
+Displays all 114 surahs as cards. Each card shows:
+- Arabic name (Amiri font, RTL)
+- English name
+- Transliteration
+- Verse count
+- Revelation type badge (Meccan = teal, Medinan = amber)
+- Juz range
+
+Data fetched server-side via `getSurahStats()`. No client JavaScript needed.
+
+### Individual Surah Page (`/quran/[id]`)
+
+Shows:
+- Surah header: Arabic name, English name, transliteration, revelation type, verse count
+- Bismillah (if `surah.bismillah` is true) rendered with QuranVerse component
+- Every verse rendered with QuranVerse component: Arabic (large Amiri, RTL), transliteration, English translation
+- Verse numbers displayed as gold badges
+
+Data fetched server-side via `getSurah(id)` + `getSurahVerses(id)`. No client JavaScript needed.
 
 ## Database Layer
 
@@ -227,14 +268,14 @@ All functions are async and use the unified Database interface:
 ```typescript
 async getSurah(id: number): Promise<Surah>
 async getSurahVerses(id: number): Promise<Ayah[]>
+async getSurahStats(): Promise<SurahStats[]>        // All 114 surahs for list page
 async getVerse(surah: number, verse: number): Promise<Ayah>
 async getVerseWords(surah: number, verse: number): Promise<Word[]>
 async searchByRoot(root: string): Promise<SearchResult[]>
 async searchByEnglish(query: string): Promise<SearchResult[]>
 async getWordFrequency(root: string): Promise<FrequencyResult>
-async getSurahStats(): Promise<SurahStats[]>
 async getPatterns(): Promise<Pattern[]>
-async getRandomVerse(): Promise<Ayah>  // For landing page verse display
+async getRandomVerse(): Promise<Ayah>                // For landing page verse display
 ```
 
 ### API Routes (Next.js App Router Dynamic Segments)
@@ -259,6 +300,35 @@ export async function GET(
 ```
 
 Search remains query-parameter based because search queries are naturally key-value pairs.
+
+## SEO & Meta Tags
+
+```typescript
+// app/layout.tsx — Root metadata
+export const metadata: Metadata = {
+  title: {
+    default: 'Islamic Hive Mind — A Living Islamic Knowledge Base',
+    template: '%s | Islamic Hive Mind',
+  },
+  description: 'Explore the Quran with full Arabic text, English translation, word-by-word analysis, and an AI-powered Islamic scholar.',
+  openGraph: {
+    type: 'website',
+    locale: 'en_US',
+    siteName: 'Islamic Hive Mind',
+  },
+};
+
+// app/quran/[id]/page.tsx — Per-surah metadata
+export async function generateMetadata({ params }): Promise<Metadata> {
+  const surah = await getSurah(parseInt(params.id));
+  return {
+    title: `Surah ${surah.name_english} (${surah.name_transliteration})`,
+    description: `Read Surah ${surah.name_english} — ${surah.verse_count} verses, ${surah.revelation_type}. Full Arabic text with English translation and transliteration.`,
+  };
+}
+```
+
+All Quran pages use `generateStaticParams()` to pre-render at build time (114 surah pages).
 
 ## AI Chatbot — "The Scholar"
 
@@ -324,16 +394,70 @@ Be transparent about these limitations when relevant.
 
 ### RAG Pipeline (`lib/chat-context.ts`)
 
-**Step 1: Intent Classification**
+**Step 1: Intent Classification (V1 — Keyword/Regex)**
 
-Analyze the user's message to determine query type:
-- `verse_lookup` — asking about a specific verse → fetch from ayat table
-- `word_query` — asking about a word/concept → search words table by root or English
-- `pattern_query` — asking about numerical patterns → fetch from patterns table
-- `surah_info` — asking about a surah → fetch surah metadata
-- `story_request` — asking for a narrative → fetch relevant verses from the database
-- `general_islamic` — general question → provide minimal DB context, chatbot uses its knowledge with appropriate tier markings
-- `out_of_scope` — asking about hadiths, duas, or data not yet in the system → trigger Tier 6 response
+V1 uses explicit keyword and regex matching. No embeddings, no ML. Simple, debuggable, reliable.
+
+```typescript
+const INTENT_PATTERNS: Record<IntentType, RegExp[]> = {
+  verse_lookup: [
+    /surah\s+\d+.*verse\s+\d+/i,
+    /\d+:\d+/,                              // Pattern like "2:255"
+    /ayah?\s+\d+/i,
+    /verse\s+\d+\s+of/i,
+  ],
+  word_query: [
+    /how many times.*(?:appear|mention|occur)/i,
+    /word\s+["']?\w+["']?.*(?:quran|appear)/i,
+    /frequency of/i,
+    /root\s+[أ-ي]{2,4}/,                    // Arabic root pattern
+    /meaning of.*(?:arabic|word)/i,
+  ],
+  pattern_query: [
+    /number\s*19/i,
+    /pattern/i,
+    /numerical.*(?:miracle|discovery|finding)/i,
+    /abjad/i,
+    /gematria/i,
+  ],
+  surah_info: [
+    /(?:what|tell|about).*surah\s+/i,
+    /surah\s+(?:al-?)?[a-z]+(?!\s*\d)/i,    // Surah name without verse number
+  ],
+  story_request: [
+    /story of/i,
+    /tell me about (?:prophet|imam)/i,
+    /what happened (?:at|in|during)\s+(?:karbala|ghadir|saqifa|badr|uhud)/i,
+  ],
+  fiqh_ruling: [
+    /is it (?:halal|haram|makruh|mustahab|wajib)/i,
+    /ruling on/i,
+    /fatwa/i,
+    /can (?:i|we|muslims)\s+(?:eat|drink|pray|fast|marry|divorce)/i,
+    /how (?:do i|should i|to)\s+(?:pray|fast|perform)/i,
+  ],
+  hadith_request: [
+    /hadith.*(?:about|on|regarding)/i,
+    /(?:prophet|imam).*(?:said|narrated|reported)/i,
+    /al-?kafi/i,
+    /sahih\s+(?:bukhari|muslim)/i,
+    /is this hadith (?:authentic|sahih|real)/i,
+  ],
+};
+
+function classifyIntent(message: string): IntentType {
+  for (const [intent, patterns] of Object.entries(INTENT_PATTERNS)) {
+    for (const pattern of patterns) {
+      if (pattern.test(message)) return intent as IntentType;
+    }
+  }
+  return 'general_islamic'; // Fallback
+}
+```
+
+**Intent-specific handling:**
+- `fiqh_ruling`: Skip RAG. Return directly: "For fiqh rulings, please consult your marja'. I can share relevant Quran verses if you'd like."
+- `hadith_request`: Skip RAG. Return directly: "The hadith database has not been built yet. I cannot verify hadiths at this time. Please check with a qualified scholar or a reliable hadith collection such as Al-Kafi."
 
 **Step 2: Database Query**
 
@@ -343,11 +467,11 @@ Based on intent, run targeted queries. All queries go through `lib/quran.ts`:
 - For `pattern_query`: `getPatterns()` → relevant verified patterns with methodology notes
 - For `surah_info`: `getSurah(id)` + first 3 verses + last verse
 - For `story_request`: search English text for relevant keywords → return matching verses
-- For `out_of_scope`: no DB query, construct a Tier 6 context message
+- For `general_islamic`: no DB query needed, provide minimal context
 
 **Step 3: Context Construction**
 
-Build a context block (max ~2,000 tokens) with the retrieved data formatted as structured text. Every verse includes: Arabic (Uthmani), transliteration, and English translation. Context is prefixed with a note indicating which database tables were queried.
+Build a context block (max ~2,000 tokens) with the retrieved data formatted as structured text. Every verse includes: Arabic (Uthmani), transliteration, and English translation. Context is prefixed with a note indicating which database tables were queried and what the query returned.
 
 **Step 4: Model Selection**
 
@@ -417,8 +541,8 @@ interface ChatState {
 
 ```
 ┌─────────────────────────────────────────────┐
-│  Header: Logo + Nav (Stories, Discoveries,   │
-│          Ask The Scholar)                     │
+│  Header: Logo + Nav (Quran, Stories,         │
+│          Discoveries, Ask The Scholar)        │
 ├─────────────────────────────────────────────┤
 │                                              │
 │  HERO SECTION                                │
@@ -433,9 +557,9 @@ interface ChatState {
 │                                              │
 │  FEATURES SECTION (3 cards)                  │
 │  ┌──────────┐ ┌──────────┐ ┌──────────┐    │
-│  │ Stories  │ │Discoveries│ │   Ask    │    │
-│  │(Coming   │ │(Coming    │ │  The     │    │
-│  │ Soon)    │ │ Soon)     │ │ Scholar  │    │
+│  │  Quran   │ │ Stories  │ │   Ask    │    │
+│  │  Reader  │ │(Coming   │ │  The     │    │
+│  │  [Live]  │ │ Soon)    │ │ Scholar  │    │
 │  └──────────┘ └──────────┘ └──────────┘    │
 │                                              │
 ├─────────────────────────────────────────────┤
@@ -467,15 +591,28 @@ NEXT_PUBLIC_SITE_URL=https://islamichivemind.com
 
 ## Verification Plan
 
-1. **Database API:** Hit `/api/quran/surah/1` in the browser, verify JSON matches DB content for Al-Fatiha (7 verses, correct Arabic)
-2. **Verse endpoint:** Hit `/api/quran/verse/2/255` (Ayat al-Kursi), verify full Arabic + English + transliteration + word data
-3. **Search endpoint:** Hit `/api/quran/search?q=mercy&type=english`, verify results contain relevant verses
-4. **QuranVerse component:** Render Al-Fatiha 1:1 — verify Arabic displays in Amiri font, RTL, with English and transliteration below
-5. **Chatbot Zero-Guess test:** Ask "What is the hadith about..." → verify chatbot responds with Tier 6 (hadith database not available) instead of fabricating
-6. **Chatbot RAG test:** Ask "How many times does mercy appear?" → verify DB query runs and EXACT count from database is included in response
-7. **Chatbot verse test:** Ask "Show me Surah Al-Ikhlas" → verify all 4 verses are fetched from database, not generated from memory
-8. **Model switching:** Toggle to Sonnet, ask a question, verify response comes from the correct model
-9. **Mobile responsive:** Test chat panel on 375px viewport — full-screen mode, readable Arabic
-10. **Dark theme:** Verify all text is readable, no white backgrounds flash
-11. **localStorage:** Send messages, refresh page, verify history persists
-12. **Confidence tiers:** Ask a theological question → verify response includes appropriate tier label
+### Phase A: Quran Reader (Server-Rendered Proof of Concept)
+1. **Surah list page:** Navigate to `/quran` — verify all 114 surahs render as cards with Arabic names (Amiri font, RTL), English names, verse counts, and Meccan/Medinan badges
+2. **Surah page:** Navigate to `/quran/1` — verify Al-Fatiha header + Bismillah + all 7 verses render with Arabic (large Amiri, RTL, diacritics visible), transliteration, and English
+3. **Long surah:** Navigate to `/quran/2` — verify Al-Baqarah (286 verses) renders without timeout or layout issues
+4. **No Bismillah:** Navigate to `/quran/9` — verify At-Tawbah renders WITHOUT Bismillah
+5. **Arabic line height:** Verify diacritical marks (tashkeel) above and below letters are fully visible, not clipped
+
+### Phase B: API Layer
+6. **Surah API:** Hit `/api/quran/surah/1` — verify JSON matches DB for Al-Fatiha
+7. **Verse API:** Hit `/api/quran/verse/2/255` (Ayat al-Kursi) — verify full Arabic + English + transliteration + word data
+8. **Search API:** Hit `/api/quran/search?q=mercy&type=english` — verify results contain relevant verses
+
+### Phase C: Chatbot
+9. **Zero-Guess test (hadith):** Ask "What is the hadith about..." → verify Tier 6 response (hadith DB not available), NOT a fabricated hadith
+10. **Zero-Guess test (fiqh):** Ask "Is it halal to..." → verify "consult your marja'" response, NOT a ruling
+11. **RAG test:** Ask "How many times does mercy appear?" → verify DB query runs and EXACT count from database is in response
+12. **Verse test:** Ask "Show me Surah Al-Ikhlas" → verify all 4 verses fetched from DB, not generated from memory
+13. **Model switching:** Toggle to Sonnet, ask question, verify correct model used
+14. **Streaming:** Verify response streams token-by-token, not all at once
+
+### Phase D: Cross-Cutting
+15. **Mobile responsive:** Test all pages on 375px viewport
+16. **Dark theme:** Verify no white backgrounds flash on any page
+17. **localStorage:** Chat messages persist across page refresh
+18. **SEO:** Check page source for correct meta tags, Open Graph data on surah pages
