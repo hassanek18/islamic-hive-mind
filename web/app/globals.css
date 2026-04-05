@@ -1,0 +1,27 @@
+@import "tailwindcss";
+@config "../tailwind.config.ts";
+
+@layer base {
+  :root {
+    --bg-primary: #0a0e1a;
+    --bg-secondary: #111827;
+    --bg-chat: #1a1f35;
+    --accent-gold: #d4a843;
+    --accent-gold-dim: #b8942f;
+    --text-primary: #f5f0e8;
+    --text-secondary: #9ca3af;
+  }
+
+  body {
+    @apply bg-bg-primary text-text-primary;
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+
+  .arabic-text {
+    font-family: 'Amiri', serif;
+    direction: rtl;
+    text-align: right;
+    line-height: 2.2em;
+    color: white;
+  }
+}
