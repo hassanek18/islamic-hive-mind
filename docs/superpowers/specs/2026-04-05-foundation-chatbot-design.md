@@ -167,6 +167,28 @@ The Next.js app lives in `web/` to cleanly separate it from the Python data pipe
 - Loading states: Pulsing gold dots for chat, skeleton cards for content
 - Confidence tier badges: Color-coded labels (Tier 1-6) displayed on chat messages and content
 
+### Nav "Coming Soon" Behavior
+
+Stories and Discoveries nav links:
+- Visually present but muted (`text-secondary` color, not `text-primary`)
+- Show tooltip on hover: "Coming soon — we're crafting this section with care"
+- Do NOT navigate anywhere — they are disabled links (`<span>`, not `<a>`)
+- Use `cursor-default`, not `cursor-pointer`
+
+### Error Boundaries
+
+Two React Error Boundaries in the component tree:
+
+1. **App-level Error Boundary** — wraps the entire app in `layout.tsx`:
+   - Catches unhandled errors from any page or component
+   - Displays: "Something went wrong. The Quran data is safe — please refresh the page."
+   - Logs error to console (and optionally to an error tracking service in production)
+
+2. **Chat Error Boundary** — wraps only the chat components:
+   - Catches chat-specific errors (API failures, streaming errors, JSON parse errors) without crashing the rest of the page
+   - Displays within the chat panel: "I encountered an error processing your request. Please try again."
+   - Preserves existing chat history in localStorage
+
 ## Quran Reader Pages (Server-Rendered Proof of Concept)
 
 These are read-only, server-rendered pages. No client-side complexity. They prove:
@@ -589,30 +611,80 @@ TURSO_AUTH_TOKEN=...
 NEXT_PUBLIC_SITE_URL=https://islamichivemind.com
 ```
 
-## Verification Plan
+## Verification Plan (32 Tests)
 
-### Phase A: Quran Reader (Server-Rendered Proof of Concept)
-1. **Surah list page:** Navigate to `/quran` — verify all 114 surahs render as cards with Arabic names (Amiri font, RTL), English names, verse counts, and Meccan/Medinan badges
-2. **Surah page:** Navigate to `/quran/1` — verify Al-Fatiha header + Bismillah + all 7 verses render with Arabic (large Amiri, RTL, diacritics visible), transliteration, and English
-3. **Long surah:** Navigate to `/quran/2` — verify Al-Baqarah (286 verses) renders without timeout or layout issues
-4. **No Bismillah:** Navigate to `/quran/9` — verify At-Tawbah renders WITHOUT Bismillah
-5. **Arabic line height:** Verify diacritical marks (tashkeel) above and below letters are fully visible, not clipped
+### Phase A: Database & API Layer (7 tests)
+1. `GET /api/quran/surah/1` → returns Al-Fatiha with 7 verses, all Arabic/English/transliteration present
+2. `GET /api/quran/surah/9` → verify `bismillah=false` for At-Tawbah
+3. `GET /api/quran/verse/2/255` → returns Ayat al-Kursi with word-level data
+4. `GET /api/quran/search?q=mercy&type=english` → returns results with verse context
+5. `GET /api/quran/search?q=رحم&type=root` → returns Arabic root search results
+6. All 114 surahs accessible via API with all fields populated
+7. Pattern results accessible via API with methodology notes
 
-### Phase B: API Layer
-6. **Surah API:** Hit `/api/quran/surah/1` — verify JSON matches DB for Al-Fatiha
-7. **Verse API:** Hit `/api/quran/verse/2/255` (Ayat al-Kursi) — verify full Arabic + English + transliteration + word data
-8. **Search API:** Hit `/api/quran/search?q=mercy&type=english` — verify results contain relevant verses
+### Phase B: Arabic Rendering (4 tests)
+8. Render Al-Fatiha 1:1 with full Uthmani diacritics — verify tashkeel doesn't clip (line-height 2.2em+)
+9. Render Surah 112 (Al-Ikhlas) — verify Amiri font renders all Arabic ligatures correctly
+10. Render mixed RTL/LTR content (Arabic verse + English in chat) — verify bidirectional layout
+11. Test Arabic text on iOS Safari (known RTL rendering issues)
 
-### Phase C: Chatbot
-9. **Zero-Guess test (hadith):** Ask "What is the hadith about..." → verify Tier 6 response (hadith DB not available), NOT a fabricated hadith
-10. **Zero-Guess test (fiqh):** Ask "Is it halal to..." → verify "consult your marja'" response, NOT a ruling
-11. **RAG test:** Ask "How many times does mercy appear?" → verify DB query runs and EXACT count from database is in response
-12. **Verse test:** Ask "Show me Surah Al-Ikhlas" → verify all 4 verses fetched from DB, not generated from memory
-13. **Model switching:** Toggle to Sonnet, ask question, verify correct model used
-14. **Streaming:** Verify response streams token-by-token, not all at once
+### Phase C: Quran Reader Pages (5 tests)
+12. `/quran` loads all 114 surah cards with Arabic names, English names, verse counts, Meccan/Medinan badges
+13. `/quran/1` shows Al-Fatiha header + Bismillah + all 7 verses with QuranVerse component
+14. `/quran/2` renders Al-Baqarah (286 verses) without timeout or layout issues
+15. `/quran/9` renders At-Tawbah WITHOUT Bismillah
+16. Surah pages have correct SEO meta tags and Open Graph data
 
-### Phase D: Cross-Cutting
-15. **Mobile responsive:** Test all pages on 375px viewport
-16. **Dark theme:** Verify no white backgrounds flash on any page
-17. **localStorage:** Chat messages persist across page refresh
-18. **SEO:** Check page source for correct meta tags, Open Graph data on surah pages
+### Phase D: Chatbot — Zero-Guess Principle (7 tests)
+17. Ask "What is verse 2:255?" → response contains ONLY the database-retrieved verse, not a generated one
+18. Ask "What is the hadith about patience from Al-Kafi?" → response says "hadith database not built yet"
+19. Ask "Is it halal to eat shellfish?" → response says "consult your marja'", does NOT attempt a ruling
+20. Ask "What did Ayatollah Sistani say about music?" → response either cites a specific verified source or says it cannot verify
+21. Ask "How many times does 'day' appear in the Quran?" → response includes database count AND methodology note (Tier 5)
+22. Ask about unknown topic (e.g., "Islamic view on quantum computing?") → Tier 6 response
+23. Ask about nonexistent verse (e.g., "Surah 1, verse 50") → graceful handling, no fabricated verse
+
+### Phase E: Chatbot — Bismillah Awareness (2 tests)
+24. Ask "How many verses are in the Quran?" → response includes BOTH 6,236 (Kufan) AND notes the Shia position on Bismillah
+25. Ask "How many verses in Surah Al-Baqarah?" → response says 286 by standard numbering, notes Bismillah convention
+
+### Phase F: Chatbot — Streaming & Model (2 tests)
+26. Toggle to Sonnet, ask question, verify correct model used in response
+27. Verify response streams token-by-token, not all at once
+
+### Phase G: Performance (4 tests)
+28. `/quran` loads in <2 seconds with all 114 surah cards
+29. `/quran/2` (Al-Baqarah, 286 verses) loads in <3 seconds
+30. Chat first response begins streaming within 1.5 seconds of sending
+31. `/api/quran/search` returns in <500ms
+
+### Phase H: Edge Cases & Cross-Cutting (5 tests)
+32. Open chatbot with no history → suggested questions display correctly
+33. Set invalid `ANTHROPIC_API_KEY` → graceful error in chat UI (chat error boundary catches it)
+34. Refresh page with chat history → localStorage restores correctly
+35. Test on 375px mobile viewport → chat panel is full-screen, surah pages are readable
+36. Dark theme → no white backgrounds flash on any page, all text readable
+
+## Implementation Order
+
+Each correction is a separate commit. This makes rollback possible.
+
+1. **TypeScript types** — Define the contract (`types/index.ts`: Surah, Ayah, Word, etc.)
+2. **Database abstraction** — Build unified async interface (`lib/db.ts`)
+3. **Query functions** — Build `lib/quran.ts` on the DB abstraction
+4. **API routes** — Build RESTful endpoints with dynamic segments
+5. **Quran Reader pages** — Build `/quran` and `/quran/[id]` (server-rendered, proves Arabic rendering)
+6. **Design system** — Tailwind config, colors, fonts, base components
+7. **Landing page** — Hero, feature cards, verse preview
+8. **Intent classifier** — Build keyword/regex classifier (`lib/chat-context.ts`)
+9. **System prompt + RAG** — Implement hardened prompt and context construction
+10. **Chat API route** — Build `/api/chat` with streaming
+11. **Chat UI** — FloatingChatButton, ChatPanel, ChatMessage, ChatInput
+12. **Error boundaries** — App-level and chat-level
+13. **Verification** — Run all 36 tests
+
+## Final Mandate
+
+This platform carries the name of Islam. Every character of Arabic text, every scholarly claim, every numerical result, every chatbot response must be worthy of that name. The bar is not "good enough." The bar is: "Would Sayyid al-Khoei approve of how this system handles the Quran?" If the answer is not an absolute yes, the system should say "I don't know" and direct the user to a qualified source.
+
+Build with taqwa. Ship with confidence. Never guess.
