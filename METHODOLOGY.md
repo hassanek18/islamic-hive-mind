@@ -65,6 +65,13 @@ Example: بِسْمِ (bismi) = 1 word containing prefix بِ + stem اسْمِ
 **Total word count: 77,429** — this means 77,429 space-delimited tokens
 per the Leeds Corpus segmentation.
 
+**Total letter count: 325,665** — includes all 28 standard Arabic letters
+plus hamza variants, ta marbuta (ة), alif maqsura (ى), and alif wasla (ٱ).
+Diacritics excluded. Shadda counted as single letter.
+
+**Total Abjad value: 23,381,357** — sum of all verse Abjad values using
+the Eastern Arabic (Mashriqi) system with ة→5 and ى→10.
+
 ## Letter Counting
 
 ### Characters Counted as Letters

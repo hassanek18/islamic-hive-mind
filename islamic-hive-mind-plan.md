@@ -150,8 +150,8 @@ After import, verify against known Quran statistics:
 |---|---|---|
 | Total surahs | 114 | Count surahs |
 | Total ayat | 6,236 | Count ayat |
-| Total words | ~77,430 (varies by counting method) | Count words |
-| Total letters | ~323,671 (varies by script) | Count letters |
+| Total words | 77,429 (Leeds Corpus segmentation, Hafs reading) | Count words |
+| Total letters | 325,665 (includes ta marbuta, alif maqsura, alif wasla) | Count letters |
 | Meccan surahs | 86 | Count where revelation_type = 'meccan' |
 | Medinan surahs | 28 | Count where revelation_type = 'medinan' |
 | Surahs with Bismillah | 113 (all except At-Tawbah) | Count where bismillah = true |
