@@ -3,6 +3,7 @@ import {
   getVerse, getVerseWords, getSurah, getSurahVerses,
   searchByRoot, searchByEnglish, getWordFrequency, getPatterns
 } from './quran';
+import { searchHadithByTopic, getDuaByName } from './hadith';
 
 const INTENT_PATTERNS: Record<string, RegExp[]> = {
   verse_lookup: [
@@ -46,11 +47,18 @@ const INTENT_PATTERNS: Record<string, RegExp[]> = {
     /sahih\s+(?:bukhari|muslim)/i,
     /is this hadith (?:authentic|sahih|real)/i,
   ],
+  dua_request: [
+    /dua\s+/i,
+    /supplication/i,
+    /ziyarat/i,
+    /sahifa/i,
+    /mafatih/i,
+    /what (?:dua|prayer|supplication).*(?:read|recite)/i,
+  ],
 };
 
 const DIRECT_RESPONSES: Record<string, string> = {
   fiqh_ruling: "For fiqh rulings, please consult your marja' (religious authority). Each marja' may have a different ruling on this matter. I can share relevant Quran verses if you'd like — just let me know the topic.",
-  hadith_request: "The hadith database has not been built yet. I cannot verify hadiths at this time. Please check with a qualified scholar or a reliable hadith collection such as Al-Kafi by Al-Kulayni, Man La Yahduruhu al-Faqih by Sheikh Saduq, or other authenticated sources.",
 };
 
 export function classifyIntent(message: string): IntentType {
@@ -160,6 +168,40 @@ export async function buildContext(intent: IntentType, message: string): Promise
           context += `${r.surah_name_english} (${r.surah_id}:${r.verse_number}):\n`;
           context += `  Arabic: ${r.text_arabic}\n`;
           context += `  English: ${r.text_english || 'N/A'}\n\n`;
+        }
+        break;
+      }
+      case 'hadith_request': {
+        const term = extractSearchTerm(message);
+        const hadiths = await searchHadithByTopic(term);
+        context = `[Database Query: hadiths table, search for "${term}"]\n`;
+        context += `Found ${hadiths.length} hadiths:\n\n`;
+        for (const h of hadiths.slice(0, 5)) {
+          context += `Source: ${h.source_book} (${h.tradition}, grade: ${h.grade})\n`;
+          if (h.matn_arabic) context += `Arabic: ${h.matn_arabic.slice(0, 200)}\n`;
+          if (h.matn_english) context += `English: ${h.matn_english.slice(0, 300)}\n`;
+          context += '\n';
+        }
+        if (hadiths.length === 0) {
+          context += 'No hadiths found matching this topic in the database.\n';
+        }
+        context += '\nIMPORTANT: Only cite hadiths shown above. Do not fabricate any hadith.\n';
+        break;
+      }
+      case 'dua_request': {
+        const term = extractSearchTerm(message);
+        const dua = await getDuaByName(term);
+        if (dua) {
+          context = `[Database Query: duas table, found "${dua.name_english}"]\n\n`;
+          context += `Name: ${dua.name_english} (${dua.name_transliteration})\n`;
+          context += `Arabic name: ${dua.name_arabic}\n`;
+          context += `Category: ${dua.category}\n`;
+          context += `Attributed to: ${dua.attributed_to}\n`;
+          if (dua.occasion) context += `Occasion: ${dua.occasion}\n`;
+          if (dua.text_arabic) context += `\nArabic (excerpt): ${dua.text_arabic.slice(0, 500)}\n`;
+          if (dua.text_english) context += `\nEnglish (excerpt): ${dua.text_english.slice(0, 500)}\n`;
+        } else {
+          context = `[Database Query: no dua found matching "${term}"]\n`;
         }
         break;
       }

@@ -88,6 +88,7 @@ export type IntentType =
   | 'story_request'
   | 'fiqh_ruling'
   | 'hadith_request'
+  | 'dua_request'
   | 'general_islamic';
 
 export interface ChatMessage {
