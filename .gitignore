@@ -1,11 +1,6 @@
-# Data files (large, downloaded)
-data/quran/*.xml
-data/quran/translations/
-data/quran/transliteration/
-data/quran/morphology/
-
-# Database
-db/*.db
+# Data files (large, downloaded) — re-download on fresh clone
+data/
+db/
 
 # Python
 __pycache__/
