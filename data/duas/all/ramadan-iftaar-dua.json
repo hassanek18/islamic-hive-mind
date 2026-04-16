@@ -1,0 +1,679 @@
+{
+  "id": "ramadan-iftaar-dua",
+  "title": "Dua to be recited at iftaar (ending the fast)",
+  "featured": false,
+  "relatedLinks": [
+    {
+      "text": "PDF",
+      "url": "https://www.duas.org/ramadhanpdfs/Amaal%20at%20the%20time%20of%20Iftaar.pdf"
+    },
+    {
+      "text": "PDF - Iqbaal-al-amaal",
+      "url": "https://www.duas.org/pdfs/Iftar%20duas%20iqbal.pdf"
+    },
+    {
+      "text": "Ettiquettes",
+      "url": "https://www.duas.org/pdfs/adaab_iftaar.pdf"
+    },
+    {
+      "text": "Eating Etiquettes (adaab)",
+      "url": "https://www.duas.org/eating.htm"
+    }
+  ],
+  "duas": [
+    {
+      "type": "banner",
+      "smallTitle": "Iftaar - Ending the fast",
+      "mainTitle": "Duas to be recited at the time of Iftaar (ending the fast)",
+      "details": "",
+      "subDetails": "",
+      "youtube": "https://youtu.be/2d0DZ-eQW38",
+      "buttonLink": "",
+      "title": "Duas to be recited at the time of Iftaar (ending the fast)"
+    },
+    {
+      "type": "text",
+      "title": "Amal At The Time Of Iftar",
+      "content": "Ayatollah Ruhullah Karahvi suggests this 4 Amal At The Time Of Iftar to get the 'approval stamp' of Imam (ajtfs)<hr>\n1) Recite <b>Sura Fatiha</b> for Lady Nargis Khatoon mother of Imam Zaman(ajtfs)<hr>\n2) Say a Salam to Imam Mahdi (ajtfs) <b>\"Assalmao Alayka Ya Sahib Asr wal zaman \"</b><hr>\n3) Say a salam to Imam Hussain ( as) <b>\"Asalaamo alayka Ya Aba Abdillah\"</b><hr>\n4.Dua Hujjah- <b>Allhumma Kunle waiyekal</b><hr>"
+    },
+    {
+      "type": "link-button",
+      "buttons": [
+        {
+          "text": "Dua Noor",
+          "color": "blue",
+          "link": "https://duas.org/ramadan-iftaar-dua-noor.html"
+        }
+      ]
+    },
+    {
+      "type": "dua",
+      "id": "dua-1",
+      "title": "Before Eating",
+      "description": "",
+      "segments": [
+        {
+          "arabic": "اللَّهُمَّ لَكَ صُمْتُ وَ عَلَى رِزْقِكَ أَفْطَرْتُ وَ عَلَيْكَ تَوَكَّلْتُ",
+          "transliteration": "Allaahumma Laka S'umtu Wa A'laa Rizqika Aft'artuwa A'layka Tawawkkaltu",
+          "translation": "O my Allah, for Thee, I fast, and with the food Thou gives me I break the fast, and I rely on Thee."
+        }
+      ],
+      "audio": "",
+      "youtube": "",
+      "reference": "",
+      "tags": [],
+      "meta": {
+        "featured": false,
+        "hasTiming": false,
+        "type": "Supplication",
+        "collection": "",
+        "purpose": [
+          "Praise Allah (swt)"
+        ],
+        "personalities": [],
+        "timing": {
+          "days": [],
+          "times": [
+            "Maghrib"
+          ],
+          "events": [],
+          "dates": [
+            {
+              "month": "Ramadan"
+            }
+          ]
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    },
+    {
+      "type": "dua",
+      "id": "dua-2",
+      "title": "Before Eating - Imam Ali (as)",
+      "description": "",
+      "segments": [
+        {
+          "arabic": "بِسْمِ اللَّهِ اللَّهُمَّ لَكَ صُمْنَا وَ عَلَى رِزْقِكَ أَفْطَرْنَا",
+          "transliteration": "Bismillah Allaahumma Laka S'umnaa Wa A'laa Rizqika Aft'arnaa",
+          "translation": "In the name of Allah, O Allah, we fast, and with the food Thou gives us we break the fast,"
+        },
+        {
+          "arabic": "فَتَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُ",
+          "transliteration": "Fa—Taqabbal Minnaa Innaka Antas Samee—U'l'a'leem",
+          "translation": "an obligation we fulfill, and Thou art Hearer, Knower"
+        }
+      ],
+      "audio": "",
+      "youtube": "",
+      "reference": "",
+      "tags": [],
+      "meta": {
+        "featured": false,
+        "hasTiming": false,
+        "type": "",
+        "collection": "",
+        "purpose": [
+          "Praise Allah (swt)"
+        ],
+        "personalities": [
+          "Imam Ali (as)"
+        ],
+        "timing": {
+          "days": [],
+          "times": [
+            "Maghrib"
+          ],
+          "events": [],
+          "dates": []
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    },
+    {
+      "type": "dua",
+      "id": "dua-3",
+      "title": "After 1st Morsel (first bite of food)",
+      "description": "",
+      "segments": [
+        {
+          "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ يَا وَاسِعَ الْمَغْفِرَةِ اغْفِرْ لِي",
+          "transliteration": "Bismillahir Rah'maanir Rah'eem Yaa Waasi—A'l Maghfirati Igfir Lee",
+          "translation": "In the name of Allah, the Beneficient, the Merciful, O He whose indulgence is boundless, forgive me"
+        }
+      ],
+      "audio": "",
+      "youtube": "",
+      "reference": "",
+      "tags": [],
+      "meta": {
+        "featured": false,
+        "hasTiming": false,
+        "type": "Supplication",
+        "collection": "",
+        "purpose": [],
+        "personalities": [],
+        "timing": {
+          "days": [],
+          "times": [],
+          "events": [],
+          "dates": []
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    },
+    {
+      "type": "dua",
+      "id": "dua-4",
+      "title": "Iqbal-al-Amaal (dua 1)",
+      "description": "",
+      "segments": [
+        {
+          "arabic": "يَا عَظيمُ يَا عَظيمُ أَنْتَ إِلٰهي لَا إِلٰهَ لِي غَيْرُك، اِغْفِرْ لِيَ اَلذَّنْبَ الْعَظيم، إِنَّهُ لَا يَغْفِرُ الذَّنْبَ الْعَظِيمَ إِلَّا الْعَظِيم",
+          "transliteration": "O Mighty O Mighty, there is no other God but You. Forgive my great sins, indeed who can forgive the great sins except the Mighty.",
+          "translation": "“There is no fasting servant who says this at Iftaar except that he is cleansed from sin like the day he was born.”-Holy Prophet (peace be upon him and his family)"
+        }
+      ],
+      "audio": "",
+      "youtube": "",
+      "reference": "",
+      "tags": [],
+      "meta": {
+        "featured": false,
+        "hasTiming": false,
+        "type": "Supplication",
+        "collection": "Iqbal Al Amaal",
+        "purpose": [],
+        "personalities": [],
+        "timing": {
+          "days": [],
+          "times": [],
+          "events": [],
+          "dates": []
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    },
+    {
+      "type": "dua",
+      "id": "dua-5",
+      "title": "Iqbal-al-Amaal (dua 2)",
+      "description": "The Prophet (as) – may the best peace be on him – has been narrated as saying, “All the past sins of whoever eats food and says the following will be forgiven,\n",
+      "segments": [
+        {
+          "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هَذَا مِنْ رِزْقِهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَ قُوَّةٍ",
+          "transliteration": "Alhamdu lillāhilladhī at‘amanī hādhā min rizqihi min ghayri hawlin minnī wa lā quwwah.",
+          "translation": "\"Praise be to God Who feeds me this from His Own Sustenance without me having to exert any efforts.‟"
+        }
+      ],
+      "audio": "",
+      "youtube": "",
+      "reference": "",
+      "tags": [],
+      "meta": {
+        "featured": false,
+        "hasTiming": false,
+        "type": "",
+        "collection": "",
+        "purpose": [],
+        "personalities": [],
+        "timing": {
+          "days": [],
+          "times": [],
+          "events": [],
+          "dates": []
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    },
+    {
+      "type": "dua",
+      "id": "dua-6",
+      "title": "Iqbal-al-Amaal (dua 3)",
+      "description": "The following supplications to be said at the time of eating is narrated through a chain of documents to Al-Tabarsi, narrated on the authority of the Ahlulbayt(as).\n",
+      "segments": [
+        {
+          "arabic": "الْحَمْدُ لِلَّهِ الَّذِي‌ يُطْعِمُ وَ لا يُطْعَمُ‌ وَ يُجِيرُ وَ لا يُجارُ عَلَيْهِ‌ وَ يَسْتَغْنِي وَ يُفْتَقَرُ إِلَيْهِ",
+          "transliteration": "Alhamdu lillahilladhi yutimu wa la yutam, wa yujiru wa la yujaru alayh, wa yastaghni wa yuftaqaru ilayh.",
+          "translation": "“Praise be to God who feeds but does not eat, who gives shelter but does not seek shelter, provides wealth but does not get poor."
+        },
+        {
+          "arabic": "اللَّهُمَّ لَكَ الْحَمْدُ عَلَى مَا رَزَقْتَنِي مِنْ طَعَامٍ وَ إِدَامٍ فِي يُسْرٍ مِنْكَ وَ عَافِيَةٍ مِنْ غَيْرِ كَدٍّ مِنِّي وَ مَشَقَّةٍ",
+          "transliteration": "Allahumma lakal hamdu ala ma razaqtani min taamin wa idamin fi yusrin minka wa afiyatin min ghayri kaddin minni wa mashaqqah.",
+          "translation": "O‟ my God! Praise belongs to You for the food and stew You have provided for me with ease and well-being for me and without me having to struggle hard."
+        },
+        {
+          "arabic": "بِسْمِ اللَّهِ خَيْرِ الْأَسْمَاءِ بِسْمِ اللَّهِ رَبِّ الْأَرْضِ وَ السَّمَاءِ بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْ‌ءٌ فِي الْأَرْضِ وَ لَا فِي السَّمَاءِ وَ هُوَ السَّمِيعُ الْعَلِيمُ‌",
+          "transliteration": "Bismillah khayril asma, bismillah rabbil ardi was-sama, bismillahilladhi la yadurru maasmihi shayun fil ardi wa la fis-samai wa huwas-samiul alim.",
+          "translation": "In the Name of God – the best of the Names. In the Name of God – Lord of the heavens and the earth. In the Name of God – By whose Name no one in the heavens or the earth can harm us. He is All-Hearing and All-Knowing."
+        },
+        {
+          "arabic": "اللَّهُمَّ أَسْعِدْنِي مِنْ [فِي‌] مَطْعَمِي هَذَا بِخَيْرِهِ وَ أَعِذْنِي مِنْ شَرِّهِ وَ أَمْتِعْنِي مِنْ نَفْعِهِ وَ سَلِّمْنِي مِنْ ضَرِّهِ.",
+          "transliteration": "Allahumma asidni fi matami hadha bikhayrihi wa aidhni min sharrihi wa amtini min nafihi wa sallimni min darrih.",
+          "translation": "O‟ my God! Please make me prosperous with this food. And give me refuge from its evil, make me gain its benefits and safeguard me from its harms.”"
+        }
+      ],
+      "audio": "",
+      "youtube": "",
+      "reference": "",
+      "tags": [],
+      "meta": {
+        "featured": false,
+        "hasTiming": false,
+        "type": "Supplication",
+        "collection": "Iqbal Al Amaal",
+        "purpose": [],
+        "personalities": [],
+        "timing": {
+          "days": [],
+          "times": [],
+          "events": [],
+          "dates": [
+            {
+              "month": "Ramadan"
+            }
+          ]
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    },
+    {
+      "type": "dua",
+      "id": "dua-7",
+      "title": "Iqbal-al-Amaal (dua 4)",
+      "description": "The following is narrated through a chain of documents to Harun ibn Musa al-Talakbari, on the authority of Abi Basir, on the authority of Abi Abdullah (as): “Whenever you want to break your fast after a day of fasting during the month of Ramadhan say\",\n",
+      "segments": [
+        {
+          "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَعَانَنَا فَصُمْنَا وَ رَزَقَنَا فَأَفْطَرْنَا اللَّهُمَّ تَقَبَّلْهُ مِنَّا وَ أَعِنَّا عَلَيْهِ وَ سَلِّمْنَا فِيهِ وَ تَسَلَّمْهُ مِنَّا فِي يُسْرٍ مِنْكَ وَ عَافِيَةٍ الْحَمْدُ لِلَّهِ الَّذِي قَضَى عَنِّي يَوْماً مِنْ شَهْرِ رَمَضَانَ.",
+          "transliteration": "Alhamdu lillahilladhi aanana fasumna wa razaqana faaftarna. Allahumma taqabbalhu minna wa ainna alayhi wa sallimna fihi wa tasallamhu minna fi yusrin minka wa afiyatin. Alhamdu lillahilladhi qada anni yawman min shahri ramadan.",
+          "translation": "Praise be to God Who helped us fast and provided us with food for breaking our fasts. O God! Please accept it from us, help us with fasting and bless us with health and let it pass in ease and health provided by You. And praise be to God Who blessed me with fasting of another day of the month of Ramadhan.‟"
+        }
+      ],
+      "audio": "",
+      "youtube": "",
+      "reference": "",
+      "tags": [],
+      "meta": {
+        "featured": false,
+        "hasTiming": false,
+        "type": "",
+        "collection": "",
+        "purpose": [],
+        "personalities": [],
+        "timing": {
+          "days": [],
+          "times": [],
+          "events": [],
+          "dates": []
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    },
+    {
+      "type": "dua",
+      "id": "dua-8",
+      "title": "Iqbal-al-Amaal (dua 5)",
+      "description": "It has been narrated that Imam Musa ibn Ja‟far al-Kazim (as) said the following on the authority of his forefathers (as): When at the time of breaking your fast in the evening say the following so that the reward for all who fasted on that day is recorded for You.\n",
+      "segments": [
+        {
+          "arabic": "إِذَا أَمْسَيْتَ صَائِماً فَقُلْ عِنْدَ إِفْطَارِكَ اللَّهُمَّ لَكَ صُمْتُ وَ عَلَى رِزْقِكَ أَفْطَرْتُ وَ عَلَيْكَ تَوَكَّلْتُ يُكْتَبُ لَكَ أَجْرُ مَنْ صَامَ ذَلِكَ الْيَوْمَ.",
+          "transliteration": "Idha amsayta sa’iman faqul inda iftarika: Allahumma laka sumtu wa ala rizqika aftartu wa alayka tawakkaltu, yuktabu laka ajru man sama dhalikal yawm.",
+          "translation": "O my God! I fasted for You and I break my fast with Your Sustenance. And I rely upon You. Please record the reward for this fasting for me. In You I have placed my trust."
+        }
+      ],
+      "audio": "",
+      "youtube": "",
+      "reference": "",
+      "tags": [],
+      "meta": {
+        "featured": false,
+        "hasTiming": false,
+        "type": "",
+        "collection": "",
+        "purpose": [],
+        "personalities": [],
+        "timing": {
+          "days": [],
+          "times": [],
+          "events": [],
+          "dates": []
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    },
+    {
+      "type": "dua",
+      "id": "dua-9",
+      "title": "Iqbal-al-Amaal (dua 6)",
+      "description": "The Prophet (as) said the following after eating each bite of food,\n",
+      "segments": [
+        {
+          "arabic": "اللَّهُمَّ لَكَ الْحَمْدُ أَطْعَمْتَ وَ سَقَيْتَ وَ أَرْوَيْتَ فَلَكَ الْحَمْدُ غَيْرَ مَكْفُورٍ وَ لَا مُوَدَّعٍ وَ لَا مُسْتَغْنًى عَنْكَ.",
+          "transliteration": "Allahumma lakal hamdu atamta wa saqayta wa arwayta falakal hamdu ghayra makfurin wa la muwadda-in wa la mustaghnan ank.",
+          "translation": "O my God! Praise belongs to You. You gave me food and water and satiated me. All praise belongs to You without having neglected You, departed from You or being needless of You."
+        }
+      ],
+      "audio": "",
+      "youtube": "",
+      "reference": "",
+      "tags": [],
+      "meta": {
+        "featured": false,
+        "hasTiming": false,
+        "type": "",
+        "collection": "",
+        "purpose": [],
+        "personalities": [],
+        "timing": {
+          "days": [],
+          "times": [],
+          "events": [],
+          "dates": []
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    },
+    {
+      "type": "dua",
+      "id": "dua-13",
+      "title": "After Eating",
+      "description": "1.The following narrations quoted on the authority of the Immaculate Divine Leaders (as) based on a chain of documents to Abi Abdullah Ja‟far ibn Muhammad (as), on the authority of his forefathers (as), on the authority of God‟s Prophet (as) and it seems to be for after breaking the fast.\n",
+      "segments": [
+        {
+          "arabic": "اللَّهُمَّ لَكَ صُمْنَا وَ عَلَى رِزْقِكَ أَفْطَرْنَا فَتَقَبَّلْهُ مِنَّا ذَهَبَ الظَّمَأُ وَ ابْتَلَّتِ الْعُرُوقُ وَ بَقِيَ الْأَجْرُ.",
+          "transliteration": "",
+          "translation": "“O‟ my God! We fast for You, and we break the fast with the food You give us. Thus please accept it from us. Thirst has vanished, the veins have moistened but the reward has remained.”"
+        }
+      ],
+      "audio": "",
+      "youtube": "",
+      "reference": "",
+      "tags": [],
+      "meta": {
+        "featured": false,
+        "hasTiming": false,
+        "type": "",
+        "collection": "",
+        "purpose": [],
+        "personalities": [],
+        "timing": {
+          "days": [
+            "Daily"
+          ],
+          "times": [
+            "Maghrib"
+          ],
+          "events": [],
+          "dates": [
+            {
+              "month": "Ramadan"
+            }
+          ]
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    },
+    {
+      "type": "instruction",
+      "content": "2.The following is narrated through a chain of documents to Al-Tabarsi – may God have mercy on him – who narrated the following supplications for when you finish eating food on the authority of the Divine Leaders (as):\n",
+      "title": "Instruction Block"
+    },
+    {
+      "type": "continue-dua",
+      "id": "dua-15-cont",
+      "title": "Continue Dua Segments",
+      "segments": [
+        {
+          "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي فَأَشْبَعَنِي وَ سَقَانِي فَأَرْوَانِي وَ صَانَنِي وَ حَمَانِي",
+          "transliteration": "",
+          "translation": "“Praise be to God who fed me and satiated me; gave me drinks and removed my thirst; protected and supported me."
+        },
+        {
+          "arabic": "الْحَمْدُ لِلَّهِ الَّذِي عَرَّفَنِي الْبَرَكَةَ وَ الْيُمْنَ بِمَا أَصَبْتُهُ وَ تَرَكْتُهُ مِنْهُ",
+          "transliteration": "",
+          "translation": "Praise be to God who taught me the blessings and good omen in deeds I performed or avoided doing."
+        },
+        {
+          "arabic": "اللَّهُمَّ اجْعَلْهُ هَنِيئاً مَرِيئاً لَا وَبِيّاً وَ لَا دَوِيّاً وَ أَبْقِنِي بَعْدَهُ سَوِيّاً قَائِماً بِشُكْرِكَ مُحَافِظاً عَلَى طَاعَتِكَ",
+          "transliteration": "",
+          "translation": "O‟ my God! Please let the food be delicious and beneficial, not accompanied with plague or other illnesses, and keep me healthy after eating it and continue to thank You and watchful of Your Obedience."
+        },
+        {
+          "arabic": "وَ ارْزُقْنِي رِزْقاً دَارّاً وَ أَعِشْنِي عَيْشاً قَارّاً وَ اجْعَلْنِي بَارّاً وَ اجْعَلْ مَا يَتَلَقَّانِي فِي الْمَعَادِ مُبْهِجاً سَارّاً بِرَحْمَتِكَ.",
+          "transliteration": "",
+          "translation": "O‟ God! Please bless me with ample sustenance, and give me a stable life. Let me be a good doer and let whatever I may encounter on the Resurrection Day be a source of happiness for me out of Your Mercy."
+        }
+      ]
+    },
+    {
+      "type": "instruction",
+      "content": "3.It has been narrated on the authority of Abu Ja‟far (as) that when Ali (as) ate his meal to break the fast, he (as) stayed at the tablecloth until the tablecloth was picked up and then said the following,\n",
+      "title": "Instruction Block"
+    },
+    {
+      "type": "continue-dua",
+      "id": "dua-17-cont",
+      "title": "Continue Dua Segments",
+      "segments": [
+        {
+          "arabic": "اللَّهُمَّ لَكَ صُمْنَا وَ عَلَى رِزْقِكَ أَفْطَرْنَا فَتَقَبَّلْهُ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُ‌.",
+          "transliteration": "",
+          "translation": "“O‟ my God! We fast for You, and we break the fast with the food You give us. Thus please accept it from us. Indeed You are the Hearer, the Knower!”"
+        }
+      ]
+    },
+    {
+      "type": "dua",
+      "id": "dua-18",
+      "title": "Purity in Food and before Eating",
+      "description": "Supplications to seek Purity in Food and before Eating‟-Iqbal Aamal\n",
+      "segments": [
+        {
+          "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِالرَّحْمَةِ الَّتِي سَبَقَتْ غَضَبَكَ",
+          "transliteration": "Allahumma inni as'aluka bir-rahmati allati sabaqat ghadabak",
+          "translation": "O Allah, I ask You by the mercy that preceded Your wrath"
+        },
+        {
+          "arabic": "وَ بِالرَّحْمَةِ الَّتِي ذَكَرْتَنِي بِهَا وَ لَمْ أَكُ شَيْئاً مَذْكُوراً",
+          "transliteration": "Wa bir-rahmati allati dhakartani biha wa lam aku shay'an madhkura",
+          "translation": "And by the mercy with which You reminded me when I was nothing to be mentioned"
+        },
+        {
+          "arabic": "وَ بِالرَّحْمَةِ الَّتِي أَنْشَأْتَنِي بِهَا وَ رَبَّيْتَنِي صَغِيراً وَ كَبِيراً",
+          "transliteration": "Wa bir-rahmati allati ansha'tani biha wa rabbaytani saghiran wa kabiran",
+          "translation": "And by the mercy with which You created me and nurtured me, young and old"
+        },
+        {
+          "arabic": "وَ بِالرَّحْمَةِ الَّتِي نَقَلْتَنِي بِهَا مِنْ ظُهُورِ الْآبَاءِ إِلَى بُطُونِ الْأُمَّهَاتِ",
+          "transliteration": "Wa bir-rahmati allati naqqaltani biha min zuhuril-aba'i ila butunil-ummahat",
+          "translation": "And by the mercy with which You transferred me from the loins of fathers to the wombs of mothers"
+        },
+        {
+          "arabic": "مِنْ لَدُنْ آدَمَ ع إِلَى آخِرِ الْغَايَاتِ",
+          "transliteration": "Min ladun Adama ‘alayhis-salam ila akhiri al-ghayaat",
+          "translation": "From Adam, peace be upon him, to the final destination"
+        },
+        {
+          "arabic": "وَ أَقَمْتَ لِلْآبَاءِ وَ الْأُمَّهَاتِ بِالْأَقْوَاتِ وَ الْكِسْوَاتِ وَ الْمُهِمَّاتِ",
+          "transliteration": "Wa aqamta lil-aba'i wal-ummahat bil-aqwat wal-kiswat wal-muhimmat",
+          "translation": "And You provided fathers and mothers with sustenance, clothing, and necessities"
+        },
+        {
+          "arabic": "وَ وَقَيْتَهُمْ مِمَّا جَرَى عَلَى الْأُمَمِ الْهَالِكَةِ مِنَ النَّكَبَاتِ وَ الْآفَاتِ",
+          "transliteration": "Wa waqaytahum mimma jara ‘ala al-umam al-halikati minan-nakabat wal-afat",
+          "translation": "And You protected them from the calamities and afflictions that befell perished nations"
+        },
+        {
+          "arabic": "وَ بِالرَّحْمَةِ الَّتِي دَلَلْتَنِي بِهَا عَلَيْكَ",
+          "transliteration": "Wa bir-rahmati allati dalaltani biha ‘alayk",
+          "translation": "And by the mercy with which You guided me to You"
+        },
+        {
+          "arabic": "وَ بِالرَّحْمَةِ الَّتِي شَرَّفْتَنِي بِهَا بِطَاعَتِكَ وَ التَّقَرُّبِ إِلَيْكَ",
+          "transliteration": "Wa bir-rahmati allati sharaftani biha bita’atika wat-taqarrubi ilayk",
+          "translation": "And by the mercy with which You honored me through obedience to You and drawing near to You"
+        },
+        {
+          "arabic": "وَ بِالرَّحْمَةِ الَّتِي جَعَلْتَنِي بِهَا مِنْ ذُرِّيَّةِ أَعَزِّ الْأَنْبِيَاءِ عَلَيْكَ",
+          "transliteration": "Wa bir-rahmati allati ja‘altani biha min dhurriyyati a‘azzi al-anbiya’i ‘alayk",
+          "translation": "And by the mercy with which You made me from the descendants of the most honored of Your prophets"
+        },
+        {
+          "arabic": "وَ بِالرَّحْمَةِ الَّتِي حَلُمْتَ بِهَا عَنِّي عِنْدَ سُوءِ أَدَبِي بَيْنَ يَدَيْكَ",
+          "transliteration": "Wa bir-rahmati allati halumta biha ‘anni ‘inda su’i adabi bayna yadayk",
+          "translation": "And by the mercy with which You showed forbearance towards me despite my poor manners before You"
+        },
+        {
+          "arabic": "وَ بِالْمَرَاحِمِ وَ الْمَكَارِمِ الَّتِي أَنْتَ أَعْلَمُ بِتَفْصِيلِهَا وَ قَبُولِهَا وَ تَكْمِيلِهَا",
+          "transliteration": "Wa bil-marahami wal-makarimi allati anta a‘lamu bitafsilihā wa qabuliha wa takmiliha",
+          "translation": "And by the mercies and noble virtues that You know best in their details, acceptance, and completion"
+        },
+        {
+          "arabic": "وَ بِمَا أَنْتَ أَهْلُهُ أَنْ تُصَلِّيَ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
+          "transliteration": "Wa bima anta ahluhu an tusalliya ‘ala Muhammadin wa ali Muhammad",
+          "translation": "And by what You are worthy of, to send blessings upon Muhammad and the family of Muhammad"
+        },
+        {
+          "arabic": "وَ أَنْ تُطَهِّرَنَا مِنَ الْعُيُوبِ وَ الذُّنُوبِ",
+          "transliteration": "Wa an tutahhirana minal-‘uyubi wadh-dhunub",
+          "translation": "And to purify us from defects and sins"
+        },
+        {
+          "arabic": "بِالْعَافِيَةِ مِنْهَا وَ الْعَفْوِ عَنْهَا",
+          "transliteration": "Bil-‘afiyati minha wal-‘afwi ‘anha",
+          "translation": "By granting us well-being from them and pardoning them"
+        },
+        {
+          "arabic": "حَتَّى نَصْلَحَ لِلتَّشْرِيفِ بِمُجَالَسَتِكَ وَ الْجُلُوسِ عَلَى مَائِدَةِ ضِيَافَتِكَ",
+          "transliteration": "Hatta naslaha lit-tashrifi bimujalasatika wal-julusi ‘ala ma’idati diyaafatika",
+          "translation": "So that we become worthy of the honor of sitting in Your company and at Your banquet of hospitality"
+        },
+        {
+          "arabic": "وَ أَنْ تُطَهِّرَ طَعَامَنَا هَذَا وَ شَرَابَنَا وَ كُلَّمَا نَتَقَلَّبُ فِيهِ مِنْ فَوَائِدِ رَحْمَتِكَ",
+          "transliteration": "Wa an tutahhira ta‘amana hadha wa sharabana wa kulla ma nataqallabu fihi min fawa'idi rahmatika",
+          "translation": "And to purify this food and drink of ours, and all that we partake in from the benefits of Your mercy"
+        },
+        {
+          "arabic": "مِنَ الْأَدْنَاسِ وَ الْأَرْجَاسِ وَ حُقُوقِ النَّاسِ وَ مِنَ الْحَرَامَاتِ وَ الشُّبُهَاتِ",
+          "transliteration": "Minal-adnasi wal-arjasi wa huquqin-nasi wa minal-haramati wash-shubuhat",
+          "translation": "From impurities, filth, people's rights, forbidden things, and doubtful matters"
+        },
+        {
+          "arabic": "وَ أَنْ تُصَانِعَ عَنْهُ أَصْحَابَهُ مِنَ الْأَحْيَاءِ وَ الْأَمْوَاتِ",
+          "transliteration": "Wa an tusani‘a ‘anhu ashabahu minal-ahya’i wal-amwat",
+          "translation": "And that You protect its owners, both the living and the dead, from its harm"
+        },
+        {
+          "arabic": "وَ تَجْعَلَهُ طَاهِراً مُطَهَّراً وَ شِفَاءً لِأَدْيَانِنَا وَ دَوَاءً لِأَبْدَانِنَا",
+          "transliteration": "Wa taj‘alahu tahiran mutahharan wa shifa’an li-adyanina wa dawa’an li-abdanina",
+          "translation": "And make it pure and purifying, a healing for our faith, and a cure for our bodies"
+        },
+        {
+          "arabic": "وَ طَهَارَةً لِسَرَائِرِنَا وَ ظَوَاهِرِنَا وَ نُوراً لِعُقُولِنَا وَ نُوراً لِأَرْوَاحِنَا",
+          "transliteration": "Wa taharatan lisara’irina wa zawahirina wa nuran li‘uqulina wa nuran li’arwahina",
+          "translation": "And a purification for our inner and outer selves, a light for our minds, and a light for our souls"
+        },
+        {
+          "arabic": "وَ مُقَوِّياً لَنَا عَلَى خِدْمَتِكَ وَ بَاعِثاً لَنَا عَلَى مُرَاقَبَتِكَ",
+          "transliteration": "Wa muqawwiya lana ‘ala khidmatika wa ba‘ithan lana ‘ala muraqabatika",
+          "translation": "And strengthening us in serving You and inspiring us to remain mindful of You"
+        },
+        {
+          "arabic": "وَ اجْعَلْنَا بَعْدَ ذَلِكَ مِمَّنْ أَغْنَيْتَهُ بِعِلْمِكَ عَنِ الْمَقَالِ",
+          "transliteration": "Wa aj‘alna ba‘da dhalika mimman aghnaytahu bi‘ilmika ‘anil-maqal",
+          "translation": "And after that, make us among those whom Your knowledge suffices from speaking"
+        },
+        {
+          "arabic": "وَ بِكَرَمِكَ عَنِ السُّؤَالِ بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِينَ",
+          "transliteration": "Wa bikaramika ‘anis-su’ali birahmatika ya arhamar-rahimin",
+          "translation": "And by Your generosity, free from needing to ask, by Your mercy, O Most Merciful of the merciful!"
+        }
+      ],
+      "audio": "https://mp3.duas.org/Ramdhan%20Special/iftar-purify.mp3",
+      "youtube": "https://www.youtube.com/watch?v=v6t_sVMnksE",
+      "reference": "",
+      "tags": [],
+      "meta": {
+        "featured": false,
+        "hasTiming": false,
+        "type": "Dua/Supplication",
+        "collection": "Iqbal Al Amaal",
+        "purpose": [],
+        "personalities": [],
+        "timing": {
+          "days": [
+            "Daily"
+          ],
+          "times": [],
+          "events": [],
+          "dates": []
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    }
+  ],
+  "meta": {
+    "featured": false,
+    "hasTiming": false,
+    "type": "Supplication",
+    "collection": "",
+    "purpose": [
+      "Praise Allah (swt)"
+    ],
+    "personalities": [],
+    "timing": {
+      "days": [],
+      "times": [
+        "Maghrib"
+      ],
+      "events": [],
+      "dates": [
+        {
+          "month": "Ramadan"
+        }
+      ]
+    },
+    "locations": [],
+    "pilgrimage": []
+  },
+  "_index_meta": {
+    "id": "ramadan-iftaar-dua",
+    "title": "Dua to be recited at iftaar (ending the fast)",
+    "description": "",
+    "tags": [],
+    "meta": {
+      "featured": false,
+      "hasTiming": false,
+      "type": "Supplication",
+      "collection": "",
+      "purpose": [
+        "Praise Allah (swt)"
+      ],
+      "personalities": [],
+      "timing": {
+        "days": [],
+        "times": [
+          "Maghrib"
+        ],
+        "events": [],
+        "dates": [
+          {
+            "month": "Ramadan"
+          }
+        ]
+      },
+      "locations": [],
+      "pilgrimage": []
+    }
+  }
+}

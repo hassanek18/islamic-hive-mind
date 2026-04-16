@@ -1,0 +1,171 @@
+{
+  "id": "ramadan-sahar-tasbeeh",
+  "title": "Tasbih at the time of sahar (commending the fast)",
+  "featured": false,
+  "relatedLinks": [
+    {
+      "text": "PDF",
+      "url": "https://www.duas.org/pdfs/TasbihRamadhan%20-%20linebyline%20-%20duas.org.pdf"
+    }
+  ],
+  "duas": [
+    {
+      "type": "dua",
+      "id": "dua-1",
+      "title": "Tasbih at the time of sahar ",
+      "description": "As mentioned in the book of Iqbal al-A`mal, it is recommended to recite the following invocation of glorifying Almighty Allah (tasbihat):\n",
+      "segments": [
+        {
+          "arabic": "سُبْحَانَ مَنْ يَعْلَمُ جَوَارِحَ ٱلقُلُوبِ",
+          "transliteration": "subhana man ya`lamu jawariha alqulubi",
+          "translation": "Glory be to Him Who is aware of what hearts and minds strive to obtain!"
+        },
+        {
+          "arabic": "سُبْحَانَ مَنْ يُحْصِي عَدَدَ ٱلذُّنُوبِ",
+          "transliteration": "subhana man yuhsi `adada aldhdhunubi",
+          "translation": "Glory be to Him Who knows the exact count of the sins!"
+        },
+        {
+          "arabic": "سُبْحَانَ مَنْ لاَ يَخْفَىٰ عَلَيْهِ خَافِيَةٌ فِي ٱلسَّمَاوَاتِ وَٱلأَرَضِينَ",
+          "transliteration": "subhana man la yakhfa `alayhi khafiyatun fi alssamawati wal-aradina",
+          "translation": "Glory be to Him from whose view nothing in the heavens and the earths is concealed!"
+        },
+        {
+          "arabic": "سُبْحَانَ ٱلرَّبِّ ٱلْوَدُودِ",
+          "transliteration": "subhana alrrabbi alwadudi",
+          "translation": "Glory be to the Loving Lord!"
+        },
+        {
+          "arabic": "سُبْحَانَ ٱلفَرْدِ ٱلوِتْرِ",
+          "transliteration": "subhana alfardi alwitri",
+          "translation": "Glory be to the Unique and Single!"
+        },
+        {
+          "arabic": "سُبْحَانَ ٱلعَظِيمِ ٱلأَعْظَمِ",
+          "transliteration": "subhana al`azimi al-a`zami",
+          "translation": "Glory be to the Greatest and Great!"
+        },
+        {
+          "arabic": "سُبْحَانَ مَنْ لاَ يَعْتَدِي عَلَىٰ أَهْلِ مَمْلَكَتِهِ",
+          "transliteration": "subhana man la ya`tadi `ala ahli mamlakatihi",
+          "translation": "Glory be to Him Who does not transgress against the inhabitants of his kingdom!"
+        },
+        {
+          "arabic": "سُبْحَانَ مَنْ لاَ يُؤَاخِذُ أَهْلَ ٱلأَرْضِ بِأَلْوَانِ ٱلْعَذَابِ",
+          "transliteration": "subhana man la yu'akhidhu ahla al-ardi bi-alwani al`adhabi",
+          "translation": "Glory be to Him Who does not bring down any kind of punishment upon the inhabitants of the earth!"
+        },
+        {
+          "arabic": "سُبْحَانَ ٱلْحَنَّانِ ٱلْمَنَّانِ",
+          "transliteration": "subhana alhannani almannani",
+          "translation": "Glory be to the Kind and Compassionate!"
+        },
+        {
+          "arabic": "سُبْحَانَ ٱلرَّؤُوفِ ٱلرَّحِيمِ",
+          "transliteration": "subhana alrra'ufi alrrahimi",
+          "translation": "Glory be to the Oft-Forgiving and Merciful!"
+        },
+        {
+          "arabic": "سُبْحَانَ ٱلْجَبَّارِ ٱلْجَوَادِ",
+          "transliteration": "subhana aljabbari aljawadi",
+          "translation": "Glory be to the Omnipotent and All-magnanimous!"
+        },
+        {
+          "arabic": "سُبْحَانَ ٱلْكَرِيمِ ٱلْحَلِيمِ",
+          "transliteration": "subhana alkarimi alhalimi",
+          "translation": "Glory be to the Indulgent and Liberal!"
+        },
+        {
+          "arabic": "سُبْحَانَ ٱلْبَصِيرِ ٱلْعَلِيمِ",
+          "transliteration": "subhana albasiri al`alimi",
+          "translation": "Glory be to the Discerning and Wise!"
+        },
+        {
+          "arabic": "سُبْحَانَ ٱلْبَصِيرِ ٱلْوَاسِعِ",
+          "transliteration": "subhana albasiri alwasi`i",
+          "translation": "Glory be to the Comprehending and All-Wise!"
+        },
+        {
+          "arabic": "سُبْحَانَ ٱللَّهِ عَلَىٰ إِقْبَالِ ٱلنَّهَارِ",
+          "transliteration": "subhana allahi `ala iqbali alnnahari",
+          "translation": "Glory be to Allah at the time of Daybreak!"
+        },
+        {
+          "arabic": "سُبْحَانَ ٱللَّهِ عَلَىٰ إِدْبَارِ ٱلنَّهَارِ",
+          "transliteration": "subhana allahi `ala idbari alnnahari",
+          "translation": "Glory be to Allah at the time of sunset!"
+        },
+        {
+          "arabic": "سُبْحَانَ ٱللَّهِ عَلَىٰ إِدْبَارِ ٱللَّيْلِ وَإِقْبَالِ ٱلنَّهَارِ",
+          "transliteration": "subhana allahi `ala idbari allayli wa iqbali alnnahari",
+          "translation": "Glory be to Allah in the zero hours of the departing night and in the twilight of the dawning day!"
+        },
+        {
+          "arabic": "وَلَهُ ٱلحَمْدُ وَٱلْمَجْدُ وَٱلعَظَمَةُ وَٱلكِبْرِيَاءُ",
+          "transliteration": "wa lahu alhamdu walmajdu wal`azamatu walkibriya’u",
+          "translation": "To Him alone is the praise, might, greatness, and omnipotence"
+        },
+        {
+          "arabic": "مَعَ كُلِّ نَفَسٍ وَكُلِّ طَرْفَةِ عَيْنٍ",
+          "transliteration": "ma`a kulli nafasin wa kulli tarfati `aynin",
+          "translation": "with every breath and every twinkle of an eye,"
+        },
+        {
+          "arabic": "وَكُلِّ لَمْحَةٍ سَبَقَ فِي عِلْمِهِ",
+          "transliteration": "wa kulli lamhatin sabaqa fi `ilmihi",
+          "translation": "and every moment is already registered in His all embracing awareness."
+        },
+        {
+          "arabic": "سُبْحَانَكَ مِلْءَ مَا أَحْصَىٰ كِتَابُكَ",
+          "transliteration": "subhanaka mil'a ma ahsa kitabuka",
+          "translation": "Glory be to You for the infinite range that covers Your Book!"
+        },
+        {
+          "arabic": "سُبْحَانَكَ زِنَةَ عَرْشِكَ",
+          "transliteration": "subhanaka zinata `arshika",
+          "translation": "Glory be to You—Glory that is equal to the measure of Your Throne!"
+        },
+        {
+          "arabic": "سُبْحَانَكَ سُبْحَانَكَ سُبْحَانَكَ",
+          "transliteration": "subhanaka subhanaka subhanaka",
+          "translation": "Glory be to You! Glory be to You! Glory be to You!"
+        }
+      ],
+      "audio": "https://mp3.duas.org/Ramdhan%20Special/ashar04.mp3",
+      "youtube": "",
+      "reference": "1 Iqbal, 82, , thence in Bihar, xcv, 98-100, b 6.",
+      "tags": [],
+      "meta": {
+        "featured": false,
+        "hasTiming": false,
+        "type": "",
+        "collection": "",
+        "purpose": [
+          "Spiritual Elevation"
+        ],
+        "personalities": [],
+        "timing": {
+          "days": [],
+          "times": [
+            "Fajr"
+          ],
+          "events": [],
+          "dates": [
+            {
+              "month": "Ramadan"
+            }
+          ]
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    }
+  ],
+  "_index_meta": {
+    "id": "ramadan-sahar-tasbeeh",
+    "title": "Tasbih at the time of sahar (commending the fast)",
+    "description": "",
+    "tags": [],
+    "meta": {}
+  }
+}

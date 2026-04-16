@@ -1,0 +1,85 @@
+{
+  "id": "regular-after-salaat-taqibat",
+  "title": "Daily - timely Taqibat and Nafilah",
+  "featured": false,
+  "relatedLinks": [],
+  "duas": [
+    {
+      "type": "banner",
+      "smallTitle": "Allahu Akbar (34) Alhamdulillah (33) Subhanallah (33)",
+      "mainTitle": "Tasbih Fatima Zehra (sa)",
+      "details": "\"Reciting the Tasbih of Fatimah az-Zahra (s.a.) every day after every prayer is dearer to me than praying a thousand rak'ats (of voluntary prayer) every day.\"",
+      "subDetails": "Imam Jafar al-Sadiq (a.s.)",
+      "youtube": "https://youtu.be/uuZpJvJX7Jw",
+      "buttonLink": "https://www.duas.org/tasbihzehra.htm",
+      "title": "Tasbih Fatima Zehra (sa)"
+    },
+    {
+      "type": "buttons",
+      "title": "After Salaat (namaaz) Taqibat and Nafilah ",
+      "subtitle": "regular Pre / Post-Prayer Supplications, Tasbih and Voluntary Prayers",
+      "buttons": [
+        {
+          "text": "Fajr",
+          "subtext": "",
+          "color": "red",
+          "link": "https://www.duas.org/mobile/fajr-taqibat.html"
+        },
+        {
+          "text": "Zuhr and Asr",
+          "subtext": "",
+          "color": "lime",
+          "link": "https://www.duas.org/mobile/zuhr-asr-taqibat.html"
+        },
+        {
+          "text": "Maghrib and Isha",
+          "subtext": "",
+          "color": "cyan",
+          "link": "https://www.duas.org/mobile/magrib-isha-taqibat.html"
+        },
+        {
+          "text": "Salat ul Layl (namaz-e-shab)",
+          "subtext": "",
+          "color": "pink",
+          "link": "https://www.duas.org/mobile/tahajjud-salat-shab.html"
+        },
+        {
+          "text": "Common Taqeeb",
+          "subtext": "",
+          "color": "indigo",
+          "link": "https://www.duas.org/mobile/common-taqibat.html"
+        },
+        {
+          "text": "Thanksgiving - Sajdah Shukr",
+          "subtext": "",
+          "color": "cyan",
+          "link": "https://www.duas.org/mobile/sajda-shukr.html"
+        }
+      ]
+    },
+    {
+      "type": "accordion",
+      "title": "Weekday and Timely",
+      "subtitle": "Dua, Ziyarat, Tasbih and Salaat for each weekday and time of the day",
+      "items": [
+        {
+          "title": "Weekday",
+          "color": "emerald",
+          "content": "<a href=\"https://www.duas.org/mobile/friday-duas-ziyarat.html\" class=\"group flex items-center justify-between px-3 py-2 bg-slate-50 dark:bg-slate-800 rounded-lg hover:bg-emerald-50 dark:hover:bg-slate-700 transition-colors mb-2\">\n    <span class=\"font-medium text-slate-700 dark:text-emerald-400 group-hover:text-emerald-700 dark:group-hover:text-slate-200\">Friday</span>\n    <svg class=\"w-4 h-4 text-slate-400 dark:text-emerald-400 group-hover:text-emerald-600 dark:group-hover:text-slate-500\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 5l7 7-7 7\"></path></svg>\n</a>\n<a href=\"https://www.duas.org/mobile/saturday-duas-ziyarat.html\" class=\"group flex items-center justify-between px-3 py-2 bg-slate-50 dark:bg-slate-800 rounded-lg hover:bg-emerald-50 dark:hover:bg-slate-700 transition-colors mb-2\">\n    <span class=\"font-medium text-slate-700 dark:text-emerald-400 group-hover:text-emerald-700 dark:group-hover:text-slate-200\">Saturday</span>\n    <svg class=\"w-4 h-4 text-slate-400 dark:text-emerald-400 group-hover:text-emerald-600 dark:group-hover:text-slate-500\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 5l7 7-7 7\"></path></svg>\n</a>\n<a href=\"https://duas.org/mobile/sunday-duas-ziyarat.html\" class=\"group flex items-center justify-between px-3 py-2 bg-slate-50 dark:bg-slate-800 rounded-lg hover:bg-emerald-50 dark:hover:bg-slate-700 transition-colors mb-2\">\n    <span class=\"font-medium text-slate-700 dark:text-emerald-400 group-hover:text-emerald-700 dark:group-hover:text-slate-200\">Sunday</span>\n    <svg class=\"w-4 h-4 text-slate-400 dark:text-emerald-400 group-hover:text-emerald-600 dark:group-hover:text-slate-500\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 5l7 7-7 7\"></path></svg>\n</a>\n<a href=\"https://duas.org/mobile/monday-duas-ziyarat.html\" class=\"group flex items-center justify-between px-3 py-2 bg-slate-50 dark:bg-slate-800 rounded-lg hover:bg-emerald-50 dark:hover:bg-slate-700 transition-colors mb-2\">\n    <span class=\"font-medium text-slate-700 dark:text-emerald-400 group-hover:text-emerald-700 dark:group-hover:text-slate-200\">Monday</span>\n    <svg class=\"w-4 h-4 text-slate-400 dark:text-emerald-400 group-hover:text-emerald-600 dark:group-hover:text-slate-500\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 5l7 7-7 7\"></path></svg>\n</a>\n<a href=\"https://duas.org/mobile/tuesday-duas-ziyarat.html\" class=\"group flex items-center justify-between px-3 py-2 bg-slate-50 dark:bg-slate-800 rounded-lg hover:bg-emerald-50 dark:hover:bg-slate-700 transition-colors mb-2\">\n    <span class=\"font-medium text-slate-700 dark:text-emerald-400 group-hover:text-emerald-700 dark:group-hover:text-slate-200\">Tuesday</span>\n    <svg class=\"w-4 h-4 text-slate-400 dark:text-emerald-400 group-hover:text-emerald-600 dark:group-hover:text-slate-500\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 5l7 7-7 7\"></path></svg>\n</a>\n<a href=\"https://duas.org/mobile/wednesday-duas-ziyarat.html\" class=\"group flex items-center justify-between px-3 py-2 bg-slate-50 dark:bg-slate-800 rounded-lg hover:bg-emerald-50 dark:hover:bg-slate-700 transition-colors mb-2\">\n    <span class=\"font-medium text-slate-700 dark:text-emerald-400 group-hover:text-emerald-700 dark:group-hover:text-slate-200\">Wednesday</span>\n    <svg class=\"w-4 h-4 text-slate-400 dark:text-emerald-400 group-hover:text-emerald-600 dark:group-hover:text-slate-500\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 5l7 7-7 7\"></path></svg>\n</a>\n<a href=\"https://www.duas.org/mobile/thursday-duas-ziyarat.html\" class=\"group flex items-center justify-between px-3 py-2 bg-slate-50 dark:bg-slate-800 rounded-lg hover:bg-emerald-50 dark:hover:bg-slate-700 transition-colors mb-2\">\n    <span class=\"font-medium text-slate-700 dark:text-emerald-400 group-hover:text-emerald-700 dark:group-hover:text-slate-200\">Thursday</span>\n    <svg class=\"w-4 h-4 text-slate-400 dark:text-emerald-400 group-hover:text-emerald-600 dark:group-hover:text-slate-500\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 5l7 7-7 7\"></path></svg>\n</a>\n<a href=\"https://duas.org/mobile/thursday-night-duas.html\" class=\"group flex items-center justify-between px-3 py-2 bg-slate-50 dark:bg-slate-800 rounded-lg hover:bg-emerald-50 dark:hover:bg-slate-700 transition-colors mb-2\">\n    <span class=\"font-medium text-slate-700 dark:text-emerald-400 group-hover:text-emerald-700 dark:group-hover:text-slate-200\">Thursday Night</span>\n    <svg class=\"w-4 h-4 text-slate-400 dark:text-emerald-400 group-hover:text-emerald-600 dark:group-hover:text-slate-500\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 5l7 7-7 7\"></path></svg>\n</a>"
+        },
+        {
+          "title": "Time of the day",
+          "color": "blue",
+          "content": "<a href=\"https://www.duas.org/mobile/morning-evening-duas.html\" class=\"group flex items-center justify-between px-3 py-2 bg-slate-50 dark:bg-slate-800 rounded-lg hover:bg-emerald-50 dark:hover:bg-slate-700 transition-colors mb-2\">\n    <span class=\"font-medium text-slate-700 dark:text-emerald-400 group-hover:text-emerald-700 dark:group-hover:text-slate-200\">Morning and Evening</span>\n    <svg class=\"w-4 h-4 text-slate-400 dark:text-emerald-400 group-hover:text-emerald-600 dark:group-hover:text-slate-500\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 5l7 7-7 7\"></path></svg>\n</a>\n<a href=\"https://www.duas.org/mobile/duas-hourly.html\" class=\"group flex items-center justify-between px-3 py-2 bg-slate-50 dark:bg-slate-800 rounded-lg hover:bg-emerald-50 dark:hover:bg-slate-700 transition-colors mb-2\">\n    <span class=\"font-medium text-slate-700 dark:text-emerald-400 group-hover:text-emerald-700 dark:group-hover:text-slate-200\">Each Hour (each Imam a.s.)</span>\n    <svg class=\"w-4 h-4 text-slate-400 dark:text-emerald-400 group-hover:text-emerald-600 dark:group-hover:text-slate-500\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 5l7 7-7 7\"></path></svg>\n</a>\n<a href=\"https://www.duas.org/mobile/day-of-month-index-sahifa-alawia.html\" class=\"group flex items-center justify-between px-3 py-2 bg-slate-50 dark:bg-slate-800 rounded-lg hover:bg-emerald-50 dark:hover:bg-slate-700 transition-colors mb-2\">\n    <span class=\"font-medium text-slate-700 dark:text-emerald-400 group-hover:text-emerald-700 dark:group-hover:text-slate-200\">Day of the month (sahifa Alawiya)</span>\n    <svg class=\"w-4 h-4 text-slate-400 dark:text-emerald-400 group-hover:text-emerald-600 dark:group-hover:text-slate-500\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 5l7 7-7 7\"></path></svg>\n</a>\n<a href=\"https://www.duas.org/mobile/bedtime-duas.html\" class=\"group flex items-center justify-between px-3 py-2 bg-slate-50 dark:bg-slate-800 rounded-lg hover:bg-emerald-50 dark:hover:bg-slate-700 transition-colors mb-2\">\n    <span class=\"font-medium text-slate-700 dark:text-emerald-400 group-hover:text-emerald-700 dark:group-hover:text-slate-200\">Bed Time and Waking up</span>\n    <svg class=\"w-4 h-4 text-slate-400 dark:text-emerald-400 group-hover:text-emerald-600 dark:group-hover:text-slate-500\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 5l7 7-7 7\"></path></svg>\n</a>\n<a href=\"https://www.duas.org/mobile/routine-leaving-home-duas.html\" class=\"group flex items-center justify-between px-3 py-2 bg-slate-50 dark:bg-slate-800 rounded-lg hover:bg-emerald-50 dark:hover:bg-slate-700 transition-colors mb-2\">\n    <span class=\"font-medium text-slate-700 dark:text-emerald-400 group-hover:text-emerald-700 dark:group-hover:text-slate-200\">Leaving Home</span>\n    <svg class=\"w-4 h-4 text-slate-400 dark:text-emerald-400 group-hover:text-emerald-600 dark:group-hover:text-slate-500\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 5l7 7-7 7\"></path></svg>\n</a>\n\n<a href=\"https://www.duas.org/mobile/after-azaan-duas.html\" class=\"group flex items-center justify-between px-3 py-2 bg-slate-50 dark:bg-slate-800 rounded-lg hover:bg-emerald-50 dark:hover:bg-slate-700 transition-colors mb-2\">\n    <span class=\"font-medium text-slate-700 dark:text-emerald-400 group-hover:text-emerald-700 dark:group-hover:text-slate-200\">Adhan / During Salat</span>\n    <svg class=\"w-4 h-4 text-slate-400 dark:text-emerald-400 group-hover:text-emerald-600 dark:group-hover:text-slate-500\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 5l7 7-7 7\"></path></svg>\n</a>"
+        }
+      ]
+    }
+  ],
+  "_index_meta": {
+    "id": "regular-after-salaat-taqibat",
+    "title": "Daily - timely Taqibat and Nafilah",
+    "description": "",
+    "tags": [],
+    "meta": {}
+  }
+}

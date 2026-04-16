@@ -1,6 +1,6 @@
-# Data files (large, downloaded) — re-download on fresh clone
-data/
-db/
+# Database WAL/SHM files (SQLite transient state)
+db/*.db-shm
+db/*.db-wal
 
 # Python
 __pycache__/

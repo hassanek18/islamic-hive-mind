@@ -1,0 +1,52 @@
+{
+  "id": "multi-test",
+  "title": "Daily Recommendations",
+  "description": "A collection of recommended Duas for daily recitation.",
+  "duas": [
+    {
+      "id": "dua-morning",
+      "title": "Morning Dua",
+      "description": "Recited after Fajr prayers.",
+      "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّآلِ مُحَمَّدٍ",
+      "transliteration": "Allahumma salli 'ala Muhammadin wa aali Muhammad",
+      "translation": "O Allah, send peace and blessings upon Muhammad and the Family of Muhammad.",
+      "segments": [
+        {
+          "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّآلِ مُحَمَّدٍ",
+          "transliteration": "Allahumma salli 'ala Muhammadin wa aali Muhammad",
+          "translation": "O Allah, send peace and blessings upon Muhammad and the Family of Muhammad."
+        }
+      ],
+      "tags": [
+        "morning",
+        "daily"
+      ]
+    },
+    {
+      "id": "dua-evening",
+      "title": "Evening Dua",
+      "description": "Recited after Maghrib prayers.",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "transliteration": "Bismillaahir Rahmaanir Raheem",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "segments": [
+        {
+          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+          "transliteration": "Bismillaahir Rahmaanir Raheem",
+          "translation": "In the name of Allah, the Beneficent, the Merciful."
+        }
+      ],
+      "tags": [
+        "evening",
+        "daily"
+      ]
+    }
+  ],
+  "_index_meta": {
+    "id": "multi-test",
+    "title": "Daily Recommendations",
+    "description": "A collection of recommended Duas for daily recitation.",
+    "tags": [],
+    "meta": {}
+  }
+}

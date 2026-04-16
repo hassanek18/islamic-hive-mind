@@ -1,0 +1,188 @@
+{
+  "id": "ramadan-every-night-salat",
+  "title": "Salat for every night of Ramadan",
+  "featured": false,
+  "relatedLinks": [
+    {
+      "text": "PPT",
+      "url": "https://www.duas.org/mobile/ramadan-night-salaah-for-every-night.html#"
+    },
+    {
+      "text": "PDF",
+      "url": "https://www.duas.org/pdfs/Ramsalat.pdf"
+    }
+  ],
+  "duas": [
+    {
+      "type": "dua",
+      "id": "dua-1",
+      "title": "Salat for every night of Ramadan",
+      "description": "In the margin of al-Balad al-Amin, al-Kaf`ami has reported on the authority of Sayyid Ibn Baqi that it is recommended to offer a <hr><b>Two unit</b> prayer every night in month of Ramadan, in each unit <hr><h3><b>Surah al-Fatihah once and Surah al-Tawhid three times</b>.</h3><hr>After salat, it is recommended to say the following:\n\n",
+      "segments": [
+        {
+          "arabic": "سُبْحَانَ مَنْ هُوَ حَفِيظٌ لاَ يَغْفُلُ",
+          "transliteration": "subhana man huwa hafizun la yaghfulu",
+          "translation": "Glory be to Him Who watches over, never leaves anything undone, or is neglectful."
+        },
+        {
+          "arabic": "سُبْحَانَ مَنْ هُوَ رَحِيمٌ لاَ يَعْجَلُ",
+          "transliteration": "subhana man huwa rahimun la ya`jalu",
+          "translation": "Glory be to Him Who is Merciful, never does a thing in haste."
+        },
+        {
+          "arabic": "سُبْحَانَ مَنْ هُوَ قَائِمٌ لاَ يَسْهُو",
+          "transliteration": "subhana man huwa qa'imun la yas-hu",
+          "translation": "Glory be to Him Who is vigilant, never forgets one thing over another."
+        },
+        {
+          "arabic": "سُبْحَانَ مَنْ هُوَ دَائِمٌ لاَ يَلْهُو",
+          "transliteration": "subhana man huwa da'imun la yalhu",
+          "translation": "Glory be to Him Who is alert and steady, never is engrossed with a thing so as to overlook another."
+        }
+      ],
+      "audio": "",
+      "youtube": "",
+      "reference": "",
+      "tags": [],
+      "meta": {
+        "featured": false,
+        "hasTiming": false,
+        "type": "",
+        "collection": "",
+        "purpose": [],
+        "personalities": [],
+        "timing": {
+          "days": [],
+          "times": [],
+          "events": [],
+          "dates": []
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    },
+    {
+      "type": "dua",
+      "id": "dua-2",
+      "title": "Tasbihat al-Arba`ah seven times:",
+      "description": "",
+      "segments": [
+        {
+          "arabic": "سُبْحَانَ ٱللَّهِ وَٱلْحَمْدُ لِلَّهِ",
+          "transliteration": "subhana allahi walhamdu lillahi",
+          "translation": "All glory be to Allah, all praise be to Allah,"
+        },
+        {
+          "arabic": "وَلاَ إِلٰهَ إِلاَّ ٱللَّهُ وَٱللَّهُ أَكْبَرُ",
+          "transliteration": "wa la ilaha illa allahu wallahu akbaru",
+          "translation": "there is no god save Allah, and Allah is the Greatest"
+        }
+      ],
+      "audio": "",
+      "youtube": "",
+      "reference": "",
+      "tags": [],
+      "meta": {
+        "featured": false,
+        "hasTiming": false,
+        "type": "",
+        "collection": "",
+        "purpose": [],
+        "personalities": [],
+        "timing": {
+          "days": [],
+          "times": [],
+          "events": [],
+          "dates": []
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    },
+    {
+      "type": "dua",
+      "id": "dua-3",
+      "title": "Istegfar and Salawat",
+      "description": "Then, it is recommended to say the following imploration for forgiveness:<hr> Followed by Salawat 10 times\n",
+      "segments": [
+        {
+          "arabic": "!سُبْحَانَكَ سُبْحَانَكَ سُبْحَانَكَ",
+          "transliteration": "subhanaka subhanaka subhanaka!",
+          "translation": "Glory be to You! Glory be to You! Glory be to You!"
+        },
+        {
+          "arabic": "يَا عَظِيمُ ٱغْفِرْ لِيَ ٱلذَّنْبَ ٱلْعَظِيمَ",
+          "transliteration": "ya `azimu ighfir liya aldhdhanba al`azima",
+          "translation": "O All-great, forgive my grave sins."
+        },
+        {
+          "type": "instruction",
+          "text": "Followed by Salawat 10 times"
+        },
+        {
+          "arabic": "اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِهِ",
+          "transliteration": "allahumma salli `ala muhammadin wa `ala alihi",
+          "translation": "O Allah, (please do) send blessings to Muhammad and upon his Household."
+        }
+      ],
+      "audio": "",
+      "youtube": "",
+      "reference": "",
+      "tags": [],
+      "meta": {
+        "featured": false,
+        "hasTiming": false,
+        "type": "Salawat",
+        "collection": "",
+        "purpose": [],
+        "personalities": [],
+        "timing": {
+          "days": [],
+          "times": [],
+          "events": [],
+          "dates": []
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    }
+  ],
+  "meta": {
+    "featured": false,
+    "hasTiming": false,
+    "type": "Salawat",
+    "collection": "",
+    "purpose": [],
+    "personalities": [],
+    "timing": {
+      "days": [],
+      "times": [],
+      "events": [],
+      "dates": []
+    },
+    "locations": [],
+    "pilgrimage": []
+  },
+  "_index_meta": {
+    "id": "ramadan-every-night-salat",
+    "title": "Salat for every night of Ramadan",
+    "description": "",
+    "tags": [],
+    "meta": {
+      "featured": false,
+      "hasTiming": false,
+      "type": "Salawat",
+      "collection": "",
+      "purpose": [],
+      "personalities": [],
+      "timing": {
+        "days": [],
+        "times": [],
+        "events": [],
+        "dates": []
+      },
+      "locations": [],
+      "pilgrimage": []
+    }
+  }
+}

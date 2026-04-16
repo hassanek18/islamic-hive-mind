@@ -1,0 +1,155 @@
+{
+  "id": "salat-al-layl-tahajjud-prayer",
+  "title": "Tahajjud Prayer - Salat al-Layl - Namaz e Shab",
+  "featured": false,
+  "relatedLinks": [
+    {
+      "text": "PDF",
+      "url": "https://www.duas.org/pdfs/salatlail.pdf"
+    },
+    {
+      "text": "Method in Detail",
+      "url": "https://www.duas.org/mobile/tahajjud-salat-shab-duas.html"
+    }
+  ],
+  "duas": [
+    {
+      "type": "dua",
+      "id": "dua-1",
+      "title": "Namaz e Shab - Tahajjud Prayer - Salat al-Layl",
+      "description": "Salatul-Layl consists up of <b>11 (eleven) Rak’ats</b><br><br>\n\nThe <b>first 8 (eight) Rak’ats</b> are prayed as normal <i>(like morning prayer)</i> in pairs of two Rak’ats each with the niyyah of <i>Nawafilatul-Layl</i><br>\nThe <b>next 2 (two) Rak’ats</b> are prayed (like morning prayer) with the <i>Niyyah of 'Salatul Shif’a</i><br>\nThe remaining <b>1 (one) Rak’at</b> is prayed (as below) with the <i>Niyyah of 'Salatul Witr</i>' as follows..<br><br>\nAfter Niyyah and say Takbiratul Ihram Recite the following surah:-<br>\n- <b>Surah Al-Hamd </b>- Once<br>\n- <b>Surah Ikhlas (Qul Huwallahu Ahad)</b> - three times<br>\n- <b>Surah Qul-Audhubi Rabbil Falaq</b> - once<br>\n- <b>Surah Qul-Audhubi Rabbin Naas </b>- once<br>\nSay Takbir and raise hands for Qunoot and You may recite <b>any Dua or Rabbana</b> or the following:",
+      "segments": [
+        {
+          "arabic": "لآ اِلَهَ اِلاَّ اللّهُ الْحَلِيْمُ الْكَرِيْمُ",
+          "transliteration": "Laa ilaaha illallaahul Halimul Karim",
+          "translation": "There is none worth worshipping but Allah Who is Forbearing and Generous"
+        },
+        {
+          "arabic": "لآ اِلَهَ اِلاَّ اللّهُ الْعَلِيُّ الْعَظِيْمُ",
+          "transliteration": "Laa ilaaha illallaahul ‘Aliyyul ‘Azim",
+          "translation": "There is none worth worshipping but Allah Who is Most High and Great"
+        },
+        {
+          "arabic": "سُبْحَانَ اللّهِ رَبِّ السَّمَاوَاتِ السَّبْعِ",
+          "transliteration": "Subhaanallaahi Rabbis Samaawaatis Sab'",
+          "translation": "Glory be to Allah, Who is the Sustainer of the seven heavens and of the seven earth"
+        },
+        {
+          "arabic": "وَ رَبِّ الاَرْضِيْنَ السَّبْعِ",
+          "transliteration": "wa Rabbil ‘Arzinas Sab'",
+          "translation": "And Who is the Sustainer of all the things"
+        },
+        {
+          "arabic": "وَ مَا فِيْهِنَّ وَ مَا بَيْنَهُنَّ وَ",
+          "transliteration": "wa maa fihinna wa maa baynahunna",
+          "translation": "in them, and between them,"
+        },
+        {
+          "arabic": "رَبُّ الْعَرْشِ الْعَظِيْمِ",
+          "transliteration": "wa Rabbul 'Arshil ‘Azim",
+          "translation": "And Who is the Lord of the great ‘Arsh (Divine Center of Authority & Power)"
+        },
+        {
+          "arabic": "وَ الْحَمْدُ لِلّهِ رَبِّ الْعَالَمِيْنَ",
+          "transliteration": "Wal Hamdul lillaahi Rabbil 'Aalamin",
+          "translation": "And all praise for Allah, the Sustainer of the worlds."
+        },
+        {
+          "type": "instruction",
+          "text": "Then, pray for forgiveness of forty [40] people who are either dead or living in the following manner:"
+        },
+        {
+          "arabic": "..اَللّهُمَّ اغْفِرْ ل",
+          "transliteration": "Allaahummagh Firli… (Name 40 people)",
+          "translation": "O Allah, forgive (Name 40 people)…"
+        },
+        {
+          "type": "instruction",
+          "text": "Repeat 70 times"
+        },
+        {
+          "arabic": "اَسْتَغْفِرُ اللّهَ رَبِّي وَ اَتُوْبُ اِلَيْهِ",
+          "transliteration": "Astaghfirullah Rabbi wa Atuubu Ilayh (70 times)",
+          "translation": "I seek forgiveness of Allah my Lord and I turn to Him (70 times)"
+        },
+        {
+          "type": "instruction",
+          "text": "Repeat 7 times"
+        },
+        {
+          "arabic": "هذَا مَقَامُ الْعَآئِذِ بِكَ مِنَ النَّارِ",
+          "transliteration": "Haadhaa Maqaamul 'Aaidhi Bika Minannaar (7 times)",
+          "translation": "This is the position of one who seeks refuge in You from the fire [of Hell](7 times)"
+        },
+        {
+          "type": "instruction",
+          "text": "Repeat 300 times"
+        },
+        {
+          "arabic": "اَلْعَفْوَ",
+          "transliteration": "Al-'Afwa (300 times)",
+          "translation": "(I ask for) forgiveness (300 times)"
+        },
+        {
+          "type": "instruction",
+          "text": "Repeat once then Complete then the Rukuh, Sujood and end the prayer with Salaam"
+        },
+        {
+          "arabic": "رَبِّ اغْفِرْ لِي وَ ارْحَمْنِي وَ تُبْ عَلَيَّ اِنَّكَ اَنْتَ التَّوَّابُ الرَّحِيْمُ",
+          "transliteration": "rabbighfirli warhamni wa tub alayya ,innaka antat-tawwabur-rahim (once) - End salat",
+          "translation": "Lord, forgive me and have mercy on me, and turn to me, Surely You are the Oft-returning, the Merciful (once) - End Salat"
+        },
+        {
+          "type": "instruction",
+          "text": "Post Salat - Recite Tasbih of Syeda Fatemah Zahra (peace be upon her); 34 times - Allahu Akbar, 33 times - Al-Hamdu Lillah, 33 times - Subhanallah - Followed by Sajdah of Shukr. (reciting 5 times as below)"
+        },
+        {
+          "arabic": "سُبُّوحٌ قُدُّوسٌ رَبُّ الْمَلاَئِكَةِ وَالرُّوحِ",
+          "transliteration": "Subbohon, Qoddoson, Rabbul Mala’ekati Wal-Rooh (5 times)",
+          "translation": "All Glorious, All Holy, Lord of the Angels and the Spirit. (5 times)"
+        },
+        {
+          "type": "instruction",
+          "text": "Next, recite Ayatul Kursi. Finally, for the second time, perform Sajdah of Shukr reciting 5 times"
+        },
+        {
+          "arabic": "سُبُّوحٌ قُدُّوسٌ رَبُّ الْمَلاَئِكَةِ وَالرُّوحِ",
+          "transliteration": "Subbohon, Qoddoson, Rabbul Mala’ekati Wal-Rooh (5 times)",
+          "translation": "All Glorious, All Holy, Lord of the Angels and the Spirit. (5 times)"
+        }
+      ],
+      "audio": "",
+      "youtube": "https://www.youtube.com/watch?v=pUfb3ZElOsg",
+      "reference": "",
+      "tags": [],
+      "meta": {
+        "featured": false,
+        "type": "Salat-Namaz",
+        "collection": "",
+        "purpose": [
+          "Spiritual Elevation, Removing Calamities, Seeking Forgiveness, Increase Sustenance"
+        ],
+        "personalities": [],
+        "timing": {
+          "days": [
+            "Daily"
+          ],
+          "times": [
+            "Midnight"
+          ],
+          "events": [],
+          "dates": []
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    }
+  ],
+  "_index_meta": {
+    "id": "salat-al-layl-tahajjud-prayer",
+    "title": "Tahajjud Prayer - Salat al-Layl - Namaz e Shab",
+    "description": "",
+    "tags": [],
+    "meta": {}
+  }
+}

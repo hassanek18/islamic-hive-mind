@@ -1,0 +1,794 @@
+{
+  "id": "munajat-shabaniyah",
+  "title": "Munajat Shabaniyah",
+  "featured": false,
+  "relatedLinks": [
+    {
+      "text": "PDF",
+      "url": "https://www.duas.org/pdfs/munajatshabania.pdf"
+    },
+    {
+      "text": "PPT",
+      "url": "https://www.duas.org/ppt/MunajatShaban.pptx"
+    },
+    {
+      "text": "Exegesis by Shaikh Shomali",
+      "url": "https://www.al-islam.org/message-thaqalayn/vol-17-no-1-spring-2016/reflections-munajat-shabaniyyah-mohammad-ali-shomali"
+    }
+  ],
+  "duas": [
+    {
+      "type": "dua",
+      "id": "dua-1",
+      "title": "Munajat Shabaniyah",
+      "description": "Imam `Ali Amir al-Mu'minin and the Holy Imams (peace be upon them) who used to recite it in the month of Shaban.” It is advisable to recite it with presence of heart all the time.<br>\nIt is recommended to say the following whispered prayer (munajat) that has been narrated by Ibn Khalawayh who commented on it, saying, “This is the confidential prayer of Imam `Ali Amir al-Mu'minin and the Holy Imams (peace be upon them) who used to recite it in the month of Shaban.” It is advisable to recite it with presence of heart all the time.\nThe late Mirza Agha Maliki Tabrizi, one of the teachers of Imam Khomeini, especially in the fields of ethics and spirituality, says that Munajat Sha‘baniyyah contains a wealth of knowledge and the etiquettes and manners of beseeching Allah, and how one can pray and ask for forgiveness from Him.",
+      "segments": [
+        {
+          "arabic": "اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
+          "transliteration": "allahumma salli `ala muhammadin wa ali muhammadin",
+          "translation": "O Allah, (please do) send blessings to Muhammad and the Household of Muhammad,"
+        },
+        {
+          "arabic": "وَٱسْمَعْ دُعَائِي إِذَا دَعَوْتُكَ",
+          "transliteration": "wasma` du`a'i idha da`awtuka",
+          "translation": "You listen to my supplication whenever I pray to you,"
+        },
+        {
+          "arabic": "وَٱسْمَعْ نِدَائِي إِذَا نَادَيْتُكَ",
+          "transliteration": "wasma` nida'i idha nadaytuka",
+          "translation": "listen to my call whenever I call upon you,"
+        },
+        {
+          "arabic": "وَأَقْبِلْ عَلَيَّ إِذَا نَاجَيْتُكَ",
+          "transliteration": "wa aqbil `alayya idha najaytuka",
+          "translation": "and accept from me whenever I make my submission to you in confidence,"
+        },
+        {
+          "arabic": "فَقَدْ هَرَبْتُ إِلَيْكَ",
+          "transliteration": "faqad harabtu ilayka",
+          "translation": "I have escaped towards you and stood before you,"
+        },
+        {
+          "arabic": "وَوَقَفْتُ بَيْنَ يَدَيْكَ مُسْتَكِيناً لَكَ",
+          "transliteration": "wa waqaftu bayna yadayka mustakinan laka",
+          "translation": "standing before You, showing submission to You,"
+        },
+        {
+          "arabic": "مُتَضَرِّعاً إِلَيْكَ",
+          "transliteration": "mutadarri`an ilayka",
+          "translation": "imploring You,"
+        },
+        {
+          "arabic": "رَاجِياً لِمَا لَدَيْكَ ثَوَابِي",
+          "transliteration": "rajiyan lima ladayka thawabi",
+          "translation": "and hoping for the reward that You have for me."
+        },
+        {
+          "arabic": "وَتَعْلَمُ مَا فِي نَفْسِي",
+          "transliteration": "wa ta`lamu ma fi nafsi",
+          "translation": "You know what is in my inner self,"
+        },
+        {
+          "arabic": "وَتَخْبُرُ حَاجَتِي",
+          "transliteration": "wa takhburu hajati",
+          "translation": "and you are aware of my needs,"
+        },
+        {
+          "arabic": "وَتَعْرِفُ ضَمِيرِي",
+          "transliteration": "wa ta`rifu damiri",
+          "translation": "and You know what is in my conscience,"
+        },
+        {
+          "arabic": "وَلاَ يَخْفَىٰ عَلَيْكَ أَمْرُ مُنْقَلَبِي وَمَثْوَايَ",
+          "transliteration": "wa la yakhfa `alayka amru munqalabi wa mathwaya",
+          "translation": "and all my moves and stillness are known by You."
+        },
+        {
+          "arabic": "وَمَا أُرِيدُ أَنْ أُبْدِئَ بِهِ مِنْ مَنْطِقِي",
+          "transliteration": "wa ma uridu an ubdi'a bihi min mantiqi",
+          "translation": "So are all the utterances which I want to begin with,"
+        },
+        {
+          "arabic": "وَأَتَفَوَّهَ بِهِ مِنْ طَلِبَتِي",
+          "transliteration": "wa atafawwaha bihi min talibati",
+          "translation": "all the requests that I want to express,"
+        },
+        {
+          "arabic": "وَأَرْجُوهُ لِعَاقِبَتِي",
+          "transliteration": "wa arjuhu li`aqibati",
+          "translation": "and all the expectation that I hope for my future."
+        },
+        {
+          "arabic": "وَقَدْ جَرَتْ مَقَادِيرُكَ عَلَيَّ يَا سَيِّدِي",
+          "transliteration": "wa qad jarat maqadiruka `alayya ya sayyidi",
+          "translation": "O my Master, all Your decsions in relation to me have come to pass"
+        },
+        {
+          "arabic": "فِيمَا يَكُونُ مِنِّي إِلَىٰ آخِرِ عُمْرِي",
+          "transliteration": "fima yakunu minni ila akhiri `umri",
+          "translation": "in all that happens to me up to the end of my life,"
+        },
+        {
+          "arabic": "مِنْ سَرِيرَتِي وَعَلانِيَتِي",
+          "transliteration": "min sarirati wa `alaniyati",
+          "translation": "including my secret and open matters, shall be experienced by me."
+        },
+        {
+          "arabic": "وَبِيَدِكَ لاَ بِيَدِ غَيْرِكَ زِيَادَتِي وَنَقْصِي",
+          "transliteration": "wa biyadika la biyadi ghayrika ziyadati wa naqsi",
+          "translation": "And it is in Your hands, not anybody else’s, that are all my gains and losses"
+        },
+        {
+          "arabic": "وَنَفْعِي وَضَرِّي",
+          "transliteration": "wa naf`i wa darri",
+          "translation": "and all the benefits and harms that come upon me."
+        },
+        {
+          "arabic": "إِلٰهِي إِنْ حَرَمْتَنِي فَمَنْ ذَا ٱلَّذِي يَرْزُقُنِي",
+          "transliteration": "ilahi in haramtani faman dha alladhi yarzuquni",
+          "translation": "My Lord, if You deprive me (of Your sustenance), then who else can ever provide me with sustenance?"
+        },
+        {
+          "arabic": "وَإِنْ خَذَلْتَنِي فَمَنْ ذَا ٱلَّذِي يَنْصُرُنِي",
+          "transliteration": "wa in khadhaltani faman dha alladhi yansuruni",
+          "translation": "If You forsake me, then who else will help me?"
+        },
+        {
+          "arabic": "إِلٰهِي أَعُوذُ بِكَ مِنْ غَضَبِكَ وَحُلُولِ سَخَطِكَ",
+          "transliteration": "ilahi a`udhu bika min ghadabika wa hululi sakhatika",
+          "translation": "My Lord, I do seek Your protection against Your wrath and earning your displeasure."
+        },
+        {
+          "arabic": "إِلٰهِي إِنْ كُنْتُ غَيْرَ مُسْتَأْهِلٍ لِرَحْمَتِكَ",
+          "transliteration": "ilahi in kuntu ghayra musta'hilin lirahmatika",
+          "translation": "O my Lord, if I am not deserving of Your mercy,"
+        },
+        {
+          "arabic": "فَأَنْتَ أَهْلٌ أَنْ تَجُودَ عَلَيَّ بِفَضْلِ سَعَتِكَ",
+          "transliteration": "fa-anta ahlun an tajuda `alayya bifadli sa`atika",
+          "translation": "You are certainly fit to be generous to me by virtue of your magnanimity."
+        },
+        {
+          "arabic": "إِلٰهِي كَأَنِّي بِنَفْسِي وَاقِفَةٌ بَيْنَ يَدَيْكَ",
+          "transliteration": "ilahi ka-anni binafsi waqifatun bayna yadayka",
+          "translation": "My Lord, its like I see myself standing before You"
+        },
+        {
+          "arabic": "وَقَدْ أَظَلَّهَا حُسْنُ تَوَكُّلِي عَلَيْكَ",
+          "transliteration": "wa qad azallaha husnu tawakkuli `alayka",
+          "translation": "It has been shaded by the goodness of my trust in you,"
+        },
+        {
+          "arabic": "فَقُلْتَ مَا أَنْتَ أَهْلُهُ وَتَغَمَّدْتَنِي بِعَفْوِكَ",
+          "transliteration": "faqulta ma anta ahluhu wa taghammadtani bi`afwika",
+          "translation": "You said what befitted You and sheltered me with your forgiveness."
+        },
+        {
+          "arabic": "إِلٰهِي إِنْ عَفَوْتَ فَمَنْ أَوْلَىٰ مِنْكَ بِذٰلِكَ",
+          "transliteration": "ilahi in `afawta faman awla minka bidhalika",
+          "translation": "My Lord, if you pardon me, then who else is worthier than You are in pardoning."
+        },
+        {
+          "arabic": "وَإِنْ كَانَ قَدْ دَنَا أَجَلِي وَلَمْ يُدْنِنِي مِنْكَ عَمَلِي",
+          "transliteration": "wa in kana qad dana ajali wa lam yudnini minka `amali",
+          "translation": "If my time of death is near and my deeds have not brought me close to You"
+        },
+        {
+          "arabic": "فَقَدْ جَعَلْتُ ٱلإِقْرَارَ بِٱلذَّنْبِ إِلَيْكَ وَسِيلَتِي",
+          "transliteration": "faqad ja`altu al-iqrara bildhdhanbi ilayka wasilati",
+          "translation": "I make this confession of my sins to be a means of approaching You."
+        },
+        {
+          "arabic": "إِلٰهِي قَدْ جُرْتُ عَلَىٰ نَفْسِي فِي ٱلنَّظَرِ لَهَا",
+          "transliteration": "ilahi qad jurtu `ala nafsi fi alnnazari laha",
+          "translation": "My Lord, I have been unjust to my soul for I have not looked after it;"
+        },
+        {
+          "arabic": "فَلَهَا ٱلْوَيْلُ إِنْ لَمْ تَغْفِرْ لَهَا",
+          "transliteration": "falaha alwaylu in lam taghfir laha",
+          "translation": "It will be doomed if You do not forgive me."
+        },
+        {
+          "arabic": "إِلٰهِي لَمْ يَزَلْ بِرُّكَ عَلَيَّ أَيَّامَ حَيَاتِي",
+          "transliteration": "ilahi lam yazal birruka `alayya ayyama hayati",
+          "translation": "My Lord, You have never ceased Your favors from me all my lifetime;"
+        },
+        {
+          "arabic": "فَلاَ تَقْطَعْ بِرَّكَ عَنِّي فِي مَمَاتِي",
+          "transliteration": "fala taqta` birraka `anni fi mamati",
+          "translation": "So do not cease Your goodness towards me at the time of my death."
+        },
+        {
+          "arabic": "إِلٰهِي كَيفَ آيَسُ مِنْ حُسْنِ نَظَرِكَ لِي بَعْدَ مَمَاتِي",
+          "transliteration": "ilahi kayfa ayasu min husni nazarika li ba`da mamati",
+          "translation": "My Lord, how can I despair of Your benevolent attention towards me after my death"
+        },
+        {
+          "arabic": "وَأَنْتَ لَمْ تُوَلِّنِي إِلاَّ ٱلْجَمِيلَ فِي حَيَاتِي",
+          "transliteration": "wa anta lam tuwallini illa aljamila fi hayati",
+          "translation": "while You have always been good to me throughout my lifetime?"
+        },
+        {
+          "arabic": "إِلٰهِي تَوَلَّ مِنْ أَمْرِي مَا أَنْتَ أَهْلُهُ",
+          "transliteration": "ilahi tawalla min amri ma anta ahluhu",
+          "translation": "My Lord, (please) manage my affairs in the very way that befits You,"
+        },
+        {
+          "arabic": "وَعُدْ عَلَيَّ بِفَضْلِكَ عَلَىٰ مُذْنِبٍ قَدْ غَمَرَهُ جَهْلُهُ",
+          "transliteration": "wa `ud `alayya bifadlika `ala mudhnibin qad ghamarahu jahluhu",
+          "translation": "and confer upon me—a sinful person who is covered by his ignorance—with Your favors."
+        },
+        {
+          "arabic": "إِلٰهِي قَدْ سَتَرْتَ عَلَيَّ ذُنُوباً فِي ٱلدُّنْيَا",
+          "transliteration": "ilahi qad satarta `alayya dhunuban fi alddunya",
+          "translation": "My Lord, You have concealed my sins in this world,"
+        },
+        {
+          "arabic": "وَأَنَا أَحْوَجُ إِلَىٰ سَتْرِهَا عَلَيَّ مِنْكَ فِي ٱلأُخْرَىٰ",
+          "transliteration": "wa ana ahwaju ila satriha `alayya minka fi al-ukhra",
+          "translation": "but I am in greater need of their being concealed in the Next Life."
+        },
+        {
+          "arabic": "إِلٰهِى قَدْ أَحْسَنْتَ إِلَىَّ إِذْ لَمْ تُظْهِرْها لِأَحَدٍ مِنْ عِبادِكَ الصَّالِحِينَ",
+          "transliteration": "Ilahee qad ahsanta ilayya idh lam tudhhirha li-ahadin min `ibadika alssalihina",
+          "translation": "My Allah, You have been gracious to me by not revealing it to any of Your righteous servants,"
+        },
+        {
+          "arabic": "فَلاَ تَفْضَحْنِي يَوْمَ ٱلْقِيَامَةِ عَلَىٰ رُؤُوسِ ٱلْأَشْهَادِ",
+          "transliteration": "fala tafdahni yawma alqiyamati `ala ru'usi al-ashhadi",
+          "translation": "so do not disgrace me on the Day of Resurrection before the witnesses."
+        },
+        {
+          "arabic": "إِلٰهِي جُودُكَ بَسَطَ أَمَلِي",
+          "transliteration": "ilahi juduka basata amali",
+          "translation": "My Lord, it is Your magnanimity that expanded my hope,"
+        },
+        {
+          "arabic": "وَعَفْوُكَ أَفْضَلُ مِنْ عَمَلِي",
+          "transliteration": "wa `afwuka afdalu min `amali",
+          "translation": "and surely Your pardon is superior to my deeds."
+        },
+        {
+          "arabic": "إِلٰهِي فَسُرَّنِي بِلِقَائِكَ يَوْمَ تَقْضِي فِيهِ بَيْنَ عِبَادِكَ",
+          "transliteration": "ilahi fasurrani biliqa'ika yawma taqdi fihi bayna `ibadika",
+          "translation": "My Lord, therefore gladden my heart when I meet You on the day when You shall judge between Your servants."
+        },
+        {
+          "arabic": "إِلٰهِي ٱعْتِذَارِي إِلَيْكَ ٱعْتِذَارُ مَنْ لَمْ يَسْتَغْنِ عَنْ قَبُولِ عُذْرِهِ",
+          "transliteration": "ilahi i`tidhari ilayka i`tidharu man lam yastaghni `an qabuli `udhrihi",
+          "translation": "My Lord, I submit to You the apology of one who cannot dispense with the acceptance of his excuse;"
+        },
+        {
+          "arabic": "فَٱقْبَلْ عُذْرِي يَا أَكْرَمَ مَنِ ٱعْتَذَرَ إِلَيْهِ ٱلْمُسِيئُونَ",
+          "transliteration": "faqbal `udhri ya akrama man i`tadhara ilayhi almusi'una",
+          "translation": "so, (please) accept my excuse, O most Magnanimous of all those before whom the guilty make an apology."
+        },
+        {
+          "arabic": "إِلٰهِي لاَ تَرُدَّ حَاجَتِي",
+          "transliteration": "ilahi la tarudda hajati",
+          "translation": "My Lord, (please) do not reject my request,"
+        },
+        {
+          "arabic": "وَلاَ تُخَيِّبْ طَمَعِي",
+          "transliteration": "wa la tukhayyib tama`i",
+          "translation": "do not dissapoint my hope for You,"
+        },
+        {
+          "arabic": "وَلاَ تَقْطَعْ مِنْكَ رَجَائِي وَأَمَلِي",
+          "transliteration": "wa la taqta` minka raja'i wa amali",
+          "translation": "and do not cut off from You my hope and expectations from You."
+        },
+        {
+          "arabic": "إِلٰهِي لَوْ أَرَدْتَ هَوَانِي لَمْ تَهْدِنِي",
+          "transliteration": "ilahi law aradta hawani lam tahdini",
+          "translation": "My Lord, had You wanted to humiliate me, You would not have guided me (to You)."
+        },
+        {
+          "arabic": "وَلَوْ أَرَدْتَ فَضِيحَتِي لَمْ تُعَافِنِي",
+          "transliteration": "wa law aradta fadihati lam tu`afini",
+          "translation": "Had You decided to humiliate me,You would not have excused me."
+        },
+        {
+          "arabic": "إِلٰهِي مَا أَظُنُّكَ تَرُدُّنِي فِي حَاجَةٍ قَدْ أَفْنَيْتُ عُمْرِي فِي طَلَبِهَا مِنْكَ",
+          "transliteration": "ilahi ma azunnuka tarudduni fi hajatin qad afnaytu `umri fi talabiha minka",
+          "translation": "My Lord, I do not expect You to reject my request that I spent my whole lifetime asking for it from You."
+        },
+        {
+          "arabic": "إِلٰهِي فَلَكَ ٱلْحَمْدُ أَبَداً أَبَداً دَائِماً سَرْمَداً",
+          "transliteration": "ilahi falaka alhamdu abadan abadan da'iman sarmadan",
+          "translation": "My Lord, all praise be to You, forever, forever, perpetually, everlastingly,"
+        },
+        {
+          "arabic": "يَزِيدُ وَلاَ يَبِيدُ كَمَا تُحِبُّ وَتَرْضَىٰ",
+          "transliteration": "yazidu wa la yabidu kama tuhibbu wa tarda",
+          "translation": "increasingly, and imperishably, as exactly as You like and please."
+        },
+        {
+          "arabic": "إِلٰهِي إِنْ أَخَذْتَنِي بِجُرْمِي أَخَذْتُكَ بِعَفْوِكَ",
+          "transliteration": "ilahi in akhadhtani bijurmi akhadhtuka bi`afwika",
+          "translation": "My Lord, if You punish me for my offense, I shall cling to Your pardon,"
+        },
+        {
+          "arabic": "وَإِنْ أَخَذْتَنِي بِذُنُوبِي أَخَذْتُكَ بِمَغْفِرَتِكَ",
+          "transliteration": "wa in akhadhtani bidhunubi akhadhtuka bimaghfiratika",
+          "translation": "if You cease me for my sins, I shall take hold of Your forgiveness,"
+        },
+        {
+          "arabic": "وَإِنْ أَدْخَلْتَنِي ٱلنَّارَ أَعْلَمْتُ أَهْلَهَا أَنِّي أُحِبُّكَ",
+          "transliteration": "wa in adkhaltani alnnara a`lamtu ahlaha anni uhibbuka",
+          "translation": "and if You put me to the fire, I shall declare to its inmates that I love You."
+        },
+        {
+          "arabic": "إِلٰهِي إِنْ كَانَ صَغُرَ فِي جَنْبِ طَاعَتِكَ عَمَلِي",
+          "transliteration": "ilahi in kana saghura fi janbi ta`atika `amali",
+          "translation": "My Lord, should my deeds be insignificant with respect to obedience to You,"
+        },
+        {
+          "arabic": "فَقَدْ كَبُرَ فِي جَنْبِ رَجَائِكَ أَمَلِي",
+          "transliteration": "faqad kabura fi janbi raja'ika amali",
+          "translation": "Great indeed is my hope with respect to my expectations from You."
+        },
+        {
+          "arabic": "إِلٰهِي كَيْفَ أَنْقَلِبُ مِنْ عِنْدِكَ بِٱلْخَيْبَةِ مَحْرُوماً",
+          "transliteration": "ilahi kayfa anqalibu min `indika bilkhaybati mahruman",
+          "translation": "My Lord, how can it be that I return from You with disappointment and deprivation"
+        },
+        {
+          "arabic": "وَقَدْ كَانَ حُسْنُ ظَنِّي بِجُودِكَ أَنْ تَقْلِبَنِي بِٱلنَّجَاةِ مَرْحُوماً",
+          "transliteration": "wa qad kana husnu zanni bijudika an taqlibani bilnnajati marhuman",
+          "translation": "for indeed my beautiful opinion about Your generosity was that You shall reverse my fate by savng me mercifully."
+        },
+        {
+          "arabic": "إِلٰهِي وَقَدْ أَفْنَيْتُ عُمْرِي فِي شِرَّةِ ٱلسَّهْوِ عَنْكَ",
+          "transliteration": "ilahi wa qad afnaytu `umri fi shirrati alssahwi `anka",
+          "translation": "My Lord, I have spent my entire lifetime in being negligent to You"
+        },
+        {
+          "arabic": "وَأَبْلَيْتُ شَبَابِي فِي سَكْرَةِ ٱلتَّبَاعُدِ مِنْكَ",
+          "transliteration": "wa ablaytu shababi fi sakrati alttaba`udi minka",
+          "translation": "and I have spent my whole youth with the stupor of being distant from You."
+        },
+        {
+          "arabic": "إِلٰهِي فَلَمْ أَسْتَيْقِظْ أَيَّامَ ٱغْتِرَارِي بِكَ",
+          "transliteration": "ilahi falam astayqiz ayyama ightirari bika",
+          "translation": "My Lord, I did not wake up from my delusions"
+        },
+        {
+          "arabic": "وَرُكُونِي إِلَىٰ سَبِيلِ سَخَطِكَ",
+          "transliteration": "wa rukuni ila sabili sakhatika",
+          "translation": "and did not desist from pursuing the path of Your displeasure."
+        },
+        {
+          "arabic": "إِلٰهِي وَأَنَا عَبْدُكَ وَٱبْنُ عَبْدِكَ قَائِمٌ بَيْنَ يَدَيْكَ",
+          "transliteration": "ilahi wa ana `abduka wabnu `abdika qa'imun bayna yadayka",
+          "translation": "My Lord, nevertheless, I am—Your servant and the son of Your servant,now standing before You"
+        },
+        {
+          "arabic": "مُتَوَسِّلٌ بِكَرَمِكَ إِلَيْكَ",
+          "transliteration": "mutawassilun bikaramika ilayka",
+          "translation": "and begging You in the name of Your generosity."
+        },
+        {
+          "arabic": "إِلٰهِي أَنَا عَبْدٌ أَتَنَصَّلُ إِلَيْكَ مِمَّا كُنْتُ أُوَاجِهُكَ بِهِ",
+          "transliteration": "ilahi ana `abdun atanassalu ilayka mimma kuntu uwajihuka bihi",
+          "translation": "My Lord, I am a servant, disavowing before You"
+        },
+        {
+          "arabic": "مِنْ قِلَّةِ ٱسْتِحْيَائِي مِنْ نَظَرِكَ",
+          "transliteration": "min qillati istihya'i min nazarika",
+          "translation": "of my past attitude of lack of shame in Your sight"
+        },
+        {
+          "arabic": "وَأَطْلُبُ ٱلْعَفْوَ مِنْكَ إِذ ِٱلْعَفْوُ نَعْتٌ لِكَرَمِكَ",
+          "transliteration": "wa atlubu al`afwa minka idh al`afwu na`tun likaramika",
+          "translation": "seek Your pardon as it is the attribute of Your magnanimty to pardon;"
+        },
+        {
+          "arabic": "إِلٰهِي لَمْ يَكُنْ لِي حَوْلٌ فَأَنْتَقِلَ بِهِ عَنْ مَعْصِيَتِكَ",
+          "transliteration": "ilahi lam yakun li hawlun fa-antaqila bihi `an ma`siyatika",
+          "translation": "My Lord, I had no strength to desist from Your disobedience"
+        },
+        {
+          "arabic": "إِلاَّ فِي وَقْتٍ أَيْقَظْتَنِي لِمَحَبَّتِكَ",
+          "transliteration": "illa fi waqtin ayqaztani limahabbatika",
+          "translation": "except when You awakened me for Your love"
+        },
+        {
+          "arabic": "وَكَمَا أَرَدْتَ أَنْ أَكُونَ كُنْتُ",
+          "transliteration": "wa kama aradta an akuna kuntu",
+          "translation": "Hence, I desired, that I become exactly as You want me to be."
+        },
+        {
+          "arabic": "فَشَكَرْتُكَ بِإِدْخَالِي فِي كَرَمِكَ",
+          "transliteration": "fashakartuka bi-idkhali fi karamika",
+          "translation": "I have thus thanked You, for You admitting me into Your generosity"
+        },
+        {
+          "arabic": "وَلِتَطْهِيرِ قَلْبِي مِنْ أَوْسَاخِ ٱلْغَفْلَةِ عَنْكَ",
+          "transliteration": "wa litathiri qalbi min awsakhi alghaflati `anka",
+          "translation": "and You have purified my heart from the filth of being inattentive to You."
+        },
+        {
+          "arabic": "إِلٰهِي ٱنْظُرْ إِلَيَّ نَظَرَ مَنْ نَادَيْتَهُ فَأَجَابَكَ",
+          "transliteration": "ilahi unzur ilayya nazara man nadaytahu fa-ajabaka",
+          "translation": "My Lord, (please) look upon me in the same way as You have looked at one whom You called and he has responded to You"
+        },
+        {
+          "arabic": "وَٱسْتَعْمَلْتَهُ بِمَعُونَتِكَ فَأَطَاعَكَ",
+          "transliteration": "wasta`maltahu bima`unatika fa-ata`aka",
+          "translation": "and whom You used him in Your service with Your aid and so he obeys You."
+        },
+        {
+          "arabic": "يَا قَرِيباً لاَ يَبْعُدُ عَنِ ٱلْمُغْتَرِّ بِهِ",
+          "transliteration": "ya qariban la yab`udu `an almughtarri bihi",
+          "translation": "O the Near one who is not far away from those who love Him ardently"
+        },
+        {
+          "arabic": "وَيَا جَوَاداً لاَ يَبْخَلُ عَمَّنْ رَجَا ثَوَابَهُ",
+          "transliteration": "wa ya jawadan la yabkhalu `amman raja thawabahu",
+          "translation": "O He Who is too magnanimous to deprive one who hopes for His reward!"
+        },
+        {
+          "arabic": "إِلٰهِي هَبْ لِي قَلْباً يُدْنِيهِ مِنْكَ شَوْقُهُ",
+          "transliteration": "ilahi hab li qalban yudnihi minka shawquhu",
+          "translation": "My Lord, (please) grant me a heart whose longing for You will draw one close to You,"
+        },
+        {
+          "arabic": "وَلِسَاناً يُرْفَعُ إِلَيْكَ صِدْقُهُ",
+          "transliteration": "wa lisanan yurfa`u ilayka sidquhu",
+          "translation": "a tongue whose truthfulness ascends towards You,"
+        },
+        {
+          "arabic": "وَنَظَراً يُقَرِّبُهُ مِنْكَ حَقُّهُ",
+          "transliteration": "wa nazaran yuqarribuhu minka haqquhu",
+          "translation": "and a sight whose trueness brings it close to You."
+        },
+        {
+          "arabic": "إِلٰهِي إِنَّ مَنْ تَعَرَّفَ بِكَ غَيْرُ مَجْهُولٍ",
+          "transliteration": "ilahi inna man ta`arrafa bika ghayru majhulin",
+          "translation": "My Lord, certainly he who recognizes You shall never be anonymous,"
+        },
+        {
+          "arabic": "وَمَنْ لاَذَ بِكَ غَيْرُ مَخْذُولٍ",
+          "transliteration": "wa man ladha bika ghayru makhdhulin",
+          "translation": "he who seeks Your shelter shall never be disappointed,"
+        },
+        {
+          "arabic": "وَمَنْ أَقْبَلْتَ عَلَيْهِ غَيْرُ مَمْلُولٍ",
+          "transliteration": "wa man aqbalta `alayhi ghayru mamlulin",
+          "translation": "and he to whom You turn to does not fall victim to servility(dejection)."
+        },
+        {
+          "arabic": "إِلٰهِي إِنَّ مَنِ ٱنْتَهَجَ بِكَ لَمُسْتَنِيرٌ",
+          "transliteration": "ilahi inna man intahaja bika lamustanirun",
+          "translation": "My Lord, certainly he who abides by Your Path shall be enlightened,"
+        },
+        {
+          "arabic": "وَإِنَّ مَنِ ٱعْتَصَمَ بِكَ لَمُسْتَجِيرٌ",
+          "transliteration": "wa inna man i`tasama bika lamustajirun",
+          "translation": "and he who resorts in You finds refuge."
+        },
+        {
+          "arabic": "وَقَدْ لُذْتُ بِكَ يَا إِلٰهِي فَلاَ تُخَيِّبْ ظَنِّي مِنْ رَحْمَتِكَ",
+          "transliteration": "wa qad ludhtu bika ya ilahi fala tukhayyib zanni min rahmatika",
+          "translation": "Indeed certainly I have taken shelter in You, My Lord! So, (please) do not let down my opinion in Your mercy"
+        },
+        {
+          "arabic": "وَلاَ تَحْجُبْنِي عَنْ رَأْفَتِكَ",
+          "transliteration": "wa la tahjubni `an ra'fatika",
+          "translation": "and do not exclude me from Your compassion."
+        },
+        {
+          "arabic": "إِلٰهِي أَقِمْنِي فِي أَهْلِ وِلايَتِكَ",
+          "transliteration": "ilahi aqimni fi ahli wilayatika",
+          "translation": "My Lord, place me, among those who show servitude to You,"
+        },
+        {
+          "arabic": "مُقَامَ مَنْ رَجَا ٱلزِّيَادَةَ مِنْ مَحَبَّتِكَ",
+          "transliteration": "muqama man raja alzziyadata min mahabbatika",
+          "translation": "the position of those who (incessantly) hope to increase Your love."
+        },
+        {
+          "arabic": "إِلٰهِي وَأَلْهِمْنِي وَلَهاً بِذِكْرِكَ إِلَىٰ ذِكْرِكَ",
+          "transliteration": "ilahi wa alhimni walahan bidhikrika ila dhikrika",
+          "translation": "My Lord, (please) inspire me with a mounting passion for Your rememberance,"
+        },
+        {
+          "arabic": "وَهِمَّتِي فِي رَوْحِ نَجَاحِ أَسْمَائِكَ وَمَحَلِّ قُدْسِكَ",
+          "transliteration": "wa himmati fi rawhi najahi asma'ika wa mahalli qudsika",
+          "translation": "and (please) with an ardour for the refreshing resort to Your names and the station of Your Holiness."
+        },
+        {
+          "arabic": "إِلٰهِي بِكَ عَلَيْكَ إِلاَّ أَلْحَقْتَنِي بِمَحَلِّ أَهْلِ طَاعَتِكَ",
+          "transliteration": "ilahi bika `alayka illa alhaqtani bimahalli ahli ta`atika",
+          "translation": "My Lord, I beseech You in Your name to put me in the abode of those who are obedient to You"
+        },
+        {
+          "arabic": "وَٱلْمَثْوَىٰ ٱلصَّالِحِ مِنْ مَرْضَاتِكَ",
+          "transliteration": "walmathwa alssalihi min mardatika",
+          "translation": "and to the righteous sanctuary of Your good pleasure,"
+        },
+        {
+          "arabic": "فَإِنِّي لاَ أَقْدِرُ لِنَفْسِي دَفْعاً",
+          "transliteration": "fa'inni la aqdiru linafsi daf`an",
+          "translation": "for I,certainly I have no power to repel any harm"
+        },
+        {
+          "arabic": "وَلاَ أَمْلِكُ لَهَا نَفْعاً",
+          "transliteration": "wa la amliku laha naf`an",
+          "translation": "nor to obtain any benefit for it."
+        },
+        {
+          "arabic": "إِلٰهِي أَنَا عَبْدُكَ ٱلضَّعِيفُ ٱلْمُذْنِبُ",
+          "transliteration": "ilahi ana `abduka aldda`ifu almudhnibu",
+          "translation": "My Lord, I am Your weak and sinful servant—"
+        },
+        {
+          "arabic": "وَمَمْلُوكُكَ ٱلْمُنِيبُ",
+          "transliteration": "wa mamlukuka almunibu",
+          "translation": "and Your repenting slave."
+        },
+        {
+          "arabic": "فَلاَ تَجْعَلْنِي مِمَّنْ صَرَفْتَ عَنْهُ وَجْهَكَ",
+          "transliteration": "fala taj`alni mimman sarafta `anhu wajhaka",
+          "translation": "So, (please) do not include me amongst those from whom You have turned away Your face"
+        },
+        {
+          "arabic": "وَحَجَبَهُ سَهْوُهُ عَنْ عَفْوِكَ",
+          "transliteration": "wa hajabahu sahwuhu `an `afwika",
+          "translation": "and those who are excluded from Your pardon because of their lapses."
+        },
+        {
+          "arabic": "إِلٰهِي هَبْ لي كَمَالَ ٱلاِنْقِطَاعِ إِلَيْكَ",
+          "transliteration": "ilahi hab li kamala alinqita`i ilayka",
+          "translation": "My Lord, (please) grant me absolute devotion to You"
+        },
+        {
+          "arabic": "وَأَنِرْ أَبْصَارَ قُلُوبِنَا بِضِيَاءِ نَظَرِهَا إِلَيْكَ",
+          "transliteration": "wa anir absara qulubina bidiya'i nazariha ilayka",
+          "translation": "and illumine the vision of our hearts by the light of their gaze looking towards You"
+        },
+        {
+          "arabic": "حَتَّىٰ تَخْرِقَ أَبْصَارُ ٱلْقُلُوبِ حُجُبَ ٱلنُّورِ",
+          "transliteration": "hatta takhriqa absaru alqulubi hujuba alnnuri",
+          "translation": "until the vision of our hearts pierces the curtains of light"
+        },
+        {
+          "arabic": "فَتَصِلَ إِلَىٰ مَعْدِنِ ٱلْعَظَمَةِ",
+          "transliteration": "fatasila ila ma`dini al`azamati",
+          "translation": "to reach the core of supremacy,"
+        },
+        {
+          "arabic": "وَتَصِيرَ أَرْوَاحُنَا مُعَلَّقَةً بِعِزِّ قُدْسِكَ",
+          "transliteration": "wa tasira arwahuna mu`allaqatan bi`izzi qudsika",
+          "translation": "and that our souls become suspended by the majesty of Your Holiness."
+        },
+        {
+          "arabic": "إِلٰهِي وَٱجْعَلْنِي مِمَّنْ نَادَيْتَهُ فَأَجَابَكَ",
+          "transliteration": "ilahi waj`alni mimman nadaytahu fa-ajabaka",
+          "translation": "My Lord, (please) appoint me of those who responded to You when You called them,"
+        },
+        {
+          "arabic": "وَلاحَظْتَهُ فَصَعِقَ لِجَلالِكَ",
+          "transliteration": "wa lahaztahu fasa`iqa lijalalika",
+          "translation": "and at whom You glanced so he swoons before Your Majesty"
+        },
+        {
+          "arabic": "فَنَاجَيْتَهُ سِرّاً وَعَمِلَ لَكَ جَهْراً",
+          "transliteration": "fanajaytahu sirran wa `amila laka jahran",
+          "translation": "So You speak to him secretly and he works for You openly."
+        },
+        {
+          "arabic": "إِلٰهِي لَمْ أُسَلِّطْ عَلَىٰ حُسْنِ ظَنِّي قُنُوطَ ٱلأَيَاسِ",
+          "transliteration": "ilahi lam usallit `ala husni zanni qunuta al-ayasi",
+          "translation": "My Lord, do not let the dejection of despair overshadow my beautiful opinion"
+        },
+        {
+          "arabic": "وَلاَ ٱنْقَطَعَ رَجَائِي مِنْ جَمِيلِ كَرَمِكَ",
+          "transliteration": "wa la inqata`a raja'i min jamili karamika",
+          "translation": "and do not cut my hope from Your generosity"
+        },
+        {
+          "arabic": "إِلٰهِي إِنْ كَانَتِ ٱلْخَطَايَا قَدْ أَسْقَطَتْنِي لَدَيْكَ",
+          "transliteration": "ilahi in kanat alkhataya qad asqatatni ladayka",
+          "translation": "My Lord, if my lapses have made me to fall from Your grace,"
+        },
+        {
+          "arabic": "فَٱصْفَحْ عَنِّي بِحُسْنِ تَوَكُّلِي عَلَيْكَ",
+          "transliteration": "fasfah `anni bihusni tawakkuli `alayka",
+          "translation": "So please pardon me for the beauty of my reliance upon You."
+        },
+        {
+          "arabic": "إِلٰهِي إِنْ حَطَّتْنِيَ ٱلذُّنُوبُ مِنْ مَكَارِمِ لُطْفِكَ",
+          "transliteration": "ilahi in hattatni aldhdhunubu min makarimi lutfika",
+          "translation": "My Lord, if my wrongdoings have excluded me from the generosity of Your grace,"
+        },
+        {
+          "arabic": "فَقَدْ نَبَّهَنِي ٱلْيَقِينُ إِلَىٰ كَرَمِ عَطْفِكَ",
+          "transliteration": "faqad nabbahani alyaqinu ila karami `atfika",
+          "translation": "So certainly my conviction reassures me of Your generosity and gentleness."
+        },
+        {
+          "arabic": "إِلٰهِي إِنْ أَنَامَتْنِيَ ٱلْغَفْلَةُ عَنِ ٱلإِسْتِعْدَادِ لِلِقَائِكَ",
+          "transliteration": "ilahi in anamatni alghaflatu `an alisti`dadi liliqa'ika",
+          "translation": "My Lord, if my neglect has lulled me into slumber preventing me from preparing myself for my meeting with You,"
+        },
+        {
+          "arabic": "فَقَدْ نَبَّهَتْنِي ٱلْمَعْرِفَةُ بِكَرَمِ آلاَئِكَ",
+          "transliteration": "faqad nabbahatni alma`rifatu bikarami ala'ika",
+          "translation": "So certainly my recognition apprises me of your generous bounties has awakened me."
+        },
+        {
+          "arabic": "إِلٰهِي إِنْ دَعَانِي إِلَىٰ ٱلنَّارِ عَظِيمُ عِقَابِكَ",
+          "transliteration": "ilahi in da`ani ila alnnari `azimu `iqabika",
+          "translation": "My Lord, if Your grave chastisement calls me to the Hellfire,"
+        },
+        {
+          "arabic": "فَقَدْ دَعَانِي إِلَىٰ ٱلْجَنَّةِ جَزِيلُ ثَوَابِكَ",
+          "transliteration": "faqad da`ani ila aljannati jazilu thawabika",
+          "translation": "So Your plentious reward has called me to Paradise."
+        },
+        {
+          "arabic": "إِلٰهِي فَلَكَ أَسْأَلُ وَإِلَيْكَ أَبْتَهِلُ وَأَرْغَبُ",
+          "transliteration": "ilahi falaka as'alu wa ilayka abtahilu wa arghabu",
+          "translation": "My Lord, so to You I beg and I implore and I request."
+        },
+        {
+          "arabic": "وَأَسْأَلُكَ أَنْ تُصَلِّيَ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
+          "transliteration": "wa as'aluka an tusalliya `ala muhammadin wa ali muhammadin",
+          "translation": "I beseech You to bless Muhammad and the Household of Muhammad"
+        },
+        {
+          "arabic": "وَأَنْ تَجْعَلَنِي مِمَّنْ يُدِيمُ ذِكْرَكَ",
+          "transliteration": "wa an taj`alani mimman yudimu dhikraka",
+          "translation": "and to include me with those who always remember You,"
+        },
+        {
+          "arabic": "وَلاَ يَنْقُضُ عَهْدَكَ",
+          "transliteration": "wa la yanqudu `ahdaka",
+          "translation": "and those who never break their promise to You,"
+        },
+        {
+          "arabic": "وَلاَ يَغْفُلُ عَنْ شُكْرِكَ",
+          "transliteration": "wa la yaghfulu `an shukrika",
+          "translation": "and who do not neglect to thank You,"
+        },
+        {
+          "arabic": "وَلاَ يَسْتَخِفُّ بِأَمْرِكَ",
+          "transliteration": "wa la yastakhiffu bi-amrika",
+          "translation": "and who never belittle Your commands."
+        },
+        {
+          "arabic": "إِلٰهِي وَأَلْحِقْنِي بِنُورِ عِزِّكَ ٱلأَبْهَجِ",
+          "transliteration": "ilahi wa alhiqni binuri `izzika al-abhaji",
+          "translation": "My Lord, (please do) submerge me in the most blissful lights of Your majesty,"
+        },
+        {
+          "arabic": "فَأَكُونَ لَكَ عَارِفاً",
+          "transliteration": "fa-akuna laka `arifan",
+          "translation": "so that I will recognize You"
+        },
+        {
+          "arabic": "وَعَنْ سِوَاكَ مُنْحَرِفاً",
+          "transliteration": "wa `an siwaka munharifan",
+          "translation": "and renounce all else except You,"
+        },
+        {
+          "arabic": "وَمِنْكَ خَائِفاً مُرَاقِباً",
+          "transliteration": "wa minka kha'ifan muraqiban",
+          "translation": "and that I will be fearful of and careful with You."
+        },
+        {
+          "arabic": "يَا ذَا ٱلْجَلاَلِ وَٱلإِكْرَامِ",
+          "transliteration": "ya dha aljalali wal-ikrami",
+          "translation": "O Lord of Majesty and Honor!"
+        },
+        {
+          "arabic": "وَصَلَّىٰ ٱللَّهُ عَلَىٰ مُحَمَّدٍ رَسُولِهِ وَآلِهِ ٱلطَّاهِرِينَ",
+          "transliteration": "wa salla allahu `ala muhammadin rasulihi wa alihi alttahirina",
+          "translation": "May Allah send blessings to Muhammad, His Messenger, and upon his Household the Infallible,"
+        },
+        {
+          "arabic": "وَسَلَّمَ تَسْلِيماً كَثِيراً",
+          "transliteration": "wa sallama tasliman kathiran",
+          "translation": "and may countless greetings be to them."
+        }
+      ],
+      "audio": "https://mp3.duas.org/shabania%20munajaat.mp3",
+      "youtube": "https://www.youtube.com/watch?v=74unPo6KUcg",
+      "reference": "Iqbal al-A’mal (by Sayyid Ibn Tawus)",
+      "tags": [
+        "munajat",
+        "shaban",
+        "shabaniyah",
+        "15 Shaban"
+      ],
+      "meta": {
+        "featured": false,
+        "type": "Munajat",
+        "collection": "Iqbal Al Amaal",
+        "purpose": [
+          "Forgiveness of Sins"
+        ],
+        "personalities": [
+          "Imam Ali (as)"
+        ],
+        "timing": {
+          "days": [],
+          "times": [
+            "Night-Eve"
+          ],
+          "events": [],
+          "dates": [
+            {
+              "month": "Shaban"
+            }
+          ]
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    },
+    {
+      "type": "text",
+      "title": "Translation by Ihyā Academy",
+      "content": "In the Name of Allah the Beneficent the Merciful Oh Allah! Send your choicest mercy upon Muhammad and the progeny of Muhammad S. Hear my prayer when I supplicate to you, and Hear my cry when I call out to you And turn towards me when I whisper to you! (as) surely I have come fleeing to you and (now) stand before you (in a state that I am) desperately pleading towards You, beseeching You, (being) hopeful towards what you have rewarding for me, (while) You know what is in my soul and You have news of my need and You are aware of my hidden reality.\nAnd the affairs of my turns and stations are not hidden from You (and likewise) what I want to begin expressing, and bring to utterance in asking, and the hopes for my ultimate culmination (are not hidden from You) And Your Preordained measured capacities for me will transpire, Oh My Master, in what is going to ensue from me till the end of my life, in account of my affairs (both) hidden and apparent, And in Your Hand and not in the hand of other than You, lies the increase, decrease, benefit and harm (in the affairs of my life – hidden and apparent)\n\nMy God! If you hold back from me, then who will provide me with sustenance? And if you forsake me, then who will come to my assistance?\nMy God! I seek Your Protection from Your Wrath, and from becoming eligible for Your Displeasure\nMy God! If I am not worthy of Your Mercy, You are (indeed) worthy of generosity towards me by the expansiveness of Your Grace.\nMy God! As if I myself stand in your Presence while my high degree of trust and reliance upon You has shaded me; so You said [did] what You are worthy of, and (thereby) wrapped me in Your Pardon.\nMy God! If You pardon, then who is more suited than You to do so? And if my death has come near, and my deeds did not yet bring me close to You, then I make this confession of my sins to You a means of approaching You.\nMy God! I have been unjust upon my soul due to fixation (on base needs) for its sake, and it will certainly be doomed if You do not forgive it.\nMy God! You have continually been kind to me in my lifetime, so do not cut off Your favour from me at the time of my death.\nMy God! How can I despair from your good attention towards me after my death, while you have not left me (with anything) but beauty in my lifetime.\nMy God! Undertake guardianship of my affairs in a way that befits You and return favourably with your Grace towards a sinner whose ignorance has become immersive.\nMy God! You surely covered my sins in the temporal life, while I am in greater need of Your covering them for me in the Next. (\nMy God! You acted benevolently towards me) when you did not make them apparent to anyone from Your Virtuous Servants, so do not expose me on the day of Rising, before the faces of onlookers.\n\nMy God! Your Generosity has increased my aspiration, and Your Pardon is worthier than my action.\nMy God! So make me exhilarated by Your Meeting on the day wherein You will judge between Your Servants.\nMy God! My apology to You is the seeking excuse of someone who cannot afford the non-acceptance of his apology, thus accept my excuse, O the Most Honouring One that the sinners seek excuse from.\nMy God! Don’t turn my request down, and don’t undermine my yearning, and don’t cut off my hope and aspirations from You.\nMy God! If You had wanted my disgrace, You would not have guided me, and if You had wanted to expose me, You would not have kept me well.\nMy God! I don’t reckon You will turn down a request I have expended my whole life in seeking it from You.\n\nMy God! To You belongs All Praise, everlastingly, eternally, forever, perpetually, increasing and not diminishing, the way You Love and Please.\nMy God! If You take me to task for my crimes, I will cling to You by Your Pardon, and if You hold me responsible for my sins, I will cling to You by Your Forgiveness, And if You make me enter Hell, I will announce to its inmates that I surely love You!\nMy God! If my deeds fall short before (the suitability of) Your Obedience, my aspirations are uplifted due to (the degree of) Hope I hold in You.\nMy God! How can I turn away from You, failed and denied, while my Good opinion of Your Generosity made me sure of becoming successful and blessed.\n\nMy God! I have perished my life in the greed of oblivion (away) from You, and I have decayed my youth in the intoxication of becoming distant from You.\nMy God! I did not wake up while arrogant towards You and while seeking the path of Your displeasure.\nMy God! I am your servant, the son of Your servant, standing before You, interceding by means of Your Magnanimity towards You.\nMy God! I am a servant seeking elimination from You of all what was committed by me in Your Presence unashamedly, with low regard for Your Watch, And I seek Pardon from You, as Pardon is a characteristic of Your Magnanimity.\nMy God! I did not have the ability (by which) I could move away from Your disobedience, except in moments that You woke me up to Your Love.\nAnd the way you Willed that I be, I was, thus I thanked You for including me in Your Magnanimity, and for purifying my heart from the filth of negligence towards You. My God! Look at me the look of a person who You have called out to, and he answered you, and who You empowered to serve You and he obeyed You.\nO the Near who is not away from the one infatuated with Him! O the Generous who does not withhold from the one who hopes for His reward.\nMy God! Grant me a heart that is drawn near to You by its passion, and a tongue whose truthfulness raises it towards You, and a sight whose authenticity brings it close to You.\nMy God! Indeed the one who recognizes through You is not unknown, the one who takes shelter in You is not forsaken, and the one who You turn towards is not owned by another (or, is not fatigued). My God! Indeed the one who treads the path through You is surely enlightened, the one who holds onto You has surely sought refuge, and certainly I have sought refuge with You my God! So do not disappoint my notions from Your Mercy, and do not veil me from Your Kindness."
+    }
+  ],
+  "meta": {
+    "featured": false,
+    "type": "Munajat",
+    "collection": "Iqbal Al Amaal",
+    "purpose": [
+      "Forgiveness of Sins"
+    ],
+    "personalities": [
+      "Imam Ali (as)"
+    ],
+    "timing": {
+      "days": [],
+      "times": [
+        "Night-Eve"
+      ],
+      "events": [],
+      "dates": [
+        {
+          "month": "Shaban"
+        }
+      ]
+    },
+    "locations": [],
+    "pilgrimage": []
+  },
+  "_index_meta": {
+    "id": "munajat-shabaniyah",
+    "title": "Munajat Shabaniyah",
+    "description": "",
+    "tags": [],
+    "meta": {
+      "featured": false,
+      "type": "Munajat",
+      "collection": "Iqbal Al Amaal",
+      "purpose": [
+        "Forgiveness of Sins"
+      ],
+      "personalities": [
+        "Imam Ali (as)"
+      ],
+      "timing": {
+        "days": [],
+        "times": [
+          "Night-Eve"
+        ],
+        "events": [],
+        "dates": [
+          {
+            "month": "Shaban"
+          }
+        ]
+      },
+      "locations": [],
+      "pilgrimage": []
+    }
+  }
+}

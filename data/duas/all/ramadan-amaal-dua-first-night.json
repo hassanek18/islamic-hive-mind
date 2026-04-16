@@ -1,0 +1,122 @@
+{
+  "id": "ramadan-amaal-dua-first-night",
+  "title": "Amaal and Duas for 1st eve (before 1st Day) of the Ramadan Month",
+  "featured": false,
+  "relatedLinks": [
+    {
+      "text": "PDF (Iqbal al-amaal)",
+      "url": "https://www.duas.org/Ramadhan_mth_pdfs/1%20First%20Day%20and%20Night/Begin%20Ramadhan%20month%20from%20Iqbal%20ul%20Amaal.pdf"
+    },
+    {
+      "text": "PPT",
+      "url": "https://www.duas.org/ppt/ramppt/01_Night_Ramadan_Amaal_urdu.pptx"
+    },
+    {
+      "text": "PDF",
+      "url": "https://www.duas.org/pdfs/1st%20Night%20and%20Day%20of%20Ramadhan-duas.org.pdf"
+    }
+  ],
+  "duas": [
+    {
+      "type": "banner",
+      "smallTitle": "Welcoming the Month of Ramadan",
+      "mainTitle": "First Night / Eve of Ramadan Month",
+      "details": "O Allah! Make this moon as a faith and protection for us in it we are safe and sustenance is increased and the sick are cured. O Allah! By Your grace, grant us the power to fast, pray and recite the Quran in it. O Allah! Make it safe for us and from our side and grant us Your protection in this month.",
+      "subDetails": "",
+      "youtube": "https://youtu.be/_RCjMKBCrBk?si=iOa8C-Ot635Vjfst",
+      "buttonLink": "ramadan-dua-moonsighting.html",
+      "title": "First Night / Eve of Ramadan Month"
+    },
+    {
+      "type": "buttons",
+      "title": "Highly Recommended Duas",
+      "subtitle": "Highly Recommended Duas for the 1st night / eve of the month of Ramadan",
+      "buttons": [
+        {
+          "text": "Moonsighting Duas",
+          "subtext": "Duas to be recited when the moon of the month of Ramadan is sighted",
+          "color": "orange",
+          "link": "https://www.duas.org/ramadan-dua-moonsighting.html"
+        },
+        {
+          "text": "Dua by Imam Sadiq (as)",
+          "subtext": "Dua by Imam Jaf'ar as sadiq (as) for starting the month of Ramadan",
+          "color": "lime",
+          "link": "https://duas.org/ramadan-shaaban-dua-first-night.html"
+        },
+        {
+          "text": "Dua 44 - Sahifa Sajjadiyah",
+          "subtext": "Highly recommended dua from Sahifa al-sajjadiyah by Imam Sajjad (as)",
+          "color": "cyan",
+          "link": "https://www.duas.org/mobile/sahifasajjadia-dua44-coming-of-ramadhan.html"
+        }
+      ]
+    },
+    {
+      "type": "accordion",
+      "title": "Recommended Acts",
+      "subtitle": "Amaal on the 1st night / eve of the Holy month of Ramadan",
+      "items": [
+        {
+          "title": "Amaal / Acts",
+          "color": "emerald",
+          "content": "<b>Ghusl - Bath</b> <br> Perform a Ghusl / prescribed bath on the 1st night / eve of the holy month of Ramadan<br><hr><br><b>Recite Holy Quran</b><br>It is highly advisable to recite the Holy Qur'an very frequently at the first hours of the Month of Ramadhan.<br><hr><br><b>Ziyarat of Imam Husain (as)</b><br>It is highly recommended to visit the holy tomb of Imam al-Husayn (peace be upon him) so that the sins will be forgiven and the like of the reward of those who undertake the Hajj and the `Umrah in that year will be recorded for him.<br><hr><br>",
+          "subtitle": "Acts to perform on the 1st eve / night"
+        },
+        {
+          "title": "Salaat and Duas",
+          "color": "blue",
+          "content": "<b>Four Rakah</b><br>Offer a Four Rak`ah prayer reciting in each Rak`ah Surah of al-Fatihah and <b>Surah Tawheed 15 times</b><br><hr><br>\n<b>Two Rakah</b><br>Offer a two Rak`ah prayer reciting in each Rak`ah Surah of al-Fatihah and <b>Surah of al-An`am (No. 6)</b> and pray to Almighty Allah for <i>security against ailments</i><br><hr><br>\n<a href=\"https://duas.org/ramadan-first-10-short-duas.html\" class=\"group flex items-center justify-between px-3 py-2 bg-slate-50 dark:bg-slate-800 rounded-lg hover:bg-emerald-50 dark:hover:bg-slate-700 transition-colors mb-2\">\n    <span class=\"font-medium text-slate-700 dark:text-emerald-400 group-hover:text-emerald-700 dark:group-hover:text-slate-200\"><b>10 duas - 1st eve of Ramadan</b></span>\n    <svg class=\"w-4 h-4 text-slate-400 dark:text-emerald-400 group-hover:text-emerald-600 dark:group-hover:text-slate-500\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 5l7 7-7 7\"></path></svg>\n</a>",
+          "subtitle": "Collection of salaat / namaaz for the 1st eve of the month of Ramadan"
+        }
+      ]
+    },
+    {
+      "type": "buttons",
+      "title": "Daily Salah / Namaaz and Dua",
+      "subtitle": "Duas and Salaat / Namaaz for all nights in the holy month of Ramadan",
+      "buttons": [
+        {
+          "text": "Every night Dua",
+          "subtext": "Recite these duas on every night of the holy month of Ramadan",
+          "color": "red",
+          "link": "https://duas.org/ramadan-every-night-dua.html"
+        },
+        {
+          "text": "2 Rakah - Every night",
+          "subtext": "Offer this 2 rakah on every night of the holy month of Ramadan",
+          "color": "lime",
+          "link": "https://duas.org/ramadan-every-night-salat"
+        },
+        {
+          "text": "Recite Holy Quran",
+          "subtext": "It is highly advisable to recite the Holy Qur'an very frequently in the Month of Ramadhan.",
+          "color": "cyan",
+          "link": "https://quran.duas.org"
+        }
+      ]
+    },
+    {
+      "type": "link-button",
+      "buttons": [
+        {
+          "text": "Commencement of Holy Quran",
+          "color": "pink",
+          "link": "https://duas.org/start-end-quran-dua.html"
+        },
+        {
+          "text": "Jawshan Kabeer",
+          "color": "blue",
+          "link": "https://www.duas.org/mobile/ramadan-dua-jawshan-kabeer.html"
+        }
+      ]
+    }
+  ],
+  "_index_meta": {
+    "id": "ramadan-amaal-dua-first-night",
+    "title": "Amaal and Duas for 1st eve (before 1st Day) of the Ramadan Month",
+    "description": "",
+    "tags": [],
+    "meta": {}
+  }
+}

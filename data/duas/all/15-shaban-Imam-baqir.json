@@ -1,0 +1,154 @@
+{
+  "id": "15-shaban-Imam-baqir",
+  "title": "Salat recommended by Imam Mohammed Baqir (as)",
+  "featured": false,
+  "relatedLinks": [],
+  "duas": [
+    {
+      "type": "dua",
+      "id": "dua-1",
+      "title": "Salat recommended by Imam Mohammed Baqir (as)",
+      "description": "Reported by Abu-Yahya al-San`aniy, as well as other thirty trustworthy individuals, from Imam Muhammad al-Baqir (a.s) and Imam Ja`far al-Sadiq (a.s) as follows:<hr>\nOffer a <b>four Rak`ah</b> prayer in each Rak`ah recite the<br>\n<b>Surah of al-Fatihah </b>once<br>\nand <b>Surah of al-Tawheed</b> one hundred times.<hr>\nAfter accomplishment, you may say the following dua:\n",
+      "segments": [
+        {
+          "arabic": "اللّهُمَّ إنِّي إلَيْكَ فَقِيرٌ،",
+          "transliteration": "allahumma inni ilayka faqirun",
+          "translation": "O Allah: I am in need for You,"
+        },
+        {
+          "arabic": "وَمِنْ عَذَابِكَ خَائِفٌ مُسْتَجِيرٌ.",
+          "transliteration": "wa min `adhabika kha’ifun mustajirun",
+          "translation": "and I am fearful of You and seeking Your shelter against Your chastisement."
+        },
+        {
+          "arabic": "اللّهُمَّ لا تُبَدِّلِ اسْمِي،",
+          "transliteration": "allahumma la tubaddil ismi",
+          "translation": "O Allah: (please) do not erase my name,"
+        },
+        {
+          "arabic": "وَلا تُغَيِّرْ جِسْمِي،",
+          "transliteration": "wa la tughayyir jismi",
+          "translation": "and do not change my body,"
+        },
+        {
+          "arabic": "وَلا تَجْهَدْ بَلائِي،",
+          "transliteration": "wa la tajhad bala’y",
+          "translation": "and do not increase my ordeals,"
+        },
+        {
+          "arabic": "وَلا تُشْمِتْ بِي أَعْدَائِي،",
+          "transliteration": "wa la tushmit by a`da’y",
+          "translation": "and do not make my enemies rejoice at my misfortune."
+        },
+        {
+          "arabic": "أَعُوذُ بِعَفْوِكَ مِنْ عِقَابِكَ،",
+          "transliteration": "a`udhu bi`afwika min `iqabika",
+          "translation": "I resort to Your pardon against Your punishment,"
+        },
+        {
+          "arabic": "وَأَعُوذُ بِرَحْمَتِكَ مِنْ عَذَابِكَ،",
+          "transliteration": "wa a`udhu birahmatika min `adhabika",
+          "translation": "and I resort to Your mercy against Your chastisement,"
+        },
+        {
+          "arabic": "وَأَعُوذُ بِرِضَاكَ مِنْ سَخَطِكَ،",
+          "transliteration": "wa a`udhu biridaka min sakhatika",
+          "translation": "and I resort to Your pleasure against Your wrath,"
+        },
+        {
+          "arabic": "وَأَعُوذُ بِكَ مِنْكَ،",
+          "transliteration": "wa a`udhu bika minka",
+          "translation": "and I resort to You from You"
+        },
+        {
+          "arabic": "جَلَّ ثَنَاؤُكَ",
+          "transliteration": "jalla thanau´uka",
+          "translation": "Enormous be the praise of You"
+        },
+        {
+          "arabic": "أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ",
+          "transliteration": "anta kama athnayta `ala nafsika",
+          "translation": "You are as exactly as You have praised Yourself,"
+        },
+        {
+          "arabic": "وَفَوْقَ مَا يَقُولُ الْقَائِلُونَ.",
+          "transliteration": "wa fawqa ma yaqulu alqa’iluna",
+          "translation": "and above all that which is said about You."
+        }
+      ],
+      "audio": "https://mp3.duas.org/Shaban_amal/15shaban4rakatdua.mp3",
+      "youtube": "",
+      "reference": "",
+      "tags": [],
+      "meta": {
+        "featured": false,
+        "type": "",
+        "collection": "Iqbal Al Amaal",
+        "purpose": [
+          "Spiritual Elevation"
+        ],
+        "personalities": [
+          "Imam Muhammad Baqir (as)"
+        ],
+        "timing": {
+          "days": [],
+          "times": [],
+          "events": [
+            "15th Shaban"
+          ],
+          "dates": []
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    }
+  ],
+  "meta": {
+    "featured": false,
+    "type": "",
+    "collection": "Iqbal Al Amaal",
+    "purpose": [
+      "Spiritual Elevation"
+    ],
+    "personalities": [
+      "Imam Muhammad Baqir (as)"
+    ],
+    "timing": {
+      "days": [],
+      "times": [],
+      "events": [
+        "15th Shaban"
+      ],
+      "dates": []
+    },
+    "locations": [],
+    "pilgrimage": []
+  },
+  "_index_meta": {
+    "id": "15-shaban-Imam-baqir",
+    "title": "Salat recommended by Imam Mohammed Baqir (as)",
+    "description": "",
+    "tags": [],
+    "meta": {
+      "featured": false,
+      "type": "",
+      "collection": "Iqbal Al Amaal",
+      "purpose": [
+        "Spiritual Elevation"
+      ],
+      "personalities": [
+        "Imam Muhammad Baqir (as)"
+      ],
+      "timing": {
+        "days": [],
+        "times": [],
+        "events": [
+          "15th Shaban"
+        ],
+        "dates": []
+      },
+      "locations": [],
+      "pilgrimage": []
+    }
+  }
+}

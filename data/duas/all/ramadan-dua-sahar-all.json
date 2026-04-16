@@ -1,0 +1,93 @@
+{
+  "id": "ramadan-dua-sahar-all",
+  "title": "Dua to be recited at the time of dawn (Sahar) in the Month of Ramadan",
+  "featured": false,
+  "relatedLinks": [],
+  "duas": [
+    {
+      "type": "banner",
+      "smallTitle": "Dua-e-Sahar",
+      "mainTitle": "Duas to be recited at the time of Dawn (Sahar) in the Month of Ramadhan",
+      "details": "Recite the highly recommended Dua Abu Hamza Thumali (shumali) for forgiveness of sins, protection from evil, fostering humility, overcoming pride, and gaining spiritual closeness to Allah (swt)",
+      "subDetails": "",
+      "youtube": "https://youtu.be/ybJgmllnBS4",
+      "buttonLink": "https://duas.org/ramadan-dua-abu-hamza-thumali.html",
+      "title": "Duas to be recited at the time of Dawn (Sahar) in the Month of Ramadhan"
+    },
+    {
+      "type": "buttons",
+      "title": "Dua-e-Sahar",
+      "subtitle": "",
+      "buttons": [
+        {
+          "text": "Dua Baha",
+          "subtext": "",
+          "color": "red",
+          "link": "https://duas.org/ramadan-sahar-dua-baha.html"
+        },
+        {
+          "text": "Dua Ya Mafzai",
+          "subtext": "",
+          "color": "lime",
+          "link": "https://duas.org/ramadan-sahar-dua-ya-mafzai.html"
+        },
+        {
+          "text": "Dua Ya Uddati",
+          "subtext": "",
+          "color": "cyan",
+          "link": "https://duas.org/ramadan-sahar-dua-ya-uddati.html"
+        },
+        {
+          "text": "Dua Nabi Idris",
+          "subtext": "",
+          "color": "orange",
+          "link": "https://duas.org/ramadan-sahar-dua-nabi-idris.html"
+        },
+        {
+          "text": "Tasbeeh",
+          "subtext": "",
+          "color": "pink",
+          "link": "https://duas.org/ramadan-sahar-tasbeeh.html"
+        },
+        {
+          "text": "Dua Abu Hamza Thumali (shumali)",
+          "subtext": "",
+          "color": "indigo",
+          "link": "https://duas.org/ramadan-dua-abu-hamza-thumali.html"
+        }
+      ]
+    },
+    {
+      "type": "buttons",
+      "title": "Daily Salah / Namaaz and Dua",
+      "subtitle": "Duas and Salaat / Namaaz for all nights in the holy month of Ramadan",
+      "buttons": [
+        {
+          "text": "Every night Dua",
+          "subtext": "Recite these duas on every night of the holy month of Ramadan",
+          "color": "red",
+          "link": "https://duas.org/ramadan-every-night-dua.html"
+        },
+        {
+          "text": "2 Rakah - Every night",
+          "subtext": "Offer this 2 rakah on every night of the holy month of Ramadan",
+          "color": "lime",
+          "link": "https://duas.org/ramadan-every-night-salat"
+        },
+        {
+          "text": "Recite Holy Quran",
+          "subtext": "It is highly advisable to recite the Holy Qur'an very frequently in the Month of Ramadhan.",
+          "color": "cyan",
+          "link": "https://quran.duas.org"
+        }
+      ]
+    }
+  ],
+  "_index_meta": {
+    "id": "ramadan-dua-sahar-all",
+    "title": "Dua to be recited at the time of dawn (Sahar) in the Month of Ramadan",
+    "description": "",
+    "tags": [],
+    "meta": {}
+  }
+}

@@ -1,0 +1,783 @@
+{
+  "id": "ramadan-dua-after-every-salaat",
+  "title": "Duas to be recited after every obligatory salaat in the month of Ramadan",
+  "featured": false,
+  "relatedLinks": [
+    {
+      "text": "PDF",
+      "url": "https://www.duas.org/pdfs/Duas%20to%20be%20recited%20after%20every%20Obligatory%20Prayer%20-%20duas.org.pdf"
+    },
+    {
+      "text": "PPT (dua 1)",
+      "url": "https://www.duas.org/ppt/ramppt/08_Ram_Duas_Allahummar_Zuqni_Hajja_Baytikal_Haram_Ara_Eng_Transliteration%20urdu.pptx"
+    },
+    {
+      "text": "PPT (Dua 2)",
+      "url": "https://www.duas.org/ppt/ramppt/Ramadan%20ya%20ali%20o%20ya%20azeem.pptx"
+    },
+    {
+      "text": "PPT (Dua 3)",
+      "url": "https://www.duas.org/ppt/ramppt/09_Ram_Duas_Allahumma_Adkhil_Aala_Ahlil_Quburis_Surror_Ara_Eng_Urdu_Transliteration.pptx"
+    },
+    {
+      "text": "Commentary (Adhkil)",
+      "url": "https://www.islamicmobility.com/book-details/Manifestations%20%20of%20The%20All%20Merciful"
+    }
+  ],
+  "duas": [
+    {
+      "type": "dua",
+      "id": "dua-7",
+      "title": "Duas to be recited after all obligatory salaat in the month of Ramadan",
+      "description": "",
+      "arabic": "",
+      "transliteration": "",
+      "translation": "",
+      "segments": [],
+      "audio": "",
+      "youtube": "",
+      "reference": "",
+      "tags": [],
+      "meta": {
+        "featured": false,
+        "hasTiming": false,
+        "type": "",
+        "collection": "",
+        "purpose": [],
+        "personalities": [],
+        "timing": {
+          "days": [],
+          "times": [],
+          "events": [],
+          "dates": [
+            {
+              "month": "Ramadan"
+            }
+          ]
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    },
+    {
+      "type": "dua",
+      "id": "dua-1",
+      "title": "Ya Aliyo Ya Azeem",
+      "description": "It has been narrated to recite this dua after each and every obligatory prayer in the month of Ramadan:\n",
+      "segments": [
+        {
+          "arabic": "يَا عَلِيُّ يَا عَظِيمُ",
+          "transliteration": "ya `aliyyu ya `azimu",
+          "translation": "O Most High! O All-great!"
+        },
+        {
+          "arabic": "يَا غَفُورُ يَا رَحِيمُ",
+          "transliteration": "ya ghafuru ya rahimu",
+          "translation": "O All-forgiving! O All-merciful!"
+        },
+        {
+          "arabic": "أَنْتَ ٱلرَّبُّ ٱلْعَظِيمُ",
+          "transliteration": "anta alrrabbu al`azimu",
+          "translation": "You are the All-great Lord"
+        },
+        {
+          "arabic": "ٱلَّذِي لَيْسَ كَمِثْلِهِ شَيْءٌ",
+          "transliteration": "alladhi laysa kamithlihi shay`un",
+          "translation": "like Whom there is nothing,"
+        },
+        {
+          "arabic": "وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+          "transliteration": "wa huwa alssami`u albasiru",
+          "translation": "and He is the All-hearing, the All-aware."
+        },
+        {
+          "arabic": "وَهٰذَا شَهْرٌ عَظَّمْتَهُ وَكَرَّمْتَهُ",
+          "transliteration": "wa hadha shahrun `azzamtahu wa karramtahu",
+          "translation": "This is a month that You have glorified, ennobled,"
+        },
+        {
+          "arabic": "وَشَرَّفْتَهُ وَفَضَّلْتَهُ عَلَىٰ ٱلشُّهُورِ",
+          "transliteration": "wa sharraftahu wa faddaltahu `ala alshshuhuri",
+          "translation": "honored, and preferred to the other months."
+        },
+        {
+          "arabic": "وَهُوَ ٱلشَّهْرُ ٱلَّذِي فَرَضْتَ صِيَامَهُ عَلَيَّ",
+          "transliteration": "wa huwa alshsharhu alladhi faradta siyamahu `alayya",
+          "translation": "It is the month that You imposed upon me to observe fasting in it."
+        },
+        {
+          "arabic": "وَهُوَ شَهْرُ رَمَضَانَ ٱلَّذِي أَنْزَلْتَ فِيهِ الْقُرْآنَ",
+          "transliteration": "wa huwa shahru ramadana alladhi anzalta fihi alqur`ana",
+          "translation": "It is the month of Ramadan during which You revealed the Qur'an"
+        },
+        {
+          "arabic": "هُدَىً لِلنَّاسِ وَبَيِّنَاتٍ مِنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ",
+          "transliteration": "hudan linnasi wa bayyinatin min alhuda walfurqani",
+          "translation": "as guidance for people, clear proofs on true guidance, and distinction (between the right and the wrong)."
+        },
+        {
+          "arabic": "وَجَعَلْتَ فِيهِ لَيْلَةَ ٱلْقَدْرِ",
+          "transliteration": "wa ja`alta fihi laylata alqadri",
+          "translation": "You decided the Grand Night to be in it"
+        },
+        {
+          "arabic": "وَجَعَلْتَهَا خَيْراً مِنَ الفِ شَهْرٍ",
+          "transliteration": "wa ja`altaha khayran min alfi shahrin",
+          "translation": "and You have decided it to be more favorable that one thousand months."
+        },
+        {
+          "arabic": "فَيَا ذَا ٱلْمَنِّ وَلاَ يُمَنُّ عَلَيْكَ",
+          "transliteration": "faya dhalmanni wa la yumannu `alayka",
+          "translation": "So, O Lord of graces! None can ever do favor to You!"
+        },
+        {
+          "arabic": "مُنَّ عَلَيَّ بِفَكَاكِ رَقَبَتِي مِنَ ٱلنَّارِ فِي مَنْ تَمُنُّ عَلَيْهِ",
+          "transliteration": "munna `alayya bifakaki raqabati min alnnari fi man tamunnu `alayhi",
+          "translation": "please, do me a favor by releasing me from the Fire and by including me with those to whom You do this favor,"
+        },
+        {
+          "arabic": "وَأَدْخِلْنِي ٱلْجَنَّةَ",
+          "transliteration": "wa adkhilni aljannata",
+          "translation": "and allow me to enter Paradise,"
+        },
+        {
+          "arabic": "بِرَحْمَتِكَ يَا أَرْحَمَ ٱلرَّاحِمِينَ",
+          "transliteration": "birahmatika ya arhama alrrahimina",
+          "translation": "on account of Your mercy. O most Merciful of all those who show mercy!"
+        }
+      ],
+      "audio": "https://mp3.duas.org/Ramdhan%20Special/aliyu.mp3",
+      "youtube": "https://youtu.be/7lBIXXTm2uY",
+      "reference": "",
+      "tags": [],
+      "meta": {
+        "featured": false,
+        "hasTiming": false,
+        "type": "Supplication",
+        "collection": "",
+        "purpose": [
+          "Spiritual Elevation"
+        ],
+        "personalities": [],
+        "timing": {
+          "days": [],
+          "times": [
+            "Fajr",
+            "Zuhr",
+            "Asr",
+            "Maghrib",
+            "Isha"
+          ],
+          "events": [],
+          "dates": [
+            {
+              "month": "Ramadan"
+            }
+          ]
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    },
+    {
+      "type": "dua",
+      "id": "dua-2",
+      "title": "Allahumma Adhkil 'Ala",
+      "description": "In ‘al-Misbah’ and in ‘al-Balad al-Amin’, Shaykh al-Kaf`amiy, as well as Shaykh al-Shahid in ‘al-Majmu`ah’, have narrated that the Holy Prophet (peace be upon him and his family) said that one who says the following supplication after each obligatory prayer in Ramadan will have all his sins forgiven at the Resurrection Day:\n",
+      "segments": [
+        {
+          "arabic": "اَللَّهُمَّ أَدْخِلْ عَلَىٰ أَهْلِ ٱلْقُبُورِ ٱلسُّرُورَ",
+          "transliteration": "allahumma adkhil `ala ahli alquburi alssurur",
+          "translation": "O Allah, (please do) give pleasure to the inhabitants of graves (i.e. the dead)."
+        },
+        {
+          "arabic": "اَللَّهُمَّ أَغْنِ كُلَّ فَقِيرٍ",
+          "transliteration": "allahumma aghni kulla faqir",
+          "translation": "O Allah, (please do) enrich all the poor ."
+        },
+        {
+          "arabic": "اَللَّهُمَّ أَشْبِعْ كُلَّ جَائِعٍ",
+          "transliteration": "allahumma ashbi` kulla ja'i`in",
+          "translation": "O Allah, (please do) satisfy all hungry ones."
+        },
+        {
+          "arabic": "اَللَّهُمَّ ٱكْسُ كُلَّ عُرْيَانٍ",
+          "transliteration": "allahumma iksu kulla `uryan",
+          "translation": "O Allah, (please do) provide all the naked with clothes."
+        },
+        {
+          "arabic": "اَللَّهُمَّ ٱقْضِ دَيْنَ كُلِّ مَدِينٍ",
+          "transliteration": "allahumma iqdi dayna kulli madinin",
+          "translation": "O Allah, (please do) help all the debtors settle their debts."
+        },
+        {
+          "arabic": "اَللَّهُمَّ فَرِّجْ عَنْ كُلِّ مَكْرُوبٍ",
+          "transliteration": "allahumma farrij `an kulli makrub",
+          "translation": "O Allah, (please do) relieve all the aggrieved ones."
+        },
+        {
+          "arabic": "اَللَّهُمَّ رُدَّ كُلَّ غَرِيبٍ",
+          "transliteration": "allahumma rudda kulla gharib",
+          "translation": "O Allah, (please do) help all the strangers to return home."
+        },
+        {
+          "arabic": "اَللَّهُمَّ فُكَّ كُلَّ أَسِيرٍ",
+          "transliteration": "allahumma fukka kulla asir",
+          "translation": "O Allah, (please do) release all prisoners."
+        },
+        {
+          "arabic": "اَللَّهُمَّ أَصْلِحْ كُلَّ فَاسِدٍ مِنْ أُمُورِ ٱلْمُسْلِمِينَ",
+          "transliteration": "allahumma aslih kulla fasidin min umuri almuslimina",
+          "translation": "O Allah, (please do) rectify all the Muslims’ affairs that are wrong."
+        },
+        {
+          "arabic": "اَللَّهُمَّ ٱشْفِ كُلَّ مَرِيضٍ",
+          "transliteration": "allahumma ishfi kulla marid",
+          "translation": "O Allah, (please do) heal all the ailed ones."
+        },
+        {
+          "arabic": "اَللَّهُمَّ سُدَّ فَقْرَنَا بِغِنَاكَ",
+          "transliteration": "allahumma sudda faqrana bighinak",
+          "translation": "O Allah, (please do) fill our poverty with Your richness."
+        },
+        {
+          "arabic": "اَللَّهُمَّ غَيِّرْ سُوءَ حَالِنَا بِحُسْنِ حَالِكَ",
+          "transliteration": "allahumma ghayyir su'a halina bihusni halik",
+          "translation": "O Allah, (please do) change our ill manners through Your excellent manners."
+        },
+        {
+          "arabic": "اَللَّهُمَّ ٱقْضِ عَنَّا ٱلدَّيْنَ وَأَغْنِنَا مِنَ ٱلْفَقْرِ",
+          "transliteration": "allahumma iqdi `anna alddayna wa aghnina min alfaqr",
+          "translation": "O Allah, (please do) help us settle our debts and save us from poverty."
+        },
+        {
+          "arabic": "إِنَّكَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+          "transliteration": "innaka `ala kulli shay`in qadir",
+          "translation": "verily, You have power over all things."
+        }
+      ],
+      "audio": "https://mp3.duas.org/Ramdhan%20Special/adkhil1.mp3",
+      "youtube": "https://youtu.be/6apE5F2ulqQ",
+      "reference": "Kafami’s Misbah, 617, Balad, 222; thence in Mustadrak, vii, 447, b 14, h 8623/2. Bihar, xcv,120, b 6, h 4, from Shahid Awwal. ",
+      "tags": [],
+      "meta": {
+        "featured": false,
+        "hasTiming": false,
+        "type": "",
+        "collection": "",
+        "purpose": [
+          "Spiritual Elevation"
+        ],
+        "personalities": [],
+        "timing": {
+          "days": [],
+          "times": [
+            "Fajr",
+            "Zuhr",
+            "Asr",
+            "Maghrib",
+            "Isha"
+          ],
+          "events": [],
+          "dates": [
+            {
+              "month": "Ramadan"
+            }
+          ]
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    },
+    {
+      "type": "dua",
+      "id": "dua-3",
+      "title": "Allahumma Arzukni",
+      "description": "Sayyid Ibn Tawus has narrated that Imam Sadiq (peace be upon him) and Imam al-Kadhim (peace be upon him) have recommended the following is said after each and every obligatory prayer in the month of Ramadan:\n",
+      "segments": [
+        {
+          "arabic": "اَللَّهُمَّ ٱرْزُقْنِي حَجَّ بَيْتِكَ ٱلْحَرَامِ",
+          "transliteration": "allahumma irzuqni hajja baytika alharami",
+          "translation": "O Allah, (please) confer upon me with the grace of pilgrimage to Your Holy House"
+        },
+        {
+          "arabic": "فِي عَامِي هٰذَا وَفِي كُلِّ عَامٍ",
+          "transliteration": "fi `ami hadha wa fi kulli `amin",
+          "translation": "in this year and every year"
+        },
+        {
+          "arabic": "مَا أَبْقَيْتَنِي فِي يُسْرٍ مِنْكَ وَعَافِيَةٍ وَسَعَةِ رِزْقٍ",
+          "transliteration": "ma abqaytani fi yusrin minka wa `afiyatin wa sa`ati rizqin",
+          "translation": "as long as You keep me alive, with easiness, good health, and expansive sustenance from You."
+        },
+        {
+          "arabic": "وَلاَ تُخْلِنِي مِنْ تِلْكَ ٱلْمَوَاقِفِ ٱلْكَرِيمَةِ",
+          "transliteration": "wa la tukhlini min tilka almawaqifi alkarimati",
+          "translation": "Do not deprive me of these noble situations,"
+        },
+        {
+          "arabic": "وَٱلْمَشَاهِدِ ٱلشَّرِيفَةِ",
+          "transliteration": "walmashahidi alshsharifati",
+          "translation": "holy places,"
+        },
+        {
+          "arabic": "وَزِيَارَةِ قَبْرِ نَبِيِّكَ صَلَوَاتُكَ عَلَيْهِ وَآلِهِ",
+          "transliteration": "wa ziyarati qabri nabiyyika salawatuka `alayhi wa-alihi",
+          "translation": "and visiting the tomb of Your Prophet—may Your blessings be upon him and his Household."
+        },
+        {
+          "arabic": "وَفِي جَمِيعِ حَوَائِجِ ٱلدُّنْيَا وَٱلآخِرَةِ فَكُنْ لِي",
+          "transliteration": "wa fi jami`i hawa`iji alddunya wal-akhirati fakun li",
+          "translation": "(Please) stand for me in all of my needs for this worldly life and the Next World."
+        },
+        {
+          "arabic": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ فِي مَا تَقْضِي وَتُقَدِّرُ",
+          "transliteration": "allahumma inni as'aluka fi ma taqdi wa tuqaddiru",
+          "translation": "O Allah, I beseech You regarding that which You decide and determine"
+        },
+        {
+          "arabic": "مِنَ ٱلأَمْرِ ٱلْمَحْتُومِ فِي لَيْلَةِ ٱلْقَدْرِ",
+          "transliteration": "min al-amri almahtumi fi laylati alqadri",
+          "translation": "from the inevitable decisions that You make on the Grand Night—"
+        },
+        {
+          "arabic": "مِنَ ٱلْقَضَاءِ ٱلَّذِي لاَ يُرَدُّ وَلاَ يُبَدَّلُ",
+          "transliteration": "min alqadha`i alladhi la yuraddu wa la yubaddalu",
+          "translation": "decisions that are neither retreated nor altered—"
+        },
+        {
+          "arabic": "أَنْ تَكْتُبَنِي مِنْ حُجَّاجِ بَيْتِكَ ٱلْحَرَامِ",
+          "transliteration": "an taktubani min hujjaji baytika alharami",
+          "translation": "to include me with the pilgrims to Your Holy House"
+        },
+        {
+          "arabic": "ٱلْمَبْرُورِ حَجُّهُمُ",
+          "transliteration": "almabruri hajjuhum",
+          "translation": "whose pilgrimage is admitted by You,"
+        },
+        {
+          "arabic": "ٱلْمَشْكُورِ سَعْيُهُمُ",
+          "transliteration": "almashkuri sa`yuhum",
+          "translation": "whose efforts are thankfully accepted by You,"
+        },
+        {
+          "arabic": "ٱلْمَغْفُورِ ذُنُوبُهُمُ",
+          "transliteration": "almaghfuri dhunubuhum",
+          "translation": "whose sins are forgiven by You,"
+        },
+        {
+          "arabic": "ٱلْمُكَفَّرِ عَنْهُمْ سَيِّئَاتُهُمْ",
+          "transliteration": "almukaffari `anhum sayyi`atuhum",
+          "translation": "and whose offenses are pardoned by You.,"
+        },
+        {
+          "arabic": "وَٱجْعَلْ فِي مَا تَقْضِي وَتُقَدِّرُ",
+          "transliteration": "waj`al fi ma taqdi wa tuqaddiru",
+          "translation": "Within Your determined decisions,"
+        },
+        {
+          "arabic": "أَنْ تُطِيلَ عُمْرَي",
+          "transliteration": "an tutila `umri",
+          "translation": "please decide for me a long life,"
+        },
+        {
+          "arabic": "وَتُوَسِّعَ عَلَيَّ رِزْقِي",
+          "transliteration": "wa tuwassi`a `alayya rizqi",
+          "translation": "expansive sustenance,"
+        },
+        {
+          "arabic": "وَتُؤَدِّيَ عَنِّي أَمَانَتِي وَدَيْنِي",
+          "transliteration": "wa tu'addiya `anni amanati wa dayni",
+          "translation": "and help to fulfill my trusts and settle my debts."
+        },
+        {
+          "arabic": "آمِين رَبَّ ٱلْعَالَمِينَ",
+          "transliteration": "amina rabba al`alamina",
+          "translation": "Respond to me, O Lord of the worlds!"
+        }
+      ],
+      "audio": "https://mp3.duas.org/Ramdhan%20Special/zuqni.mp3",
+      "youtube": "https://youtu.be/qAUFGiiW184",
+      "reference": "",
+      "tags": [],
+      "meta": {
+        "featured": false,
+        "hasTiming": false,
+        "type": "",
+        "collection": "",
+        "purpose": [
+          "Spiritual Elevation"
+        ],
+        "personalities": [],
+        "timing": {
+          "days": [],
+          "times": [
+            "Fajr",
+            "Zuhr",
+            "Asr",
+            "Maghrib",
+            "Isha"
+          ],
+          "events": [],
+          "dates": [
+            {
+              "month": "Ramadan"
+            }
+          ]
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    },
+    {
+      "type": "dua",
+      "id": "dua-4",
+      "title": "Dua Hajj",
+      "description": "This supplication is known as ‘the Supplication of Hajj.’ Sayyid Ibn Tawus, in Iqbal, cites a report according to which Imam Jafar al-Sadiq (ca) prescribed its recitation after maghrib prayer during the nights of Ramadan.1 Kafcami says in Balad al-Amin that it is mustahab to recite it every day during the month of Ramadan as well as on the first night.\n2 Shaykh Mufid, in Muqnicah, sites a report according to which this supplication is meant particularly for the first night, following the maghrib prayer",
+      "segments": [
+        {
+          "arabic": "اَللَّهُمَّ إِنِّي بِكَ وَمِنْكَ أَطْلُبُ حَاجَتِي",
+          "transliteration": "allahumma inni bika wa minka atlubu hajati",
+          "translation": "O Allah, from You and by You, I beseech for settling my need."
+        },
+        {
+          "arabic": "وَمَنْ طَلَبَ حَاجَةً إِلَىٰ النَّاسِ",
+          "transliteration": "wa man talaba hajatan ila alnnasi",
+          "translation": "If others beg people for settling their needs,"
+        },
+        {
+          "arabic": "فَإِنِّي لاَ أَطْلُبُ حَاجَتِي إِلاَّ مِنْكَ",
+          "transliteration": "fa-inni la atlubu hajati illa minka",
+          "translation": "I ask none except You for settling my need;"
+        },
+        {
+          "arabic": "وَحْدَكَ لاَ شَرِيكَ لَكَ",
+          "transliteration": "wahdaka la sharika laka",
+          "translation": "from You alone, since You have no partner with You."
+        },
+        {
+          "arabic": "وَأَسْأَلُكَ بِفَضْلِكَ وَرِضْوَانِكَ",
+          "transliteration": "wa as'aluka bifadlika wa ridwanika",
+          "translation": "I thus implore You in the name of Your favor and Your pleasure,"
+        },
+        {
+          "arabic": "أَنْ تُصَلِّيَ عَلَىٰ مُحَمَّدٍ وَأَهْلِ بَيْتِهِ",
+          "transliteration": "an tusalliya `ala muhammadin wa ahli baytihi",
+          "translation": "to send blessings to Muhammad and his Household"
+        },
+        {
+          "arabic": "وَأَنْ تَجْعَلَ لِي فِي عَامِي هٰذَا إِلَىٰ بَيْتِكَ ٱلْحَرَامِ سَبِيلاً",
+          "transliteration": "wa an taj`ala li fi `ami hadha ila baytika alharami sabilan",
+          "translation": "and to choose for me a way to Your Holy House this year:"
+        },
+        {
+          "arabic": "حِجَّةً مَبْرُورَةً",
+          "transliteration": "hijjatan mabruratan",
+          "translation": "a pilgrimage that is admitted,"
+        },
+        {
+          "arabic": "مُتَقَبَّلَةً زَاكِيةً",
+          "transliteration": "mutaqabbalatan zakiyatan",
+          "translation": "accepted, pure,"
+        },
+        {
+          "arabic": "خَالِصَةً لَكَ",
+          "transliteration": "khalisatan laka",
+          "translation": "and sincerely intended for You"
+        },
+        {
+          "arabic": "تَقَرُّ بِهَا عَيْنِي",
+          "transliteration": "taqarru biha `ayni",
+          "translation": "by which You delight me"
+        },
+        {
+          "arabic": "وَتَرْفَعُ بِهَا دَرَجَتِي",
+          "transliteration": "wa tarfa`u biha darajati",
+          "translation": "and raise my rank with You."
+        },
+        {
+          "arabic": "وَتَرْزُقَنِي أَنْ أَغُضَّ بَصَرِي",
+          "transliteration": "wa tarzuqani an aghudda basari",
+          "translation": "Confer upon me with the grace of making me cast my sight down (against what is illegal for me to look at),"
+        },
+        {
+          "arabic": "وَأَنْ أَحْفَظَ فَرْجِي",
+          "transliteration": "wa an ahfaza farji",
+          "translation": "making me act chastely,"
+        },
+        {
+          "arabic": "وَأَنْ أَكُفَّ بِهَا عَنْ جَمِيعِ مَحَارِمِكَ",
+          "transliteration": "wa an akuffa biha `an jami`i maharimika",
+          "translation": "and making me stop committing any deed that You have deemed unlawful"
+        },
+        {
+          "arabic": "حَتَّىٰ لاَ يَكُونَ شَيْءٌ آثَرَ عِنْدِي مِنْ طَاعَتِكَ وَخَشْيَتِكَ",
+          "transliteration": "hatta la yakuna shay`un athara `indi min ta`atika wa khashyatika",
+          "translation": "so that nothing will be more preferred in my sight than obedience to You, fear of You,"
+        },
+        {
+          "arabic": "وَٱلْعَمَلِ بِمَا أَحْبَبْتَ",
+          "transliteration": "wal`amali bima ahbabta",
+          "translation": "doing all that which You love,"
+        },
+        {
+          "arabic": "وَٱلتَّرْكِ لِمَا كَرِهْتَ وَنَهَيْتَ عَنْهُ",
+          "transliteration": "walttarki lima karihta wa nahayta `anhu",
+          "translation": "and avoiding all that which You have detested and warned against."
+        },
+        {
+          "arabic": "وَٱجْعَلْ ذٰلِكَ فِي يُسْرٍ وَيَسَارٍ",
+          "transliteration": "waj`al dhalika fi yusrin wa yasarin",
+          "translation": "(Please) make all that take place with easiness, lenience,"
+        },
+        {
+          "arabic": "وَعَافِيَةٍ وَمَا أَنْعَمْتَ بِهِ عَلَيَّ",
+          "transliteration": "wa `afiyatin wa ma an`amta bihi `alayya",
+          "translation": "and good health as well as the grace that You have bestowed upon me."
+        },
+        {
+          "arabic": "وَأَسْأَلُكَ أَنْ تَجْعَلَ وَفَاتِي قَتْلاً فِي سَبِيلِكَ",
+          "transliteration": "wa as'aluka an taj`ala wafati qatlan fi sabilika",
+          "translation": "I beseech You to cause me to die as martyr for Your sake,"
+        },
+        {
+          "arabic": "تَحْتَ رَايَةِ نَبِيِّكَ مَعَ أَوْلِيَائِكَ",
+          "transliteration": "tahta rayati nabiyyika ma`a awliya'ika",
+          "translation": "under the pennon of Your Prophet and in the line of Your intimate servants."
+        },
+        {
+          "arabic": "وَأَسْأَلُكَ أَنْ تَقْتُلَ بِي أَعْدَاءَكَ وَأَعْدَاءَ رَسُولِكَ",
+          "transliteration": "wa as'aluka an taqtula bi a`da'aka wa a`da'a rasulika",
+          "translation": "I ask You to make me a means of killing Your enemies and the enemies of Your Messenger."
+        },
+        {
+          "arabic": "وَأَسْأَلُكَ أَنْ تُكْرِمَنِي بِهَوَانِ مَنْ شِئْتَ مِنْ خَلْقِكَ",
+          "transliteration": "wa as'aluka an tukrimani bihawani man shi'ta min khalqika",
+          "translation": "I ask You to honor me through humiliation by any one of Your created beings that You choose,"
+        },
+        {
+          "arabic": "وَلاَ تُهِنِّي بِكَرَامَةِ أَحَدٍ مِنْ أَوْلِيَائِكَ",
+          "transliteration": "wa la tuhinni bikaramati ahadin min awliya'ika",
+          "translation": "and (O Allah) don’t humiliate me by giving me honor that will hurt (harm or derogate) any of your loved ones"
+        },
+        {
+          "arabic": "اَللَّهُمَّ ٱجْعَلْ لِي مَعَ ٱلرَّسُولِ سَبِيلاً",
+          "transliteration": "allahumma ij`al li ma`a alrrasuli sabilan",
+          "translation": "O Allah, find me a way with the Messenger."
+        },
+        {
+          "arabic": "حَسْبِيَ ٱللَّهُ مَا شَاءَ ٱللَّهُ",
+          "transliteration": "hasbiya allahu ma sha'a allahu",
+          "translation": "Allah is Sufficient unto me! Only that which Allah wants shall take place."
+        }
+      ],
+      "audio": "https://mp3.duas.org/Ramdhan%20Special/Dua%20Hajj%20Abdul%20Hayy.mp3",
+      "youtube": "https://youtu.be/87z77siJmUM",
+      "reference": "1 Kafi, iv, 74, h 6, thence in Wasa’il, x, 325, b 21, h 13519. Muqnicah, 314, b 10. Iqbal, 24, 39, thence in Bihar, xciv, 376, b 3, h 1, and Mustadrak, viii, 57, b 40, h 9064/2. Kafcami’s Misbah, 616, thence in Mustadrak, vii, 446, b 14, h 8622/1. Bihar, xcv, 1, b 5, h 1; xcvi, 27, b 3, h 3.",
+      "tags": [],
+      "meta": {
+        "featured": false,
+        "hasTiming": false,
+        "type": "",
+        "collection": "",
+        "purpose": [],
+        "personalities": [],
+        "timing": {
+          "days": [],
+          "times": [],
+          "events": [],
+          "dates": []
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    },
+    {
+      "type": "dua",
+      "id": "dua-5",
+      "title": "During the last 10 Days",
+      "description": "In ’al-Balad al-Amin’, al-Kaf`amiy has mentioned that Imam Ja`far al-Sadiq (a.s) used to say the following after Salat during the last 10 days of the month of Ramadhan:\n",
+      "segments": [
+        {
+          "arabic": "اللّهُمّ أَدِّ عَنَّا حَقَّ مَا مَضَى مِنْ شَهْرِ رَمَضَانَ،",
+          "transliteration": "allahumma addi `anna haqqa ma madha min shahri ramadhana",
+          "translation": "O Allah: (please) help us fulfill the right of the past days of the month of Ramadhan,"
+        },
+        {
+          "arabic": "وَاغْفِرْ لَنَا تَقْصِيرَنَا فِيهِ",
+          "transliteration": "waghfir lana taqsirana fihi",
+          "translation": "And forgive us our shortcoming during it,"
+        },
+        {
+          "arabic": "وَتَسَلَّمْهُ مِنَّا مَقْبُولاً،",
+          "transliteration": "wa tasallmhu minna maqbulan",
+          "translation": "And receive it from us with acceptance,"
+        },
+        {
+          "arabic": "وَلا تُؤَاخِذْنَا بِإِسْرَافِنَا عَلَى أَنْفُسِنَا،",
+          "transliteration": "wa la tu´akhidhna bi-israfina `ala anfusina",
+          "translation": "And do not blame us for our extravagance in our affairs,"
+        },
+        {
+          "arabic": "وَاجْعَلْنَا مِنَ المَرْحُومِينَ",
+          "transliteration": "waj`alna mina almarhumina",
+          "translation": "And include us with those upon whom mercy is had,"
+        },
+        {
+          "arabic": "وَلا تَجْعَلْنَا مِنَ المَحْرُومِينَ.",
+          "transliteration": "wa la taj`alna mina almahrumina",
+          "translation": "And do not include us with those deprived (of the awards of Ramadhan)."
+        }
+      ],
+      "audio": "https://mp3.duas.org/Ramdhan_daily/ramadan-last10-2.mp3",
+      "youtube": "https://youtu.be/7YyVyE_uCpY",
+      "reference": "",
+      "tags": [],
+      "meta": {
+        "featured": false,
+        "hasTiming": false,
+        "type": "Supplication",
+        "collection": "",
+        "purpose": [],
+        "personalities": [],
+        "timing": {
+          "days": [],
+          "times": [
+            "Fajr",
+            "Zuhr",
+            "Asr",
+            "Maghrib",
+            "Isha"
+          ],
+          "events": [],
+          "dates": [
+            {
+              "month": "Ramadan"
+            }
+          ]
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    },
+    {
+      "type": "dua",
+      "id": "dua-6",
+      "title": "Dua after Nafilah Salaat",
+      "description": "The shortest supplications for in between the units of the recommended prayers for the month of Ramadhan may be for those who have an excuse and wish to recite short supplications, or they may be a part of longer supplication. It has been narrated, “Use the following supplications.”\nAli ibn Abdul Wahid narrated the following through a chain of documents on the authority of Raja ibn Yahya ibn Saman: “We obtained the following supplications from the house of our master Abi Muhammad Al-Hassan ibn Ali Al-Askari (MGB) in the year 255 A.H.” He reports the complete Al-Risal-i-al-Maqnea in its complete form and suggests that the following supplications be used in between each two units of the recommended prayers of the month of Ramadhan",
+      "segments": [
+        {
+          "arabic": "اَللَّهُمَّ اجْعَلْ فِيمَا تَقْضِي وَتُقَدِّرُ مِنَ الأَمْرِ الْعَظِيمِ الْمَحْتُوْمِ",
+          "transliteration": "Allāhumma ij‘al fīmā taqḍī wa tuqaddiru min al-amri al-‘aẓīmi al-maḥtūm,",
+          "translation": "O Allah, make it among what You decree and determine of the great, concealed affair,"
+        },
+        {
+          "arabic": "وَفِيمَا تَفْرُقُ مِنَ الأَمْرِ الْحَكِيمِ فِي لَيْلَةِ الْقَدْرِ",
+          "transliteration": "Wa fīmā tafruqu min al-amri al-ḥakīmi fī laylati al-qadr,",
+          "translation": "And among what You distribute of the wise affair on the Night of Decree,"
+        },
+        {
+          "arabic": "أَنْ تَجْعَلَنِي مِنْ حُجَّاجِ بَيْتِكَ الْحَرَامِ الْمَبْرُورِ حَجُّهُمُ الْمَشْكُورِ سَعْيُهُمُ الْمَغْفُورِ ذَنْبُهُم",
+          "transliteration": "An taj‘alani min ḥujjāji baytika al-ḥarāmi al-mabrūri ḥajjuhum al-mashkūri sa‘yuhum al-maghfūri dhanbuhum,",
+          "translation": "That You make me among the pilgrims to Your Sacred House, whose pilgrimage is accepted, whose effort is appreciated, and whose sins are forgiven."
+        },
+        {
+          "arabic": "وَأَسْأَلُكَ أَنْ تُطِيلَ عُمْرِي فِي طَاعَتِكَ وَتُوَسِّعَ لِي فِي رِزْقِي",
+          "transliteration": "Wa as’aluka an tuṭīla ‘umrī fī ṭā‘atika wa tuwassi‘a lī fī rizqī,",
+          "translation": "And I ask You to prolong my life in obedience to You and to expand my sustenance,"
+        },
+        {
+          "arabic": "يَا أَرْحَمَ الرَّاحِمِينَ.",
+          "transliteration": "Yā arḥama al-rāḥimīn.",
+          "translation": "O Most Merciful of the merciful."
+        }
+      ],
+      "audio": "",
+      "youtube": "",
+      "reference": "",
+      "tags": [],
+      "meta": {
+        "featured": false,
+        "hasTiming": false,
+        "type": "",
+        "collection": "",
+        "purpose": [],
+        "personalities": [],
+        "timing": {
+          "days": [],
+          "times": [],
+          "events": [],
+          "dates": [
+            {
+              "month": "Ramadan"
+            }
+          ]
+        },
+        "locations": [],
+        "pilgrimage": []
+      }
+    }
+  ],
+  "meta": {
+    "featured": false,
+    "hasTiming": false,
+    "type": "Supplication",
+    "collection": "",
+    "purpose": [
+      "Spiritual Elevation"
+    ],
+    "personalities": [],
+    "timing": {
+      "days": [],
+      "times": [
+        "Fajr",
+        "Zuhr",
+        "Asr",
+        "Maghrib",
+        "Isha"
+      ],
+      "events": [],
+      "dates": [
+        {
+          "month": "Ramadan"
+        }
+      ]
+    },
+    "locations": [],
+    "pilgrimage": []
+  },
+  "_index_meta": {
+    "id": "ramadan-dua-after-every-salaat",
+    "title": "Duas to be recited after every obligatory salaat in the month of Ramadan",
+    "description": "",
+    "tags": [],
+    "meta": {
+      "featured": false,
+      "hasTiming": false,
+      "type": "Supplication",
+      "collection": "",
+      "purpose": [
+        "Spiritual Elevation"
+      ],
+      "personalities": [],
+      "timing": {
+        "days": [],
+        "times": [
+          "Fajr",
+          "Zuhr",
+          "Asr",
+          "Maghrib",
+          "Isha"
+        ],
+        "events": [],
+        "dates": [
+          {
+            "month": "Ramadan"
+          }
+        ]
+      },
+      "locations": [],
+      "pilgrimage": []
+    }
+  }
+}
